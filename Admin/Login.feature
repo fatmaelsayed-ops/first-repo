@@ -43,6 +43,15 @@ And I should see the main navigation sidebar
  Then I should remain on the login page
  And I should see an error message "Invalid email or password"
 
+  @admin @auth @negative
+ Scenario: Failed login with empty password field
+ Given I am on the admin login page at "admin.development.qawafel.dev/login"
+ When I enter "user@qawafel.sa" in the "Email" field
+ And I leave the "Password" field empty
+ And I click the "login" button
+ Then I should remain on the login page
+ And I should see a validation message "Password is required"
+
  @admin @smoke
  Feature: Admin dashboard logout and relogin
  As an admin i want to logout from current user and login with another user
