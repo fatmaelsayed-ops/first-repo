@@ -25,18 +25,3 @@ And the page title should contain "orders"
 And I should see the main navigation sidebar
 
 
-@admin @auth @smoke 
-Feature  Admin Dashboard login 
-As an admin use 
-I want to log in to the Qawafel admin dashboard 
-So that I can mange the platform 
-Scenario:Succesful login with valid credentials
-Given I am on the admin login page at "admin.development.qawafel.dev/login"
-And I can see the Qawafel logo and the haeding "Welcome to Qawafel admin dashboard"
-when I enter "user@qawafel.sa" in the "Email" field 
-And I enter "valid password" in the "Password" field 
-And I click the "login" button 
-Then I should be redirected to the orders page at "/orders/list"
-And the page title should contain "orders"
-And I should see the main navigation sidebar
- 
