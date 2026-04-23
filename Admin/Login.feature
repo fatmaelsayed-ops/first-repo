@@ -35,3 +35,4 @@ And I should see the main navigation sidebar
  and i enter the new user credentials in the email , password fields
  when i enter "ahmed@qawafel.sa" , "Ahmed@12345"
  then the system show a validation message "credentials are not correct"
+ and no successful login happen
