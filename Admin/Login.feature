@@ -24,3 +24,14 @@ Then I should be redirected to the orders page at "/orders/list"
 And the page title should contain "orders"
 And I should see the main navigation sidebar
  
+
+ 
+ @admin @smoke
+ Feature: Admin dashboard logout and relogin
+ As an admin i want to logout from current user and login with another user
+ Given admin current user name appears on the sidebar
+ when i click on logout icon
+ then i should be on the login page
+ and i enter the new user credentials in the email , password fields
+ when i enter "ahmed@qawafel.sa" , "Ahmed@12345"
+ then the system show a validation message "credentials are not correct"
