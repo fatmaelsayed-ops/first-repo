@@ -24,4 +24,41 @@ Then I should be redirected to the orders page at "/orders/list"
 And the page title should contain "orders"
 And I should see the main navigation sidebar
 
+  @admin @auth @positive
+ Scenario: Successful login redirects to dashboard with user info visible
+ Given I am on the admin login page at "admin.development.qawafel.dev/login"
+ When I enter "admin@qawafel.sa" in the "Email" field
+ And I enter "Admin@12345" in the "Password" field
+ And I click the "login" button
+ Then I should be redirected to the dashboard page
+ And I should see the admin username displayed in the sidebar
+ And the session should remain active
+
+  @admin @auth @negative
+ Scenario: Failed login with invalid credentials
+ Given I am on the admin login page at "admin.development.qawafel.dev/login"
+ When I enter "invalid@qawafel.sa" in the "Email" field
+ And I enter "wrongpassword" in the "Password" field
+ And I click the "login" button
+ Then I should remain on the login page
+ And I should see an error message "Invalid email or password"
+
+  @admin @auth @negative
+ Scenario: Failed login with empty password field
+ Given I am on the admin login page at "admin.development.qawafel.dev/login"
+ When I enter "user@qawafel.sa" in the "Email" field
+ And I leave the "Password" field empty
+ And I click the "login" button
+ Then I should remain on the login page
+ And I should see a validation message "Password is required"
+
+ @admin @smoke
+ Feature: Admin dashboard logout and relogin
+ As an admin i want to logout from current user and login with another user
+ Given admin current user name appears on the sidebar
+ when i click on logout icon
+ then i should be on the login page
+ and i enter the new user credentials in the email , password fields
+ when i enter "ahmed@qawafel.sa" , "Ahmed@12345"
+ Then the system show a validation message "credentials are not correct"
 
