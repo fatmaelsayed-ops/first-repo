@@ -1,0 +1,318 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - main [ref=e5]:
+        - generic [ref=e7]:
+          - button "99+" [ref=e60] [cursor=pointer]:
+            - generic [ref=e9]:
+              - img [ref=e10]
+              - superscript [ref=e61]: 99+
+          - button [ref=e12] [cursor=pointer]:
+            - img [ref=e14]
+          - link "New" [ref=e16] [cursor=pointer]:
+            - /url: /release-notes
+            - generic [ref=e17]: New
+            - img [ref=e18]
+          - button "العربية" [ref=e42] [cursor=pointer]
+          - button "Kan Kan riyadh" [ref=e44] [cursor=pointer]:
+            - generic [ref=e45]:
+              - generic [ref=e49]: Kan Kan riyadh
+              - img [ref=e51]
+        - generic [ref=e479]:
+          - generic [ref=e480]:
+            - generic [ref=e482]:
+              - img [ref=e484]
+              - link "Quotations" [ref=e486] [cursor=pointer]:
+                - /url: /procurement/quotations
+              - generic [ref=e487]: Add Quotation
+            - heading "Add Quotation" [level=1] [ref=e489]
+          - generic [ref=e493]:
+            - generic [ref=e494]:
+              - generic [ref=e496]:
+                - img [ref=e499]
+                - generic [ref=e501]: Quotation by
+              - generic [ref=e507]:
+                - generic [ref=e508]: Qawafel Marketing Company
+                - generic [ref=e509]:
+                  - generic [ref=e510]:
+                    - generic [ref=e511]:
+                      - generic [ref=e512]: "CR Number:"
+                      - generic [ref=e513]: "1155665566"
+                    - generic [ref=e514]:
+                      - generic [ref=e515]: "Unified Number:"
+                      - generic [ref=e516]: "-"
+                    - generic [ref=e517]:
+                      - generic [ref=e518]: "Tax number:"
+                      - generic [ref=e519]: "7878"
+                  - generic [ref=e520]:
+                    - generic [ref=e521]:
+                      - generic [ref=e522]: "Email Address:"
+                      - generic [ref=e523]: aymansamir1312@gmail.com
+                    - generic [ref=e524]:
+                      - generic [ref=e525]: "Phone Number:"
+                      - generic [ref=e526]: "555107447"
+                    - generic [ref=e527]:
+                      - generic [ref=e528]: "Address:"
+                      - generic [ref=e529]: Saudi Arabia , Ad Diriyah
+            - generic [ref=e530]:
+              - generic [ref=e532]:
+                - img [ref=e535]
+                - generic [ref=e537]: Quotation To
+              - generic [ref=e538]:
+                - generic [ref=e540]:
+                  - generic [ref=e541]: Legal company name
+                  - generic [ref=e542]:
+                    - log [ref=e544]: option , selected.
+                    - generic [ref=e545]:
+                      - generic [ref=e546]:
+                        - generic [ref=e831]:
+                          - img [ref=e834]
+                          - generic [ref=e836]: new buyer
+                        - combobox [active] [ref=e549]
+                      - img [ref=e552]
+                - generic [ref=e837]:
+                  - generic [ref=e838]:
+                    - generic [ref=e839]:
+                      - generic [ref=e840]: CR Number
+                      - textbox "CR Number" [disabled] [ref=e842]: "5677787654"
+                    - generic [ref=e843]:
+                      - generic [ref=e844]: Unified Number
+                      - textbox "Unified Number" [disabled] [ref=e846]
+                    - generic [ref=e847]:
+                      - generic [ref=e848]: Tax number
+                      - textbox "Tax number" [disabled] [ref=e850]
+                    - generic [ref=e851]:
+                      - generic [ref=e852]: VAT Account Number
+                      - textbox "VAT Account Number" [disabled] [ref=e854]
+                    - generic [ref=e855]:
+                      - generic [ref=e856]: Email Address
+                      - textbox "Email Address" [disabled] [ref=e858]: jbvibono@yvcyu.com
+                    - generic [ref=e859]:
+                      - generic [ref=e860]: Phone Number
+                      - generic [ref=e861]:
+                        - generic [ref=e863]:
+                          - img [ref=e865]
+                          - text: "+966"
+                        - textbox "Phone Number" [disabled] [ref=e899]: "565553456"
+                  - generic [ref=e900]:
+                    - generic [ref=e901]: Address
+                    - textbox "Address" [disabled] [ref=e903]: خىخىخ
+                  - generic [ref=e904]:
+                    - generic [ref=e905]:
+                      - generic [ref=e906]: City
+                      - textbox "City" [disabled] [ref=e908]: مكة المكرمة
+                    - generic [ref=e909]:
+                      - generic [ref=e910]: District
+                      - textbox "District" [disabled] [ref=e912]: Misfalah
+                    - generic [ref=e913]:
+                      - generic [ref=e914]: Country
+                      - textbox "Country" [disabled] [ref=e916]: Saudi Arabia
+                    - generic [ref=e917]:
+                      - generic [ref=e918]: Postal code
+                      - textbox "Postal code" [disabled] [ref=e920]: "55555"
+            - generic [ref=e554]:
+              - generic [ref=e556]:
+                - img [ref=e559]
+                - generic [ref=e561]: Quotation Information
+              - generic [ref=e563]:
+                - generic [ref=e564]:
+                  - generic [ref=e565]: Issue Date
+                  - generic [ref=e566]:
+                    - img [ref=e567]
+                    - textbox [ref=e571]: 2026-04-20
+                - generic [ref=e573]:
+                  - generic [ref=e574]: Payment term
+                  - generic [ref=e575]:
+                    - log [ref=e577]
+                    - generic [ref=e578]:
+                      - generic [ref=e579]:
+                        - generic [ref=e580]: Please select payment term
+                        - combobox [ref=e582]
+                      - img [ref=e585]
+                - generic [ref=e587]:
+                  - generic [ref=e588]:
+                    - text: Purchase order number
+                    - generic [ref=e589]: (Optional)
+                  - generic [ref=e590]:
+                    - log [ref=e592]
+                    - generic [ref=e593]:
+                      - generic [ref=e594]:
+                        - generic [ref=e595]: Select purchase order
+                        - combobox [ref=e597]
+                      - img [ref=e600]
+                - generic [ref=e602]:
+                  - generic [ref=e603]:
+                    - text: Reference number
+                    - generic [ref=e604]: (Optional)
+                  - textbox "Reference number (Optional)" [ref=e606]:
+                    - /placeholder: Enter reference number
+            - generic [ref=e607]:
+              - generic [ref=e608]:
+                - generic [ref=e610]:
+                  - img [ref=e613]
+                  - generic [ref=e615]: Products
+                - generic [ref=e617]:
+                  - generic [ref=e618]:
+                    - generic [ref=e622]:
+                      - img [ref=e624]
+                      - textbox "Search product" [ref=e626]
+                    - button "Browse Products" [ref=e627] [cursor=pointer]:
+                      - paragraph [ref=e628]: Browse Products
+                  - generic [ref=e629]: Select product to add them to the quotation
+              - generic [ref=e630]: Select at least one product
+            - generic [ref=e631]:
+              - generic [ref=e633]:
+                - img [ref=e636]
+                - generic [ref=e638]: Quotation Summary
+              - generic [ref=e641]:
+                - generic [ref=e642]:
+                  - text: Total gross amount
+                  - generic [ref=e643]:
+                    - generic [ref=e644]: "0"
+                    - generic [ref=e645]: ﷼
+                - generic [ref=e646]:
+                  - text: Discount amount
+                  - generic [ref=e647]:
+                    - generic [ref=e648]: "0"
+                    - generic [ref=e649]: ﷼
+                - generic [ref=e650]:
+                  - text: Total amount (Excluding VAT)
+                  - generic [ref=e651]:
+                    - generic [ref=e652]: "0"
+                    - generic [ref=e653]: ﷼
+                - generic [ref=e654]:
+                  - text: VAT amount
+                  - generic [ref=e655]:
+                    - generic [ref=e656]: "0"
+                    - generic [ref=e657]: ﷼
+                - generic [ref=e658]:
+                  - text: Total invoice amount
+                  - generic [ref=e659]:
+                    - generic [ref=e660]: "0"
+                    - generic [ref=e661]: ﷼
+                - generic [ref=e662]:
+                  - text: Net payable amount
+                  - generic [ref=e663]:
+                    - generic [ref=e664]: "0"
+                    - generic [ref=e665]: ﷼
+            - generic [ref=e666]:
+              - generic [ref=e668]:
+                - img [ref=e671]
+                - generic [ref=e673]: Additional information
+              - generic [ref=e675]:
+                - generic [ref=e678]:
+                  - generic [ref=e679]: Notes/memo (optional)
+                  - textbox "Enter notes here ..." [ref=e680]
+                - generic [ref=e681]:
+                  - generic [ref=e682]: Attach files to quotation (optional)
+                  - generic [ref=e684]:
+                    - img
+                    - generic [ref=e685] [cursor=pointer]:
+                      - img [ref=e686]
+                      - paragraph [ref=e690]:
+                        - generic [ref=e691]:
+                          - generic [ref=e692]: Click to upload
+                          - text: or drag and drop
+                      - generic [ref=e693]: PDF, PNG, JPEG, or JPG (max. 800x400px)
+                      - button "Choose File" [ref=e694]
+              - generic [ref=e696]:
+                - button "Save as draft" [ref=e697] [cursor=pointer]:
+                  - paragraph [ref=e698]: Save as draft
+                - button "Add Quotation" [ref=e699] [cursor=pointer]:
+                  - paragraph [ref=e700]: Add Quotation
+      - generic [ref=e352]:
+        - generic [ref=e353]:
+          - button "Collapse sidebar" [ref=e354] [cursor=pointer]:
+            - img [ref=e355]
+          - link [ref=e358] [cursor=pointer]:
+            - /url: /
+            - img [ref=e359]
+        - navigation [ref=e362]:
+          - link "Home" [ref=e364] [cursor=pointer]:
+            - /url: /home
+            - img [ref=e365]
+            - generic [ref=e367]: Home
+          - generic [ref=e368]:
+            - generic [ref=e369] [cursor=pointer]:
+              - img [ref=e370]
+              - generic [ref=e372]: Sell
+              - img [ref=e373]
+            - generic [ref=e376]:
+              - link "Orders" [ref=e379] [cursor=pointer]:
+                - /url: /orders/marketplace/all
+                - generic [ref=e380]: Orders
+              - link "Quotations" [ref=e383] [cursor=pointer]:
+                - /url: /procurement/quotations
+                - generic [ref=e384]: Quotations
+              - link "Invoices" [ref=e387] [cursor=pointer]:
+                - /url: /invoices
+                - generic [ref=e388]: Invoices
+              - link "Credit Notes" [ref=e391] [cursor=pointer]:
+                - /url: /procurement/credit-notes
+                - generic [ref=e392]: Credit Notes
+              - link "Buyers" [ref=e395] [cursor=pointer]:
+                - /url: /customers
+                - generic [ref=e396]: Buyers
+              - link "Products" [ref=e399] [cursor=pointer]:
+                - /url: /products
+                - generic [ref=e400]: Products
+              - link "Discounts" [ref=e403] [cursor=pointer]:
+                - /url: /discounts
+                - generic [ref=e404]: Discounts
+              - link "Reviews" [ref=e407] [cursor=pointer]:
+                - /url: /reviews
+                - generic [ref=e408]: Reviews
+              - link "Buyer complaints" [ref=e411] [cursor=pointer]:
+                - /url: /complaints
+                - generic [ref=e412]: Buyer complaints
+          - generic [ref=e413]:
+            - generic [ref=e414] [cursor=pointer]:
+              - img [ref=e415]
+              - generic [ref=e417]: Buy
+              - img [ref=e418]
+            - generic [ref=e420]:
+              - link "Suppliers" [ref=e423] [cursor=pointer]:
+                - /url: /suppliers
+                - generic [ref=e424]: Suppliers
+              - link "Supplier Items" [ref=e427] [cursor=pointer]:
+                - /url: /items
+                - generic [ref=e428]: Supplier Items
+              - link "Purchase Orders" [ref=e431] [cursor=pointer]:
+                - /url: /procurement/purchase-orders
+                - generic [ref=e432]: Purchase Orders
+              - link "Received Notes" [ref=e435] [cursor=pointer]:
+                - /url: /procurement/received-notes
+                - generic [ref=e436]: Received Notes
+          - generic [ref=e437]:
+            - generic [ref=e438] [cursor=pointer]:
+              - img [ref=e439]
+              - generic [ref=e441]: Finance
+              - img [ref=e442]
+            - generic [ref=e444]:
+              - link "Invoice Financing Soon" [ref=e447] [cursor=pointer]:
+                - /url: /invoice-financing
+                - generic [ref=e448]: Invoice Financing
+                - generic [ref=e449]: Soon
+              - link "PO Financing Soon" [ref=e452] [cursor=pointer]:
+                - /url: /purchase-order-financing
+                - generic [ref=e453]: PO Financing
+                - generic [ref=e454]: Soon
+              - link "Collections" [ref=e457] [cursor=pointer]:
+                - /url: /collections
+                - generic [ref=e458]: Collections
+              - link "Payment Links" [ref=e461] [cursor=pointer]:
+                - /url: /payments
+                - generic [ref=e462]: Payment Links
+          - link "Apps Marketplace" [ref=e464] [cursor=pointer]:
+            - /url: /apps
+            - img [ref=e465]
+            - generic [ref=e468]: Apps Marketplace
+          - link "Manage" [ref=e470] [cursor=pointer]:
+            - /url: /settings
+            - img [ref=e471]
+            - generic [ref=e474]: Manage
+      - region "Notifications alt+T"
+    - generic [ref=e475] [cursor=pointer]:
+      - img [ref=e476]
+      - text: Help
+  - region "Notifications Alt+T"

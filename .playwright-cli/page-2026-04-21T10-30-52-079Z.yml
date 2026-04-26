@@ -1,0 +1,357 @@
+- generic:
+  - generic:
+    - main:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - link:
+                - /url: /kan-kan-2
+                - generic:
+                  - img
+                - generic: كان كان الرياض
+              - generic:
+                - link:
+                  - /url: /kan-kan-2
+                  - text: المنتجات
+                - link:
+                  - /url: /kan-kan-2/about-us
+                  - text: من نحن
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                    - generic: دخول / تسجيل
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+                - generic:
+                  - img
+                - generic:
+                  - generic:
+                    - img
+              - button:
+                - img
+              - button:
+                - img
+              - generic:
+                - button
+                - button
+                - button
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: ترتيب حسب
+                    - generic:
+                      - generic:
+                        - log
+                        - generic:
+                          - generic:
+                            - generic: الرجاء الاختيار
+                            - generic:
+                              - combobox
+                          - generic:
+                            - generic:
+                              - img
+                - generic:
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80053
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80053
+                        - heading [level=3]: يسيسي
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80057
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80057
+                        - heading [level=3]: حلوى الفلوتس
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80059
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80059
+                        - heading [level=3]: سنيكرز
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80521
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80521
+                        - heading [level=3]: ريد مينت د
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: شامل عينة
+                    - link:
+                      - /url: /kan-kan-2/products/80546
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80546
+                        - heading [level=3]: حلويات ايمن للعينات
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80518
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80518
+                        - heading [level=3]: نسخة من نسخة من حلويات المرسي5
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80548
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80548
+                        - heading [level=3]: الباربيكا
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: شامل عينة
+                    - link:
+                      - /url: /kan-kan-2/products/80605
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80605
+                        - heading [level=3]: عصير مانجو طازة
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: شامل عينة
+                    - link:
+                      - /url: /kan-kan-2/products/80545
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80545
+                        - heading [level=3]: حلويات الهديثثثص
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: شامل عينة
+                    - link:
+                      - /url: /kan-kan-2/products/80569
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80569
+                        - heading [level=3]: شاي التوت 12 كيس
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80584
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80584
+                        - heading [level=3]: خالد احمد السيد
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80499
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80499
+                        - heading [level=3]: بوب كورن
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80601
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80601
+                        - heading [level=3]: شاي احمر بالنعناع 12 كيس صغير
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: شامل عينة
+                    - link:
+                      - /url: /kan-kan-2/products/80562
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80562
+                        - heading [level=3]: زعفران في بوكس معدني 300 جم
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80544
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80544
+                        - heading [level=3]: منتج ايمن جديد متعدل
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80578
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80578
+                        - heading [level=3]: شاي الماتشا
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                - generic:
+                  - navigation:
+                    - listitem:
+                      - button [disabled]: السابق
+                    - listitem:
+                      - button: "1"
+                    - listitem:
+                      - button: "2"
+                    - listitem:
+                      - button: ...
+                    - listitem:
+                      - button: "6"
+                    - listitem:
+                      - button: التالي
+      - generic:
+        - generic:
+          - generic:
+            - heading [level=2]: "تواصل معنا بسهولة عبر:"
+            - generic:
+              - link:
+                - /url: mailto:aymanstore1@mailinator.com
+                - generic:
+                  - img
+                - generic:
+                  - heading [level=4]: البريد الإلكتروني
+                  - paragraph: aymanstore1@mailinator.com
+              - link:
+                - /url: tell:532999851
+                - generic:
+                  - img
+                - generic:
+                  - heading [level=4]: رقم التواصل
+                  - paragraph: "532999851"
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+                - paragraph:
+                  - generic: جميع الحقوق محفوظة
+                  - generic: كان كان الرياض
+                  - generic: 2026 ©
+              - generic:
+                - generic: العنوان
+                - paragraph: PMV5+C6V، الملك فهد، الرياض 12262، السعودية
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                  - generic:
+                    - img
+                  - generic:
+                    - img
+                  - generic:
+                    - img
+                - generic:
+                  - link:
+                    - /url: /www.ayman.com2
+                    - img
+                  - link:
+                    - /url: /www.ayman.com4
+                    - img
+                  - link:
+                    - /url: /www.ayman.com3
+                    - img
+                  - link:
+                    - /url: /www.ayman.com1
+                    - img
+              - generic:
+                - list:
+                  - listitem:
+                    - generic:
+                      - generic: "الرقم الضريبي:"
+                      - generic: "7878"
+                  - listitem:
+                    - generic:
+                      - generic: "السجل التجاري:"
+                      - generic: "1155665566"
+                  - listitem:
+                    - generic:
+                      - generic: شركة
+                      - generic: كان كان الرياض
+                - generic:
+                  - paragraph: جميع الأسعار في الموقع شاملة ضريبة القيمة المضافة
+                  - img
+            - generic: صنع بواسطة قوافل للتسويق الإلكتروني
+      - region "Notifications alt+T"
+  - generic:
+    - alert
+  - dialog [ref=e356]:
+    - generic [ref=e756]:
+      - generic [ref=e757]:
+        - generic [ref=e758]:
+          - heading "المعلومات القانونية" [level=1] [ref=e759]
+          - paragraph [ref=e760]: اقتربنا من الانتهاء! لنقم الآن بإضافة بيانات تسجيل نشاطك التجاري والضرائب لضمان التزام حسابك بالقوانين.
+        - generic [ref=e761]:
+          - generic [ref=e763]:
+            - generic [ref=e764]: الاسم القانوني للشركة (باللغة العربية)
+            - textbox "أدخل الاسم التجاري الرسمي باللغة العربية" [ref=e766]: شركة تجريبية للتجارة
+          - generic [ref=e769]:
+            - generic [ref=e770]: السجل التجاري/الرقم الموحد
+            - generic [ref=e771]:
+              - log [ref=e773]: 2 results available.Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.
+              - generic [ref=e774]:
+                - generic [ref=e775]:
+                  - generic [ref=e776]: اختر النوع
+                  - combobox [expanded] [active] [ref=e778]
+                - img [ref=e782]
+              - listbox [ref=e810]:
+                - option "السجل التجاري" [ref=e811]
+                - option "الرقم الوطني الموحد" [ref=e812]
+          - generic [ref=e785]:
+            - checkbox [ref=e788] [cursor=pointer]
+            - generic [ref=e790]:
+              - text: هل النشاط التجاري خاضع للضريبة؟
+              - paragraph [ref=e791]: النشاط التجاري خاضع للضريبة.
+          - generic [ref=e792]:
+            - generic [ref=e793]: رفع شهادة ضريبة القيمة المضافة
+            - generic [ref=e795]:
+              - img
+              - generic [ref=e796] [cursor=pointer]:
+                - img [ref=e797]
+                - generic [ref=e802]:
+                  - generic [ref=e803]: انقر لإرفاق الملفات
+                  - text: أو اسحب وأفلت الملفات هنا
+                - generic [ref=e804]: PDF, PNG, JPG or GIF (max. 800x400px)
+                - button "Choose File" [ref=e805]
+      - generic [ref=e806]:
+        - button "إنشاء الحساب" [ref=e807] [cursor=pointer]
+        - button "الخطوة السابقة" [ref=e808] [cursor=pointer]

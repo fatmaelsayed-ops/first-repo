@@ -1,0 +1,30 @@
+[    2407ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://store.development.qawafel.dev/_next/image?url=https%3A%2F%2Fqawafel-backend-assets-development.s3.eu-central-1.amazonaws.com%2Fmedia%2F11764%2Fconversions%2Fchocolate-1--medium-medium.jpg&w=640&q=75:0
+[  147056ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://store.development.qawafel.dev/_next/image?url=https%3A%2F%2Fqawafel-backend-assets-development.s3.eu-central-1.amazonaws.com%2Fmedia%2F11764%2Fconversions%2Fchocolate-1--medium-medium.jpg&w=640&q=75:0
+[ 8030390ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://store.development.qawafel.dev/_next/image?url=https%3A%2F%2Fqawafel-backend-assets-development.s3.eu-central-1.amazonaws.com%2Fmedia%2F11764%2Fconversions%2Fchocolate-1--medium-medium.jpg&w=640&q=75:0
+[ 8036268ms] UserflowError: userflow.init() was called but missing Userflow.js Token
+    at al.init (https://js.userflow.com/es2020/userflow.js:4:8135)
+    at Object.init (https://js.userflow.com/es2020/userflow.js:17:25588)
+    at ll (https://js.userflow.com/es2020/userflow.js:17:28788)
+    at https://js.userflow.com/es2020/userflow.js:17:25525
+[ 8094322ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://store.development.qawafel.dev/_next/image?url=https%3A%2F%2Fqawafel-backend-assets-development.s3.eu-central-1.amazonaws.com%2Fmedia%2F11764%2Fconversions%2Fchocolate-1--medium-medium.jpg&w=640&q=75:0
+[ 8095503ms] [ERROR] `DialogContent` requires a `DialogTitle` for the component to be accessible for screen reader users.
+
+If you want to hide the `DialogTitle`, you can wrap it with our VisuallyHidden component.
+
+For more information, see https://radix-ui.com/primitives/docs/components/dialog @ https://store.development.qawafel.dev/_next/static/chunks/5602-964a2f83074840aa.js?dpl=dpl_GUe5rz7GLbqssZgvDP8Tdtt7YQzS:4
+[ 8095504ms] [WARNING] Warning: Missing `Description` or `aria-describedby={undefined}` for {DialogContent}. @ https://store.development.qawafel.dev/_next/static/chunks/5602-964a2f83074840aa.js?dpl=dpl_GUe5rz7GLbqssZgvDP8Tdtt7YQzS:4
+[ 8096852ms] UserflowError: userflow.init() was called but missing Userflow.js Token
+    at al.init (https://js.userflow.com/es2020/userflow.js:4:8135)
+    at Object.init (https://js.userflow.com/es2020/userflow.js:17:25588)
+    at ll (https://js.userflow.com/es2020/userflow.js:17:28788)
+    at https://js.userflow.com/es2020/userflow.js:17:25525
+[ 8257072ms] [ERROR] Failed to load resource: the server responded with a status of 502 () @ https://store.development.qawafel.dev/_next/image?url=https%3A%2F%2Fqawafel-backend-assets-development.s3.eu-central-1.amazonaws.com%2Fmedia%2F11764%2Fconversions%2Fchocolate-1--medium-medium.jpg&w=640&q=75:0
+[ 8259829ms] UserflowError: userflow.init() was called but missing Userflow.js Token
+    at al.init (https://js.userflow.com/es2020/userflow.js:4:8135)
+    at Object.init (https://js.userflow.com/es2020/userflow.js:17:25588)
+    at ll (https://js.userflow.com/es2020/userflow.js:17:28788)
+    at https://js.userflow.com/es2020/userflow.js:17:25525
+[ 8262474ms] UserflowError: userflow.init() was called but missing Userflow.js Token
+    at al.init (https://js.userflow.com/es2020/userflow.js:4:8135)
+    at Object.init (https://js.userflow.com/es2020/userflow.js:17:25588)
+    at https://store.development.qawafel.dev/_next/static/chunks/pages/_app-f05084baf4d0cc56.js?dpl=dpl_GUe5rz7GLbqssZgvDP8Tdtt7YQzS:1:216926

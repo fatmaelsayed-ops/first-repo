@@ -1,0 +1,331 @@
+[
+  {
+    "name": "successful-step2-valid-address",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: address fields are part of current step 1",
+    "mapping": "obsolete as written: address fields are part of current step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step2-optional-additional-number",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: address fields are part of current step 1",
+    "mapping": "obsolete as written: address fields are part of current step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step2-with-additional-number",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: address fields are part of current step 1",
+    "mapping": "obsolete as written: address fields are part of current step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step2-submit-all-fields-empty",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: address fields are part of current step 1",
+    "mapping": "obsolete as written: address fields are part of current step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step2-street-less-than-3-chars",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: address fields are part of current step 1",
+    "mapping": "obsolete as written: address fields are part of current step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step2-building-number-less-than-4-digits",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: address fields are part of current step 1",
+    "mapping": "obsolete as written: address fields are part of current step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step2-building-number-more-than-4-digits",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: address fields are part of current step 1",
+    "mapping": "obsolete as written: address fields are part of current step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step2-building-number-with-letters",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: address fields are part of current step 1",
+    "mapping": "obsolete as written: address fields are part of current step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step2-zip-code-less-than-5-digits",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: address fields are part of current step 1",
+    "mapping": "obsolete as written: address fields are part of current step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step2-zip-code-more-than-5-digits",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: address fields are part of current step 1",
+    "mapping": "obsolete as written: address fields are part of current step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step2-zip-code-with-letters",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: address fields are part of current step 1",
+    "mapping": "obsolete as written: address fields are part of current step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step2-short-address-invalid-format",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: address fields are part of current step 1",
+    "mapping": "obsolete as written: address fields are part of current step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step2-short-address-too-short",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: address fields are part of current step 1",
+    "mapping": "obsolete as written: address fields are part of current step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step2-short-address-letters-and-digits-swapped",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: address fields are part of current step 1",
+    "mapping": "obsolete as written: address fields are part of current step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step2-no-city-selected",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: address fields are part of current step 1",
+    "mapping": "obsolete as written: address fields are part of current step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step2-back-button-returns-to-step1",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: address fields are part of current step 1",
+    "mapping": "obsolete as written: address fields are part of current step 1",
+    "evidence": ""
+  },
+  {
+    "name": "successful-step3-not-vat-registered",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: legal fields are part of current step 2",
+    "mapping": "obsolete as written: legal fields are part of current step 2",
+    "evidence": ""
+  },
+  {
+    "name": "successful-step3-vat-registered",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: legal fields are part of current step 2",
+    "mapping": "obsolete as written: legal fields are part of current step 2",
+    "evidence": ""
+  },
+  {
+    "name": "step3-submit-all-fields-empty",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: legal fields are part of current step 2",
+    "mapping": "obsolete as written: legal fields are part of current step 2",
+    "evidence": ""
+  },
+  {
+    "name": "step3-legal-name-less-than-3-chars",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: legal fields are part of current step 2",
+    "mapping": "obsolete as written: legal fields are part of current step 2",
+    "evidence": ""
+  },
+  {
+    "name": "step3-cr-number-less-than-10-digits",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: legal fields are part of current step 2",
+    "mapping": "obsolete as written: legal fields are part of current step 2",
+    "evidence": ""
+  },
+  {
+    "name": "step3-cr-number-more-than-10-digits",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: legal fields are part of current step 2",
+    "mapping": "obsolete as written: legal fields are part of current step 2",
+    "evidence": ""
+  },
+  {
+    "name": "step3-cr-number-with-letters",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: legal fields are part of current step 2",
+    "mapping": "obsolete as written: legal fields are part of current step 2",
+    "evidence": ""
+  },
+  {
+    "name": "step3-cr-certificate-exceeds-2mb",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: legal fields are part of current step 2",
+    "mapping": "obsolete as written: legal fields are part of current step 2",
+    "evidence": ""
+  },
+  {
+    "name": "step3-cr-certificate-unsupported-format",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: legal fields are part of current step 2",
+    "mapping": "obsolete as written: legal fields are part of current step 2",
+    "evidence": ""
+  },
+  {
+    "name": "step3-no-cr-certificate-uploaded",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: legal fields are part of current step 2",
+    "mapping": "obsolete as written: legal fields are part of current step 2",
+    "evidence": ""
+  },
+  {
+    "name": "step3-vat-on-but-no-vat-number",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: legal fields are part of current step 2",
+    "mapping": "obsolete as written: legal fields are part of current step 2",
+    "evidence": ""
+  },
+  {
+    "name": "step3-vat-on-but-no-vat-certificate",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: legal fields are part of current step 2",
+    "mapping": "obsolete as written: legal fields are part of current step 2",
+    "evidence": ""
+  },
+  {
+    "name": "step3-vat-toggle-hides-vat-fields",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: legal fields are part of current step 2",
+    "mapping": "obsolete as written: legal fields are part of current step 2",
+    "evidence": ""
+  },
+  {
+    "name": "step3-back-button-returns-to-step2",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: legal fields are part of current step 2",
+    "mapping": "obsolete as written: legal fields are part of current step 2",
+    "evidence": ""
+  },
+  {
+    "name": "step3-no-cr-type-selected",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: legal fields are part of current step 2",
+    "mapping": "obsolete as written: legal fields are part of current step 2",
+    "evidence": ""
+  },
+  {
+    "name": "e2e-complete-registration-without-vat",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: end-to-end references old 3-step flow and stale phone fixture",
+    "mapping": "obsolete as written: end-to-end references old 3-step flow and stale phone fixture",
+    "evidence": ""
+  },
+  {
+    "name": "e2e-complete-registration-with-vat",
+    "status": "OBSOLETE",
+    "note": "obsolete as written: end-to-end references old 3-step flow and stale phone fixture",
+    "mapping": "obsolete as written: end-to-end references old 3-step flow and stale phone fixture",
+    "evidence": ""
+  },
+  {
+    "name": "successful-registration-phone-otp",
+    "status": "PASS",
+    "note": "OTP screen appears for an active registration fixture phone.",
+    "mapping": "2-step flow: phone/OTP pre-step",
+    "evidence": ""
+  },
+  {
+    "name": "verify-registration-steps-sidebar",
+    "status": "PASS",
+    "note": "Current UI shows 2-step sidebar with company data and legal info.",
+    "mapping": "current 2-step sidebar",
+    "evidence": ""
+  },
+  {
+    "name": "verify-edit-phone-link-on-otp-screen",
+    "status": "PASS",
+    "note": "Edit link returns to phone entry screen.",
+    "mapping": "phone/OTP pre-step",
+    "evidence": ""
+  },
+  {
+    "name": "verify-resend-otp-timer",
+    "status": "PASS",
+    "note": "Resend timer is visible on OTP screen.",
+    "mapping": "phone/OTP pre-step",
+    "evidence": ""
+  },
+  {
+    "name": "verify-step1-form-fields-visible",
+    "status": "PASS",
+    "note": "Current step 1 shows company and address fields together.",
+    "mapping": "step 1 = company + address",
+    "evidence": ""
+  },
+  {
+    "name": "step1-submit-all-fields-empty",
+    "status": "PASS",
+    "note": "Form remained on step 1 with required-field validation.",
+    "mapping": "step 1 = company + address",
+    "evidence": ""
+  },
+  {
+    "name": "step1-first-name-less-than-3-chars",
+    "status": "FAIL",
+    "note": "locator.waitFor: Timeout 10000ms exceeded.",
+    "mapping": "step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step1-last-name-less-than-3-chars",
+    "status": "FAIL",
+    "note": "locator.waitFor: Timeout 10000ms exceeded.",
+    "mapping": "step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step1-invalid-email-format",
+    "status": "FAIL",
+    "note": "locator.waitFor: Timeout 10000ms exceeded.",
+    "mapping": "step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step1-store-name-ar-less-than-3-chars",
+    "status": "FAIL",
+    "note": "locator.waitFor: Timeout 10000ms exceeded.",
+    "mapping": "step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step1-store-name-en-less-than-3-chars",
+    "status": "FAIL",
+    "note": "locator.waitFor: Timeout 10000ms exceeded.",
+    "mapping": "step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step1-no-store-type-selected",
+    "status": "FAIL",
+    "note": "locator.waitFor: Timeout 10000ms exceeded.",
+    "mapping": "step 1",
+    "evidence": ""
+  },
+  {
+    "name": "step1-email-with-special-chars",
+    "status": "FAIL",
+    "note": "locator.waitFor: Timeout 10000ms exceeded.",
+    "mapping": "step 1",
+    "evidence": ""
+  },
+  {
+    "name": "legal-step-introspection",
+    "status": "FAIL",
+    "note": "locator.fill: Timeout 30000ms exceeded.",
+    "mapping": "step 2",
+    "evidence": ""
+  }
+]

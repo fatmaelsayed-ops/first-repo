@@ -1,0 +1,41 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - main [ref=e5]:
+        - generic [ref=e8]:
+          - generic [ref=e9]:
+            - img "logo" [ref=e10]
+            - button "العربية" [active] [ref=e73] [cursor=pointer]:
+              - img
+              - text: العربية
+          - generic [ref=e12]:
+            - heading "Welcome back to Qawafel platform!" [level=1] [ref=e74]
+            - generic [ref=e14]: All you need to manage your business in one system, log in and get started.
+          - generic [ref=e15]:
+            - generic [ref=e16]:
+              - generic [ref=e18]: Mobile Number *
+              - generic [ref=e19]:
+                - generic [ref=e21]:
+                  - img [ref=e23]
+                  - generic [ref=e57]: "+966"
+                - textbox "Mobile Number *" [ref=e75]:
+                  - /placeholder: 5xxxxxxxxx
+              - generic [ref=e76]: Please enter mobile number
+            - button "Login" [ref=e77] [cursor=pointer]
+          - generic [ref=e60]:
+            - generic [ref=e61]:
+              - generic [ref=e62]: By using Qawafel platform you agree to
+              - link "Terms and Conditions" [ref=e78] [cursor=pointer]:
+                - /url: https://qawafel.sa/en/terms-conditions
+              - generic [ref=e64]: and
+              - link "Privacy Policy" [ref=e79] [cursor=pointer]:
+                - /url: https://qawafel.sa/en/privacy-policy
+            - generic [ref=e66]:
+              - generic [ref=e67]: You don't have an account?
+              - link "Create new account" [ref=e80] [cursor=pointer]:
+                - /url: https://qawafel.sa/en/create-an-account/
+      - region "Notifications alt+T"
+    - generic [ref=e69] [cursor=pointer]:
+      - img [ref=e70]
+      - text: Help
+  - region "Notifications Alt+T"

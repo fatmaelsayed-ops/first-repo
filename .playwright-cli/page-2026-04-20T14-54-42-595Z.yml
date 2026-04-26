@@ -1,0 +1,241 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - main [ref=e5]:
+        - generic [ref=e7]:
+          - button [ref=e8] [cursor=pointer]:
+            - img [ref=e10]
+          - button [ref=e12] [cursor=pointer]:
+            - img [ref=e14]
+          - link "New" [ref=e16] [cursor=pointer]:
+            - /url: /release-notes
+            - generic [ref=e17]: New
+            - img [ref=e18]
+          - button "العربية" [ref=e42] [cursor=pointer]
+          - button "Kan Kan riyadh" [ref=e44] [cursor=pointer]:
+            - generic [ref=e45]:
+              - generic [ref=e49]: Kan Kan riyadh
+              - img [ref=e51]
+        - generic [ref=e53]:
+          - generic [ref=e58]:
+            - text: Welcome, Kan Kan riyadh
+            - generic [ref=e59]: 👋
+          - generic [ref=e62]:
+            - generic [ref=e70]:
+              - text: Invoices not uploaded for buyer orders
+              - generic [ref=e71]: There are invoices waiting to be uploaded into the system so your buyer can download and review them
+            - generic [ref=e72]:
+              - generic [ref=e73]:
+                - generic [ref=e75]:
+                  - generic [ref=e76]: Orders Summary
+                  - generic [ref=e81] [cursor=pointer]:
+                    - text: Apr 2026
+                    - img [ref=e83]
+                - generic [ref=e86]:
+                  - generic [ref=e87]:
+                    - generic [ref=e89]: Pending Confirmation
+                    - img "Loading..." [ref=e92]
+                  - generic [ref=e93]:
+                    - generic [ref=e95]: Under Preparation
+                    - img "Loading..." [ref=e98]
+                  - generic [ref=e99]:
+                    - generic [ref=e101]: Ready For Shipping
+                    - img "Loading..." [ref=e104]
+                  - generic [ref=e105]:
+                    - generic [ref=e107]: Out for delivery
+                    - img "Loading..." [ref=e110]
+                  - generic [ref=e111]:
+                    - generic [ref=e113]: Delivered
+                    - img "Loading..." [ref=e116]
+                  - generic [ref=e117]:
+                    - generic [ref=e119]: Cancelled
+                    - img "Loading..." [ref=e122]
+              - generic [ref=e123]:
+                - generic [ref=e125]:
+                  - generic [ref=e126]: Performance summary
+                  - generic [ref=e131] [cursor=pointer]:
+                    - text: Apr 2026
+                    - img [ref=e133]
+                - generic [ref=e136]:
+                  - generic [ref=e137]:
+                    - generic [ref=e139]: Total Sales
+                    - img "Loading..." [ref=e141]
+                  - generic [ref=e142]:
+                    - generic [ref=e144]: Number Of Buyers
+                    - img "Loading..." [ref=e146]
+                  - generic [ref=e147]:
+                    - generic [ref=e149]: Number Of Orders
+                    - img "Loading..." [ref=e151]
+                  - generic [ref=e152]:
+                    - generic [ref=e154]: Buyers Rating
+                    - img "Loading..." [ref=e156]
+                  - generic [ref=e157]:
+                    - generic [ref=e159]: Average Order Value
+                    - img "Loading..." [ref=e161]
+                  - generic [ref=e162]:
+                    - generic [ref=e164]: Returned Products
+                    - img "Loading..." [ref=e166]
+            - generic [ref=e167]:
+              - generic [ref=e168]: Collections summary
+              - generic [ref=e170]:
+                - generic [ref=e171] [cursor=pointer]:
+                  - generic [ref=e174]: Total credit to be collected
+                  - img "Loading..." [ref=e177]
+                - generic [ref=e178] [cursor=pointer]:
+                  - generic [ref=e181]: Total overdue collections
+                  - img "Loading..." [ref=e184]
+                - generic [ref=e185] [cursor=pointer]:
+                  - generic [ref=e187]:
+                    - generic [ref=e188]: Expected collections for
+                    - generic [ref=e194]:
+                      - text: Apr 2026
+                      - img [ref=e196]
+                  - img "Loading..." [ref=e199]
+            - generic [ref=e200]:
+              - generic [ref=e201]: Best Selling Cities
+              - generic [ref=e204]:
+                - img "loading" [ref=e205]:
+                  - img [ref=e206]
+                - generic: Loading...
+            - generic [ref=e211]:
+              - generic [ref=e212] [cursor=pointer]:
+                - img [ref=e213]
+                - img [ref=e216]
+              - generic [ref=e218]:
+                - paragraph [ref=e219]: إدارة المنتجات الجديدة كليا
+                - paragraph [ref=e221]: ‏في هذا الإصدار تم إضافة إمكانية إدارة المنتجات من داخل تطبيق الموردين، ‏ليس عليك أن تتواصل مع مدير حسابك لإضافة منتج. الآن يمكنك إضافة جميع المنتجات من داخل تطبيق الموردين بضغطة زر
+            - generic [ref=e222]:
+              - generic [ref=e223]: Suggested Articles
+              - generic [ref=e225]:
+                - generic [ref=e227]:
+                  - img "article_img" [ref=e229]
+                  - generic [ref=e230]:
+                    - generic [ref=e231]:
+                      - paragraph [ref=e232]: كيفية تعديل عنوان عميل لديك ؟
+                      - paragraph [ref=e233]:
+                        - generic [ref=e234]: في حالة تغيير أي من أو كل تفاصيل عنوان عميل لديك ، تعرف على كيفية تحديث العنوان لضمان دقة وصول الطلبات للعميل.
+                    - button "Read the article" [ref=e236] [cursor=pointer]:
+                      - paragraph [ref=e237]:
+                        - generic [ref=e238]:
+                          - text: Read the article
+                          - img [ref=e240]
+                - generic [ref=e243]:
+                  - img "article_img" [ref=e245]
+                  - generic [ref=e246]:
+                    - generic [ref=e247]:
+                      - paragraph [ref=e248]: كيفية البحث وإيجاد حساب أحد عملائك ؟
+                      - paragraph [ref=e249]:
+                        - generic [ref=e250]: من قائمة عملائك ، تعرف على خطوات البحث عن عميل محدد أو ايجار بياناته
+                    - button "Read the article" [ref=e252] [cursor=pointer]:
+                      - paragraph [ref=e253]:
+                        - generic [ref=e254]:
+                          - text: Read the article
+                          - img [ref=e256]
+                - generic [ref=e259]:
+                  - img "article_img" [ref=e261]
+                  - generic [ref=e262]:
+                    - generic [ref=e263]:
+                      - paragraph [ref=e264]: كيف تضيف عميل جديد ؟
+                      - paragraph [ref=e265]:
+                        - generic [ref=e266]: خطوات توضيحية لكيفية إضافة عميل جديد وتسجيل بياناته إلى قائمة عملائك الحاليين .
+                    - button "Read the article" [ref=e268] [cursor=pointer]:
+                      - paragraph [ref=e269]:
+                        - generic [ref=e270]:
+                          - text: Read the article
+                          - img [ref=e272]
+      - generic [ref=e274]:
+        - generic [ref=e275]:
+          - button "Collapse sidebar" [ref=e276] [cursor=pointer]:
+            - img [ref=e277]
+          - link [ref=e280] [cursor=pointer]:
+            - /url: /
+            - img [ref=e281]
+        - navigation [ref=e284]:
+          - link "Home" [ref=e286] [cursor=pointer]:
+            - /url: /home
+            - img [ref=e287]
+            - generic [ref=e289]: Home
+          - generic [ref=e290]:
+            - generic [ref=e291] [cursor=pointer]:
+              - img [ref=e292]
+              - generic [ref=e294]: Sell
+              - img [ref=e295]
+            - generic [ref=e297]:
+              - link "Orders" [ref=e300] [cursor=pointer]:
+                - /url: /orders/marketplace/all
+                - generic [ref=e301]: Orders
+              - link "Quotations" [ref=e304] [cursor=pointer]:
+                - /url: /procurement/quotations
+                - generic [ref=e305]: Quotations
+              - link "Invoices" [ref=e308] [cursor=pointer]:
+                - /url: /invoices
+                - generic [ref=e309]: Invoices
+              - link "Credit Notes" [ref=e312] [cursor=pointer]:
+                - /url: /procurement/credit-notes
+                - generic [ref=e313]: Credit Notes
+              - link "Buyers" [ref=e316] [cursor=pointer]:
+                - /url: /customers
+                - generic [ref=e317]: Buyers
+              - link "Products" [ref=e320] [cursor=pointer]:
+                - /url: /products
+                - generic [ref=e321]: Products
+              - link "Discounts" [ref=e324] [cursor=pointer]:
+                - /url: /discounts
+                - generic [ref=e325]: Discounts
+              - link "Reviews" [ref=e328] [cursor=pointer]:
+                - /url: /reviews
+                - generic [ref=e329]: Reviews
+              - link "Buyer complaints" [ref=e332] [cursor=pointer]:
+                - /url: /complaints
+                - generic [ref=e333]: Buyer complaints
+          - generic [ref=e334]:
+            - generic [ref=e335] [cursor=pointer]:
+              - img [ref=e336]
+              - generic [ref=e338]: Buy
+              - img [ref=e339]
+            - generic [ref=e341]:
+              - link "Suppliers" [ref=e344] [cursor=pointer]:
+                - /url: /suppliers
+                - generic [ref=e345]: Suppliers
+              - link "Supplier Items" [ref=e348] [cursor=pointer]:
+                - /url: /items
+                - generic [ref=e349]: Supplier Items
+              - link "Purchase Orders" [ref=e352] [cursor=pointer]:
+                - /url: /procurement/purchase-orders
+                - generic [ref=e353]: Purchase Orders
+              - link "Received Notes" [ref=e356] [cursor=pointer]:
+                - /url: /procurement/received-notes
+                - generic [ref=e357]: Received Notes
+          - generic [ref=e358]:
+            - generic [ref=e359] [cursor=pointer]:
+              - img [ref=e360]
+              - generic [ref=e362]: Finance
+              - img [ref=e363]
+            - generic [ref=e365]:
+              - link "Invoice Financing Soon" [ref=e368] [cursor=pointer]:
+                - /url: /invoice-financing
+                - generic [ref=e369]: Invoice Financing
+                - generic [ref=e370]: Soon
+              - link "PO Financing Soon" [ref=e373] [cursor=pointer]:
+                - /url: /purchase-order-financing
+                - generic [ref=e374]: PO Financing
+                - generic [ref=e375]: Soon
+              - link "Collections" [ref=e378] [cursor=pointer]:
+                - /url: /collections
+                - generic [ref=e379]: Collections
+              - link "Payment Links" [ref=e382] [cursor=pointer]:
+                - /url: /payments
+                - generic [ref=e383]: Payment Links
+          - link "Apps Marketplace" [ref=e385] [cursor=pointer]:
+            - /url: /apps
+            - img [ref=e386]
+            - generic [ref=e389]: Apps Marketplace
+          - link "Manage" [ref=e391] [cursor=pointer]:
+            - /url: /settings
+            - img [ref=e392]
+            - generic [ref=e395]: Manage
+      - region "Notifications alt+T"
+    - generic [ref=e396] [cursor=pointer]:
+      - img [ref=e397]
+      - text: Help
+  - region "Notifications Alt+T"

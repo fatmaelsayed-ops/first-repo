@@ -1,0 +1,23 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - main [ref=e5]:
+        - generic [ref=e81]:
+          - heading "OTP sent to your mobile number" [level=2] [ref=e82]
+          - generic [ref=e83]:
+            - generic [ref=e84]: Please check the code sent to the number
+            - generic [ref=e85]: +966 540000007
+          - generic [ref=e86]:
+            - textbox [active] [ref=e88]
+            - button "Continue" [disabled] [ref=e89]
+          - button "Enter another phone number" [ref=e90] [cursor=pointer]:
+            - paragraph [ref=e91]:
+              - generic [ref=e92]: Enter another phone number
+          - button "Resend Code" [ref=e93] [cursor=pointer]:
+            - paragraph [ref=e94]:
+              - generic [ref=e95]: Resend Code
+      - region "Notifications alt+T"
+    - generic [ref=e69] [cursor=pointer]:
+      - img [ref=e70]
+      - text: Help
+  - region "Notifications Alt+T"

@@ -1,0 +1,1376 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - navigation [ref=e11]:
+      - generic [ref=e12]:
+        - link "parent orders parent orders" [ref=e13] [cursor=pointer]:
+          - /url: /orders/list
+          - img "parent orders" [ref=e15]
+          - paragraph [ref=e16]: parent orders
+        - link "child orders child orders" [ref=e17] [cursor=pointer]:
+          - /url: /child-orders/list
+          - img "child orders" [ref=e19]
+          - paragraph [ref=e20]: child orders
+        - link "Invoice Financing Orders Invoice Financing Orders" [ref=e21] [cursor=pointer]:
+          - /url: /invoice-financing-orders
+          - img "Invoice Financing Orders" [ref=e23]
+          - paragraph [ref=e24]: Invoice Financing Orders
+        - link "live carts live carts" [ref=e25] [cursor=pointer]:
+          - /url: /live-carts/list
+          - img "live carts" [ref=e27]
+          - paragraph [ref=e28]: live carts
+      - link "Orders Map Orders Map" [ref=e30] [cursor=pointer]:
+        - /url: /orders-map
+        - img "Orders Map" [ref=e32]
+        - paragraph [ref=e33]: Orders Map
+      - generic [ref=e34]:
+        - link "Retails Retails" [ref=e35] [cursor=pointer]:
+          - /url: /customers/list
+          - img "Retails" [ref=e37]
+          - paragraph [ref=e38]: Retails
+        - link "Retailers Users Retailers Users" [ref=e39] [cursor=pointer]:
+          - /url: /retailers-users/list
+          - img "Retailers Users" [ref=e41]
+          - paragraph [ref=e42]: Retailers Users
+        - link "Merging Accounts Merging Accounts" [ref=e43] [cursor=pointer]:
+          - /url: /merging-accounts/
+          - img "Merging Accounts" [ref=e45]
+          - paragraph [ref=e46]: Merging Accounts
+        - link "Verification Center Verification Center" [ref=e47] [cursor=pointer]:
+          - /url: /verification-center/list
+          - img "Verification Center" [ref=e49]
+          - paragraph [ref=e50]: Verification Center
+        - link "requested vendors requested vendors" [ref=e51] [cursor=pointer]:
+          - /url: /requested-vendors/list
+          - img "requested vendors" [ref=e53]
+          - paragraph [ref=e54]: requested vendors
+        - link "requested products requested products" [ref=e55] [cursor=pointer]:
+          - /url: /requested-products/list
+          - img "requested products" [ref=e57]
+          - paragraph [ref=e58]: requested products
+        - link "App Feedback App Feedback" [ref=e59] [cursor=pointer]:
+          - /url: /app-feedback/list
+          - img "App Feedback" [ref=e61]
+          - paragraph [ref=e62]: App Feedback
+      - generic [ref=e63]:
+        - link "vendor categories vendor categories" [ref=e64] [cursor=pointer]:
+          - /url: /vendor-categories/list
+          - img "vendor categories" [ref=e66]
+          - paragraph [ref=e67]: vendor categories
+        - link "vendors vendors" [ref=e68] [cursor=pointer]:
+          - /url: /vendors/list
+          - img "vendors" [ref=e70]
+          - paragraph [ref=e71]: vendors
+        - link "Vendors Agreements Vendors Agreements" [ref=e72] [cursor=pointer]:
+          - /url: /vendors-agreements
+          - img "Vendors Agreements" [ref=e74]
+          - paragraph [ref=e75]: Vendors Agreements
+        - link "vendors users vendors users" [ref=e76] [cursor=pointer]:
+          - /url: /vendor-users/list
+          - img "vendors users" [ref=e78]
+          - paragraph [ref=e79]: vendors users
+        - link "vendors leads vendors leads" [ref=e80] [cursor=pointer]:
+          - /url: /vendors-leads/list
+          - img "vendors leads" [ref=e82]
+          - paragraph [ref=e83]: vendors leads
+        - link "Vendor Requests Vendor Requests" [ref=e84] [cursor=pointer]:
+          - /url: /vendor-requests
+          - img "Vendor Requests" [ref=e86]
+          - paragraph [ref=e87]: Vendor Requests
+        - link "Vendor Product Requests Vendor Product Requests" [ref=e88] [cursor=pointer]:
+          - /url: /vendor-product-requests
+          - img "Vendor Product Requests" [ref=e90]
+          - paragraph [ref=e91]: Vendor Product Requests
+        - link "Vendor Communications Vendor Communications" [ref=e92] [cursor=pointer]:
+          - /url: /vendor-communications
+          - img "Vendor Communications" [ref=e94]
+          - paragraph [ref=e95]: Vendor Communications
+        - link "App Integrations App Integrations" [ref=e96] [cursor=pointer]:
+          - /url: /app-integrations/list
+          - img "App Integrations" [ref=e98]
+          - paragraph [ref=e99]: App Integrations
+        - link "Merchant Merchant" [ref=e100] [cursor=pointer]:
+          - /url: /merchant
+          - img "Merchant" [ref=e102]
+          - paragraph [ref=e103]: Merchant
+      - generic [ref=e104]:
+        - link "Purchase Orders Purchase Orders" [ref=e105] [cursor=pointer]:
+          - /url: /purchase-orders/list
+          - img "Purchase Orders" [ref=e107]
+          - paragraph [ref=e108]: Purchase Orders
+        - link "Wallet Withdrawal Requests Wallet Withdrawal Requests" [ref=e109] [cursor=pointer]:
+          - /url: /withdrawal-requests/list
+          - img "Wallet Withdrawal Requests" [ref=e111]
+          - paragraph [ref=e112]: Wallet Withdrawal Requests
+        - link "Virtual IBANs Virtual IBANs" [ref=e113] [cursor=pointer]:
+          - /url: /v-iban/list
+          - img "Virtual IBANs" [ref=e115]
+          - paragraph [ref=e116]: Virtual IBANs
+        - link "Vendor Payouts Vendor Payouts" [ref=e117] [cursor=pointer]:
+          - /url: /vendor-payouts
+          - img "Vendor Payouts" [ref=e119]
+          - paragraph [ref=e120]: Vendor Payouts
+        - link "Subscription Subscription" [ref=e121] [cursor=pointer]:
+          - /url: /subscription/list
+          - img "Subscription" [ref=e123]
+          - paragraph [ref=e124]: Subscription
+        - link "Settlement Settlement" [ref=e125] [cursor=pointer]:
+          - /url: /settlement/list
+          - img "Settlement" [ref=e127]
+          - paragraph [ref=e128]: Settlement
+      - generic [ref=e129]:
+        - link "products products" [ref=e130] [cursor=pointer]:
+          - /url: /products/list
+          - img "products" [ref=e132]
+          - paragraph [ref=e133]: products
+        - link "categories categories" [ref=e134] [cursor=pointer]:
+          - /url: /categories/list
+          - img "categories" [ref=e136]
+          - paragraph [ref=e137]: categories
+        - link "collections collections" [ref=e138] [cursor=pointer]:
+          - /url: /collections/list
+          - img "collections" [ref=e140]
+          - paragraph [ref=e141]: collections
+        - link "brands brands" [ref=e142] [cursor=pointer]:
+          - /url: /brands/list
+          - img "brands" [ref=e144]
+          - paragraph [ref=e145]: brands
+      - generic [ref=e146]:
+        - link "banners banners" [ref=e147] [cursor=pointer]:
+          - /url: /banners/list
+          - img "banners" [ref=e149]
+          - paragraph [ref=e150]: banners
+        - link "discounts discounts" [ref=e151] [cursor=pointer]:
+          - /url: /discounts/list
+          - img "discounts" [ref=e153]
+          - paragraph [ref=e154]: discounts
+        - link "vendor discounts vendor discounts" [ref=e155] [cursor=pointer]:
+          - /url: /vendor_discounts
+          - img "vendor discounts" [ref=e157]
+          - paragraph [ref=e158]: vendor discounts
+        - link "rating rating" [ref=e159] [cursor=pointer]:
+          - /url: /rating/list
+          - img "rating" [ref=e161]
+          - paragraph [ref=e162]: rating
+      - generic [ref=e163]:
+        - link "Onboarding screens Onboarding screens" [ref=e164] [cursor=pointer]:
+          - /url: /onboarding-screens/list
+          - img "Onboarding screens" [ref=e166]
+          - paragraph [ref=e167]: Onboarding screens
+        - link "App Instructions App Instructions" [ref=e168] [cursor=pointer]:
+          - /url: /app-instructions/list
+          - img "App Instructions" [ref=e170]
+          - paragraph [ref=e171]: App Instructions
+        - link "Force update Force update" [ref=e172] [cursor=pointer]:
+          - /url: /force-update
+          - img "Force update" [ref=e174]
+          - paragraph [ref=e175]: Force update
+      - generic [ref=e176]:
+        - link "create notifications create notifications" [ref=e177] [cursor=pointer]:
+          - /url: /customers-notifications/list
+          - img "create notifications" [ref=e179]
+          - paragraph [ref=e180]: create notifications
+        - link "Vendor notifications Vendor notifications" [ref=e181] [cursor=pointer]:
+          - /url: /vendors-notifications/list
+          - img "Vendor notifications" [ref=e183]
+          - paragraph [ref=e184]: Vendor notifications
+        - link "Send notifications Send notifications" [ref=e185] [cursor=pointer]:
+          - /url: /send-notifications/list
+          - img "Send notifications" [ref=e187]
+          - paragraph [ref=e188]: Send notifications
+      - generic [ref=e189]:
+        - link "Help Topic Mapping Help Topic Mapping" [ref=e190] [cursor=pointer]:
+          - /url: /help_mapping
+          - img "Help Topic Mapping" [ref=e192]
+          - paragraph [ref=e193]: Help Topic Mapping
+        - link "configs configs" [ref=e194] [cursor=pointer]:
+          - /url: /configs
+          - img "configs" [ref=e196]
+          - paragraph [ref=e197]: configs
+        - link "logs logs" [ref=e198] [cursor=pointer]:
+          - /url: /logs
+          - img "logs" [ref=e200]
+          - paragraph [ref=e201]: logs
+      - generic [ref=e202]:
+        - link "user groups user groups" [ref=e203] [cursor=pointer]:
+          - /url: /users-groups/list
+          - img "user groups" [ref=e205]
+          - paragraph [ref=e206]: user groups
+        - link "admins admins" [ref=e207] [cursor=pointer]:
+          - /url: /admins/list
+          - img "admins" [ref=e209]
+          - paragraph [ref=e210]: admins
+    - link "logout" [ref=e212] [cursor=pointer]:
+      - /url: /logout
+      - img "logout" [ref=e213]
+  - main [ref=e214]:
+    - generic [ref=e285]:
+      - generic [ref=e286]:
+        - heading "Categories" [level=1] [ref=e288]
+        - generic [ref=e289]:
+          - link "help" [ref=e290] [cursor=pointer]:
+            - /url: https://app.clickup.com/3810377/docs/3m929-46867/3m929-29983
+            - img "help" [ref=e291]
+          - link "New category" [ref=e292] [cursor=pointer]:
+            - /url: /categories/add
+      - generic [ref=e293]:
+        - generic [ref=e294]:
+          - generic [ref=e295]:
+            - generic [ref=e297]:
+              - generic [ref=e300]:
+                - generic [ref=e303]: Search data...
+                - generic [ref=e306]:
+                  - img [ref=e311]
+                  - textbox "Search data..." [ref=e313]
+              - button "Status" [ref=e317] [cursor=pointer]:
+                - generic [ref=e318]:
+                  - generic [ref=e319]: Status
+                  - img [ref=e324]
+            - generic [ref=e326]:
+              - generic [ref=e327]:
+                - generic [ref=e328]: "Sort by: is_active"
+                - button "Remove" [ref=e329] [cursor=pointer]:
+                  - img [ref=e332]
+              - generic [ref=e334]:
+                - generic [ref=e335]: "Sort direction: desc"
+                - button "Remove" [ref=e336] [cursor=pointer]:
+                  - img [ref=e339]
+          - button "Sort by" [ref=e342] [cursor=pointer]:
+            - generic [ref=e343]:
+              - img [ref=e347]
+              - generic [ref=e349]: Sort by
+        - generic [ref=e351]:
+          - heading [level=1]
+          - table [ref=e354]:
+            - rowgroup [ref=e355]:
+              - row "Image Name Products count Status CTA" [ref=e356]:
+                - columnheader "Image" [ref=e359]:
+                  - generic [ref=e361]: Image
+                - columnheader "Name" [ref=e363]:
+                  - generic [ref=e365]: Name
+                - columnheader "Products count" [ref=e367]:
+                  - generic [ref=e369]: Products count
+                - columnheader "Status" [ref=e371]:
+                  - generic [ref=e373]: Status
+                - columnheader "CTA" [ref=e375]:
+                  - generic [ref=e377]: CTA
+            - rowgroup [ref=e378]:
+              - row "Expand Row Logo بلاستيكات 34 Open CTA" [ref=e379]:
+                - button "Expand Row" [disabled] [ref=e381] [cursor=pointer]:
+                  - img [ref=e382]
+                - gridcell "Logo" [ref=e385]:
+                  - img "Logo" [ref=e387]
+                - gridcell "بلاستيكات" [ref=e388]:
+                  - link "بلاستيكات" [ref=e389] [cursor=pointer]:
+                    - /url: /categories/80039
+                    - heading "بلاستيكات" [level=5] [ref=e390]
+                - gridcell "34" [ref=e391]:
+                  - generic [ref=e392]: "34"
+                - gridcell [ref=e393]:
+                  - checkbox [checked] [ref=e396] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e398]:
+                  - link "Open CTA" [ref=e399] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80039
+              - row "Expand Row Logo الجمال 0 Open CTA" [ref=e400]:
+                - button "Expand Row" [disabled] [ref=e402] [cursor=pointer]:
+                  - img [ref=e403]
+                - gridcell "Logo" [ref=e406]:
+                  - img "Logo" [ref=e408]
+                - gridcell "الجمال" [ref=e409]:
+                  - link "الجمال" [ref=e410] [cursor=pointer]:
+                    - /url: /categories/80064
+                    - heading "الجمال" [level=5] [ref=e411]
+                - gridcell "0" [ref=e412]:
+                  - generic [ref=e413]: "0"
+                - gridcell [ref=e414]:
+                  - checkbox [checked] [ref=e417] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e419]:
+                  - link "Open CTA" [ref=e420] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80064
+              - row "Expand Row Logo مشمش مش حلو 0 Open CTA" [ref=e421]:
+                - button "Expand Row" [disabled] [ref=e423] [cursor=pointer]:
+                  - img [ref=e424]
+                - gridcell "Logo" [ref=e427]:
+                  - img "Logo" [ref=e429]
+                - gridcell "مشمش مش حلو" [ref=e430]:
+                  - link "مشمش مش حلو" [ref=e431] [cursor=pointer]:
+                    - /url: /categories/80062
+                    - heading "مشمش مش حلو" [level=5] [ref=e432]
+                - gridcell "0" [ref=e433]:
+                  - generic [ref=e434]: "0"
+                - gridcell [ref=e435]:
+                  - checkbox [checked] [ref=e438] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e440]:
+                  - link "Open CTA" [ref=e441] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80062
+              - row "Expand Row Logo حلويات شامية 12 Open CTA" [ref=e442]:
+                - button "Expand Row" [ref=e444] [cursor=pointer]:
+                  - img [ref=e445]
+                - gridcell "Logo" [ref=e448]:
+                  - img "Logo" [ref=e450]
+                - gridcell "حلويات شامية" [ref=e451]:
+                  - link "حلويات شامية" [ref=e452] [cursor=pointer]:
+                    - /url: /categories/80014
+                    - heading "حلويات شامية" [level=5] [ref=e453]
+                - gridcell "12" [ref=e454]:
+                  - generic [ref=e455]: "12"
+                - gridcell [ref=e456]:
+                  - checkbox [checked] [ref=e459] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e461]:
+                  - link "Open CTA" [ref=e462] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80014
+              - row "Expand Row Logo فئة اختبار 0 Open CTA" [ref=e463]:
+                - button "Expand Row" [disabled] [ref=e465] [cursor=pointer]:
+                  - img [ref=e466]
+                - gridcell "Logo" [ref=e469]:
+                  - img "Logo" [ref=e471]
+                - gridcell "فئة اختبار" [ref=e472]:
+                  - link "فئة اختبار" [ref=e473] [cursor=pointer]:
+                    - /url: /categories/80063
+                    - heading "فئة اختبار" [level=5] [ref=e474]
+                - gridcell "0" [ref=e475]:
+                  - generic [ref=e476]: "0"
+                - gridcell [ref=e477]:
+                  - checkbox [checked] [ref=e480] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e482]:
+                  - link "Open CTA" [ref=e483] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80063
+              - row "Expand Row Logo مشمش حلو 0 Open CTA" [ref=e484]:
+                - button "Expand Row" [ref=e486] [cursor=pointer]:
+                  - img [ref=e487]
+                - gridcell "Logo" [ref=e490]:
+                  - img "Logo" [ref=e492]
+                - gridcell "مشمش حلو" [ref=e493]:
+                  - link "مشمش حلو" [ref=e494] [cursor=pointer]:
+                    - /url: /categories/80060
+                    - heading "مشمش حلو" [level=5] [ref=e495]
+                - gridcell "0" [ref=e496]:
+                  - generic [ref=e497]: "0"
+                - gridcell [ref=e498]:
+                  - checkbox [checked] [ref=e501] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e503]:
+                  - link "Open CTA" [ref=e504] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80060
+              - row "Expand Row Logo دبس 1 Open CTA" [ref=e505]:
+                - button "Expand Row" [disabled] [ref=e507] [cursor=pointer]:
+                  - img [ref=e508]
+                - gridcell "Logo" [ref=e511]:
+                  - img "Logo" [ref=e513]
+                - gridcell "دبس" [ref=e514]:
+                  - link "دبس" [ref=e515] [cursor=pointer]:
+                    - /url: /categories/403
+                    - heading "دبس" [level=5] [ref=e516]
+                - gridcell "1" [ref=e517]:
+                  - generic [ref=e518]: "1"
+                - gridcell [ref=e519]:
+                  - checkbox [ref=e522] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e524]:
+                  - link "Open CTA" [ref=e525] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/403
+              - row "Expand Row Logo مياه معدنية 4 Open CTA" [ref=e526]:
+                - button "Expand Row" [disabled] [ref=e528] [cursor=pointer]:
+                  - img [ref=e529]
+                - gridcell "Logo" [ref=e532]:
+                  - img "Logo" [ref=e534]
+                - gridcell "مياه معدنية" [ref=e535]:
+                  - link "مياه معدنية" [ref=e536] [cursor=pointer]:
+                    - /url: /categories/408
+                    - heading "مياه معدنية" [level=5] [ref=e537]
+                - gridcell "4" [ref=e538]:
+                  - generic [ref=e539]: "4"
+                - gridcell [ref=e540]:
+                  - checkbox [ref=e543] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e545]:
+                  - link "Open CTA" [ref=e546] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/408
+              - row "Expand Row Logo الكمأة 2 Open CTA" [ref=e547]:
+                - button "Expand Row" [disabled] [ref=e549] [cursor=pointer]:
+                  - img [ref=e550]
+                - gridcell "Logo" [ref=e553]:
+                  - img "Logo" [ref=e555]
+                - gridcell "الكمأة" [ref=e556]:
+                  - link "الكمأة" [ref=e557] [cursor=pointer]:
+                    - /url: /categories/416
+                    - heading "الكمأة" [level=5] [ref=e558]
+                - gridcell "2" [ref=e559]:
+                  - generic [ref=e560]: "2"
+                - gridcell [ref=e561]:
+                  - checkbox [ref=e564] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e566]:
+                  - link "Open CTA" [ref=e567] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/416
+              - row "Expand Row Logo شكولاته 100 Open CTA" [ref=e568]:
+                - button "Expand Row" [disabled] [ref=e570] [cursor=pointer]:
+                  - img [ref=e571]
+                - gridcell "Logo" [ref=e574]:
+                  - img "Logo" [ref=e576]
+                - gridcell "شكولاته" [ref=e577]:
+                  - link "شكولاته" [ref=e578] [cursor=pointer]:
+                    - /url: /categories/80036
+                    - heading "شكولاته" [level=5] [ref=e579]
+                - gridcell "100" [ref=e580]:
+                  - generic [ref=e581]: "100"
+                - gridcell [ref=e582]:
+                  - checkbox [ref=e585] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e587]:
+                  - link "Open CTA" [ref=e588] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80036
+              - row "Expand Row Logo تسالي وايس كريم 2 Open CTA" [ref=e589]:
+                - button "Expand Row" [disabled] [ref=e591] [cursor=pointer]:
+                  - img [ref=e592]
+                - gridcell "Logo" [ref=e595]:
+                  - img "Logo" [ref=e597]
+                - gridcell "تسالي وايس كريم" [ref=e598]:
+                  - link "تسالي وايس كريم" [ref=e599] [cursor=pointer]:
+                    - /url: /categories/80047
+                    - heading "تسالي وايس كريم" [level=5] [ref=e600]
+                - gridcell "2" [ref=e601]:
+                  - generic [ref=e602]: "2"
+                - gridcell [ref=e603]:
+                  - checkbox [ref=e606] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e608]:
+                  - link "Open CTA" [ref=e609] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80047
+              - row "Expand Row Logo اعواد خشب 4 Open CTA" [ref=e610]:
+                - button "Expand Row" [disabled] [ref=e612] [cursor=pointer]:
+                  - img [ref=e613]
+                - gridcell "Logo" [ref=e616]:
+                  - img "Logo" [ref=e618]
+                - gridcell "اعواد خشب" [ref=e619]:
+                  - link "اعواد خشب" [ref=e620] [cursor=pointer]:
+                    - /url: /categories/404
+                    - heading "اعواد خشب" [level=5] [ref=e621]
+                - gridcell "4" [ref=e622]:
+                  - generic [ref=e623]: "4"
+                - gridcell [ref=e624]:
+                  - checkbox [ref=e627] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e629]:
+                  - link "Open CTA" [ref=e630] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/404
+              - row "Expand Row Logo زيت الكمأه 5 Open CTA" [ref=e631]:
+                - button "Expand Row" [disabled] [ref=e633] [cursor=pointer]:
+                  - img [ref=e634]
+                - gridcell "Logo" [ref=e637]:
+                  - img "Logo" [ref=e639]
+                - gridcell "زيت الكمأه" [ref=e640]:
+                  - link "زيت الكمأه" [ref=e641] [cursor=pointer]:
+                    - /url: /categories/415
+                    - heading "زيت الكمأه" [level=5] [ref=e642]
+                - gridcell "5" [ref=e643]:
+                  - generic [ref=e644]: "5"
+                - gridcell [ref=e645]:
+                  - checkbox [ref=e648] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e650]:
+                  - link "Open CTA" [ref=e651] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/415
+              - row "Expand Row Logo وجبات خفيفه 12 Open CTA" [ref=e652]:
+                - button "Expand Row" [ref=e654] [cursor=pointer]:
+                  - img [ref=e655]
+                - gridcell "Logo" [ref=e658]:
+                  - img "Logo" [ref=e660]
+                - gridcell "وجبات خفيفه" [ref=e661]:
+                  - link "وجبات خفيفه" [ref=e662] [cursor=pointer]:
+                    - /url: /categories/417
+                    - heading "وجبات خفيفه" [level=5] [ref=e663]
+                - gridcell "12" [ref=e664]:
+                  - generic [ref=e665]: "12"
+                - gridcell [ref=e666]:
+                  - checkbox [ref=e669] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e671]:
+                  - link "Open CTA" [ref=e672] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/417
+              - row "Expand Row Logo زبدة 0 Open CTA" [ref=e673]:
+                - button "Expand Row" [disabled] [ref=e675] [cursor=pointer]:
+                  - img [ref=e676]
+                - gridcell "Logo" [ref=e679]:
+                  - img "Logo" [ref=e681]
+                - gridcell "زبدة" [ref=e682]:
+                  - link "زبدة" [ref=e683] [cursor=pointer]:
+                    - /url: /categories/80051
+                    - heading "زبدة" [level=5] [ref=e684]
+                - gridcell "0" [ref=e685]:
+                  - generic [ref=e686]: "0"
+                - gridcell [ref=e687]:
+                  - checkbox [ref=e690] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e692]:
+                  - link "Open CTA" [ref=e693] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80051
+              - row "Expand Row Logo تصنيف رائع جدا 11 Open CTA" [ref=e694]:
+                - button "Expand Row" [ref=e696] [cursor=pointer]:
+                  - img [ref=e697]
+                - gridcell "Logo" [ref=e700]:
+                  - img "Logo" [ref=e702]
+                - gridcell "تصنيف رائع جدا" [ref=e703]:
+                  - link "تصنيف رائع جدا" [ref=e704] [cursor=pointer]:
+                    - /url: /categories/80029
+                    - heading "تصنيف رائع جدا" [level=5] [ref=e705]
+                - gridcell "11" [ref=e706]:
+                  - generic [ref=e707]: "11"
+                - gridcell [ref=e708]:
+                  - checkbox [ref=e711] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e713]:
+                  - link "Open CTA" [ref=e714] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80029
+              - row "Expand Row Logo حلويات 2 Open CTA" [ref=e715]:
+                - button "Expand Row" [disabled] [ref=e717] [cursor=pointer]:
+                  - img [ref=e718]
+                - gridcell "Logo" [ref=e721]:
+                  - img "Logo" [ref=e723]
+                - gridcell "حلويات" [ref=e724]:
+                  - link "حلويات" [ref=e725] [cursor=pointer]:
+                    - /url: /categories/80034
+                    - heading "حلويات" [level=5] [ref=e726]
+                - gridcell "2" [ref=e727]:
+                  - generic [ref=e728]: "2"
+                - gridcell [ref=e729]:
+                  - checkbox [ref=e732] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e734]:
+                  - link "Open CTA" [ref=e735] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80034
+              - row "Expand Row Logo عروض رمضان 115 Open CTA" [ref=e736]:
+                - button "Expand Row" [ref=e738] [cursor=pointer]:
+                  - img [ref=e739]
+                - gridcell "Logo" [ref=e742]:
+                  - img "Logo" [ref=e744]
+                - gridcell "عروض رمضان" [ref=e745]:
+                  - link "عروض رمضان" [ref=e746] [cursor=pointer]:
+                    - /url: /categories/80020
+                    - heading "عروض رمضان" [level=5] [ref=e747]
+                - gridcell "115" [ref=e748]:
+                  - generic [ref=e749]: "115"
+                - gridcell [ref=e750]:
+                  - checkbox [ref=e753] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e755]:
+                  - link "Open CTA" [ref=e756] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80020
+              - row "Expand Row Logo سناكس 37 Open CTA" [ref=e757]:
+                - button "Expand Row" [ref=e759] [cursor=pointer]:
+                  - img [ref=e760]
+                - gridcell "Logo" [ref=e763]:
+                  - img "Logo" [ref=e765]
+                - gridcell "سناكس" [ref=e766]:
+                  - link "سناكس" [ref=e767] [cursor=pointer]:
+                    - /url: /categories/324
+                    - heading "سناكس" [level=5] [ref=e768]
+                - gridcell "37" [ref=e769]:
+                  - generic [ref=e770]: "37"
+                - gridcell [ref=e771]:
+                  - checkbox [ref=e774] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e776]:
+                  - link "Open CTA" [ref=e777] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/324
+              - row "Expand Row Logo تشيز كيك 24 Open CTA" [ref=e778]:
+                - button "Expand Row" [disabled] [ref=e780] [cursor=pointer]:
+                  - img [ref=e781]
+                - gridcell "Logo" [ref=e784]:
+                  - img "Logo" [ref=e786]
+                - gridcell "تشيز كيك" [ref=e787]:
+                  - link "تشيز كيك" [ref=e788] [cursor=pointer]:
+                    - /url: /categories/414
+                    - heading "تشيز كيك" [level=5] [ref=e789]
+                - gridcell "24" [ref=e790]:
+                  - generic [ref=e791]: "24"
+                - gridcell [ref=e792]:
+                  - checkbox [ref=e795] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e797]:
+                  - link "Open CTA" [ref=e798] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/414
+              - row "Expand Row Logo شاي 16 Open CTA" [ref=e799]:
+                - button "Expand Row" [ref=e801] [cursor=pointer]:
+                  - img [ref=e802]
+                - gridcell "Logo" [ref=e805]:
+                  - img "Logo" [ref=e807]
+                - gridcell "شاي" [ref=e808]:
+                  - link "شاي" [ref=e809] [cursor=pointer]:
+                    - /url: /categories/80042
+                    - heading "شاي" [level=5] [ref=e810]
+                - gridcell "16" [ref=e811]:
+                  - generic [ref=e812]: "16"
+                - gridcell [ref=e813]:
+                  - checkbox [ref=e816] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e818]:
+                  - link "Open CTA" [ref=e819] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80042
+              - row "Expand Row Logo رموش 6 Open CTA" [ref=e820]:
+                - button "Expand Row" [disabled] [ref=e822] [cursor=pointer]:
+                  - img [ref=e823]
+                - gridcell "Logo" [ref=e826]:
+                  - img "Logo" [ref=e828]
+                - gridcell "رموش" [ref=e829]:
+                  - link "رموش" [ref=e830] [cursor=pointer]:
+                    - /url: /categories/80008
+                    - heading "رموش" [level=5] [ref=e831]
+                - gridcell "6" [ref=e832]:
+                  - generic [ref=e833]: "6"
+                - gridcell [ref=e834]:
+                  - checkbox [ref=e837] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e839]:
+                  - link "Open CTA" [ref=e840] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80008
+              - row "Expand Row Logo رسوم السوق 0 Open CTA" [ref=e841]:
+                - button "Expand Row" [disabled] [ref=e843] [cursor=pointer]:
+                  - img [ref=e844]
+                - gridcell "Logo" [ref=e847]:
+                  - img "Logo" [ref=e849]
+                - gridcell "رسوم السوق" [ref=e850]:
+                  - link "رسوم السوق" [ref=e851] [cursor=pointer]:
+                    - /url: /categories/264
+                    - heading "رسوم السوق" [level=5] [ref=e852]
+                - gridcell "0" [ref=e853]:
+                  - generic [ref=e854]: "0"
+                - gridcell [ref=e855]:
+                  - checkbox [ref=e858] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e860]:
+                  - link "Open CTA" [ref=e861] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/264
+              - row "Expand Row Logo سلطة 0 Open CTA" [ref=e862]:
+                - button "Expand Row" [disabled] [ref=e864] [cursor=pointer]:
+                  - img [ref=e865]
+                - gridcell "Logo" [ref=e868]:
+                  - img "Logo" [ref=e870]
+                - gridcell "سلطة" [ref=e871]:
+                  - link "سلطة" [ref=e872] [cursor=pointer]:
+                    - /url: /categories/422
+                    - heading "سلطة" [level=5] [ref=e873]
+                - gridcell "0" [ref=e874]:
+                  - generic [ref=e875]: "0"
+                - gridcell [ref=e876]:
+                  - checkbox [ref=e879] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e881]:
+                  - link "Open CTA" [ref=e882] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/422
+              - row "Expand Row Logo قهوة 117 Open CTA" [ref=e883]:
+                - button "Expand Row" [ref=e885] [cursor=pointer]:
+                  - img [ref=e886]
+                - gridcell "Logo" [ref=e889]:
+                  - img "Logo" [ref=e891]
+                - gridcell "قهوة" [ref=e892]:
+                  - link "قهوة" [ref=e893] [cursor=pointer]:
+                    - /url: /categories/254
+                    - heading "قهوة" [level=5] [ref=e894]
+                - gridcell "117" [ref=e895]:
+                  - generic [ref=e896]: "117"
+                - gridcell [ref=e897]:
+                  - checkbox [ref=e900] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e902]:
+                  - link "Open CTA" [ref=e903] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/254
+              - row "Expand Row Logo مخبوزات 17 Open CTA" [ref=e904]:
+                - button "Expand Row" [disabled] [ref=e906] [cursor=pointer]:
+                  - img [ref=e907]
+                - gridcell "Logo" [ref=e910]:
+                  - img "Logo" [ref=e912]
+                - gridcell "مخبوزات" [ref=e913]:
+                  - link "مخبوزات" [ref=e914] [cursor=pointer]:
+                    - /url: /categories/80032
+                    - heading "مخبوزات" [level=5] [ref=e915]
+                - gridcell "17" [ref=e916]:
+                  - generic [ref=e917]: "17"
+                - gridcell [ref=e918]:
+                  - checkbox [ref=e921] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e923]:
+                  - link "Open CTA" [ref=e924] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80032
+              - row "Expand Row Logo الاكثر بحثا 46 Open CTA" [ref=e925]:
+                - button "Expand Row" [disabled] [ref=e927] [cursor=pointer]:
+                  - img [ref=e928]
+                - gridcell "Logo" [ref=e931]:
+                  - img "Logo" [ref=e933]
+                - gridcell "الاكثر بحثا" [ref=e934]:
+                  - link "الاكثر بحثا" [ref=e935] [cursor=pointer]:
+                    - /url: /categories/80057
+                    - heading "الاكثر بحثا" [level=5] [ref=e936]
+                - gridcell "46" [ref=e937]:
+                  - generic [ref=e938]: "46"
+                - gridcell [ref=e939]:
+                  - checkbox [ref=e942] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e944]:
+                  - link "Open CTA" [ref=e945] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80057
+              - row "Expand Row Logo حلويات شرقية 134 Open CTA" [ref=e946]:
+                - button "Expand Row" [ref=e948] [cursor=pointer]:
+                  - img [ref=e949]
+                - gridcell "Logo" [ref=e952]:
+                  - img "Logo" [ref=e954]
+                - gridcell "حلويات شرقية" [ref=e955]:
+                  - link "حلويات شرقية" [ref=e956] [cursor=pointer]:
+                    - /url: /categories/332
+                    - heading "حلويات شرقية" [level=5] [ref=e957]
+                - gridcell "134" [ref=e958]:
+                  - generic [ref=e959]: "134"
+                - gridcell [ref=e960]:
+                  - checkbox [ref=e963] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e965]:
+                  - link "Open CTA" [ref=e966] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/332
+              - row "Expand Row Logo طحينة 1 Open CTA" [ref=e967]:
+                - button "Expand Row" [ref=e969] [cursor=pointer]:
+                  - img [ref=e970]
+                - gridcell "Logo" [ref=e973]:
+                  - img "Logo" [ref=e975]
+                - gridcell "طحينة" [ref=e976]:
+                  - link "طحينة" [ref=e977] [cursor=pointer]:
+                    - /url: /categories/401
+                    - heading "طحينة" [level=5] [ref=e978]
+                - gridcell "1" [ref=e979]:
+                  - generic [ref=e980]: "1"
+                - gridcell [ref=e981]:
+                  - checkbox [ref=e984] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e986]:
+                  - link "Open CTA" [ref=e987] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/401
+              - row "Expand Row Logo زيت زيتون 3 Open CTA" [ref=e988]:
+                - button "Expand Row" [disabled] [ref=e990] [cursor=pointer]:
+                  - img [ref=e991]
+                - gridcell "Logo" [ref=e994]:
+                  - img "Logo" [ref=e996]
+                - gridcell "زيت زيتون" [ref=e997]:
+                  - link "زيت زيتون" [ref=e998] [cursor=pointer]:
+                    - /url: /categories/400
+                    - heading "زيت زيتون" [level=5] [ref=e999]
+                - gridcell "3" [ref=e1000]:
+                  - generic [ref=e1001]: "3"
+                - gridcell [ref=e1002]:
+                  - checkbox [ref=e1005] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1007]:
+                  - link "Open CTA" [ref=e1008] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/400
+              - row "Expand Row Logo نودلز 2 Open CTA" [ref=e1009]:
+                - button "Expand Row" [disabled] [ref=e1011] [cursor=pointer]:
+                  - img [ref=e1012]
+                - gridcell "Logo" [ref=e1015]:
+                  - img "Logo" [ref=e1017]
+                - gridcell "نودلز" [ref=e1018]:
+                  - link "نودلز" [ref=e1019] [cursor=pointer]:
+                    - /url: /categories/399
+                    - heading "نودلز" [level=5] [ref=e1020]
+                - gridcell "2" [ref=e1021]:
+                  - generic [ref=e1022]: "2"
+                - gridcell [ref=e1023]:
+                  - checkbox [ref=e1026] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1028]:
+                  - link "Open CTA" [ref=e1029] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/399
+              - row "Expand Row Logo المفضلات 40 Open CTA" [ref=e1030]:
+                - button "Expand Row" [disabled] [ref=e1032] [cursor=pointer]:
+                  - img [ref=e1033]
+                - gridcell "Logo" [ref=e1036]:
+                  - img "Logo" [ref=e1038]
+                - gridcell "المفضلات" [ref=e1039]:
+                  - link "المفضلات" [ref=e1040] [cursor=pointer]:
+                    - /url: /categories/80046
+                    - heading "المفضلات" [level=5] [ref=e1041]
+                - gridcell "40" [ref=e1042]:
+                  - generic [ref=e1043]: "40"
+                - gridcell [ref=e1044]:
+                  - checkbox [ref=e1047] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1049]:
+                  - link "Open CTA" [ref=e1050] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80046
+              - row "Expand Row Logo تمر المدينة المنورة 85 Open CTA" [ref=e1051]:
+                - button "Expand Row" [disabled] [ref=e1053] [cursor=pointer]:
+                  - img [ref=e1054]
+                - gridcell "Logo" [ref=e1057]:
+                  - img "Logo" [ref=e1059]
+                - gridcell "تمر المدينة المنورة" [ref=e1060]:
+                  - link "تمر المدينة المنورة" [ref=e1061] [cursor=pointer]:
+                    - /url: /categories/80040
+                    - heading "تمر المدينة المنورة" [level=5] [ref=e1062]
+                - gridcell "85" [ref=e1063]:
+                  - generic [ref=e1064]: "85"
+                - gridcell [ref=e1065]:
+                  - checkbox [ref=e1068] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1070]:
+                  - link "Open CTA" [ref=e1071] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80040
+              - row "Expand Row Logo أيس كريم 4 Open CTA" [ref=e1072]:
+                - button "Expand Row" [ref=e1074] [cursor=pointer]:
+                  - img [ref=e1075]
+                - gridcell "Logo" [ref=e1078]:
+                  - img "Logo" [ref=e1080]
+                - gridcell "أيس كريم" [ref=e1081]:
+                  - link "أيس كريم" [ref=e1082] [cursor=pointer]:
+                    - /url: /categories/348
+                    - heading "أيس كريم" [level=5] [ref=e1083]
+                - gridcell "4" [ref=e1084]:
+                  - generic [ref=e1085]: "4"
+                - gridcell [ref=e1086]:
+                  - checkbox [ref=e1089] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1091]:
+                  - link "Open CTA" [ref=e1092] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/348
+              - row "Expand Row Logo مشروبات 1 Open CTA" [ref=e1093]:
+                - button "Expand Row" [ref=e1095] [cursor=pointer]:
+                  - img [ref=e1096]
+                - gridcell "Logo" [ref=e1099]:
+                  - img "Logo" [ref=e1101]
+                - gridcell "مشروبات" [ref=e1102]:
+                  - link "مشروبات" [ref=e1103] [cursor=pointer]:
+                    - /url: /categories/379
+                    - heading "مشروبات" [level=5] [ref=e1104]
+                - gridcell "1" [ref=e1105]:
+                  - generic [ref=e1106]: "1"
+                - gridcell [ref=e1107]:
+                  - checkbox [ref=e1110] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1112]:
+                  - link "Open CTA" [ref=e1113] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/379
+              - row "Expand Row Logo موالح 33 Open CTA" [ref=e1114]:
+                - button "Expand Row" [ref=e1116] [cursor=pointer]:
+                  - img [ref=e1117]
+                - gridcell "Logo" [ref=e1120]:
+                  - img "Logo" [ref=e1122]
+                - gridcell "موالح" [ref=e1123]:
+                  - link "موالح" [ref=e1124] [cursor=pointer]:
+                    - /url: /categories/353
+                    - heading "موالح" [level=5] [ref=e1125]
+                - gridcell "33" [ref=e1126]:
+                  - generic [ref=e1127]: "33"
+                - gridcell [ref=e1128]:
+                  - checkbox [ref=e1131] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1133]:
+                  - link "Open CTA" [ref=e1134] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/353
+              - row "Expand Row Logo المعجنات 3 Open CTA" [ref=e1135]:
+                - button "Expand Row" [ref=e1137] [cursor=pointer]:
+                  - img [ref=e1138]
+                - gridcell "Logo" [ref=e1141]:
+                  - img "Logo" [ref=e1143]
+                - gridcell "المعجنات" [ref=e1144]:
+                  - link "المعجنات" [ref=e1145] [cursor=pointer]:
+                    - /url: /categories/356
+                    - heading "المعجنات" [level=5] [ref=e1146]
+                - gridcell "3" [ref=e1147]:
+                  - generic [ref=e1148]: "3"
+                - gridcell [ref=e1149]:
+                  - checkbox [ref=e1152] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1154]:
+                  - link "Open CTA" [ref=e1155] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/356
+              - row "Expand Row Logo تمور 12 Open CTA" [ref=e1156]:
+                - button "Expand Row" [ref=e1158] [cursor=pointer]:
+                  - img [ref=e1159]
+                - gridcell "Logo" [ref=e1162]:
+                  - img "Logo" [ref=e1164]
+                - gridcell "تمور" [ref=e1165]:
+                  - link "تمور" [ref=e1166] [cursor=pointer]:
+                    - /url: /categories/365
+                    - heading "تمور" [level=5] [ref=e1167]
+                - gridcell "12" [ref=e1168]:
+                  - generic [ref=e1169]: "12"
+                - gridcell [ref=e1170]:
+                  - checkbox [ref=e1173] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1175]:
+                  - link "Open CTA" [ref=e1176] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/365
+              - row "Expand Row Logo نكهات 0 Open CTA" [ref=e1177]:
+                - button "Expand Row" [disabled] [ref=e1179] [cursor=pointer]:
+                  - img [ref=e1180]
+                - gridcell "Logo" [ref=e1183]:
+                  - img "Logo" [ref=e1185]
+                - gridcell "نكهات" [ref=e1186]:
+                  - link "نكهات" [ref=e1187] [cursor=pointer]:
+                    - /url: /categories/405
+                    - heading "نكهات" [level=5] [ref=e1188]
+                - gridcell "0" [ref=e1189]:
+                  - generic [ref=e1190]: "0"
+                - gridcell [ref=e1191]:
+                  - checkbox [ref=e1194] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1196]:
+                  - link "Open CTA" [ref=e1197] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/405
+              - row "Expand Row Logo مواد غذائية 77 Open CTA" [ref=e1198]:
+                - button "Expand Row" [ref=e1200] [cursor=pointer]:
+                  - img [ref=e1201]
+                - gridcell "Logo" [ref=e1204]:
+                  - img "Logo" [ref=e1206]
+                - gridcell "مواد غذائية" [ref=e1207]:
+                  - link "مواد غذائية" [ref=e1208] [cursor=pointer]:
+                    - /url: /categories/410
+                    - heading "مواد غذائية" [level=5] [ref=e1209]
+                - gridcell "77" [ref=e1210]:
+                  - generic [ref=e1211]: "77"
+                - gridcell [ref=e1212]:
+                  - checkbox [ref=e1215] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1217]:
+                  - link "Open CTA" [ref=e1218] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/410
+              - row "Expand Row Logo أكياس حلويات 54 Open CTA" [ref=e1219]:
+                - button "Expand Row" [disabled] [ref=e1221] [cursor=pointer]:
+                  - img [ref=e1222]
+                - gridcell "Logo" [ref=e1225]:
+                  - img "Logo" [ref=e1227]
+                - gridcell "أكياس حلويات" [ref=e1228]:
+                  - link "أكياس حلويات" [ref=e1229] [cursor=pointer]:
+                    - /url: /categories/385
+                    - heading "أكياس حلويات" [level=5] [ref=e1230]
+                - gridcell "54" [ref=e1231]:
+                  - generic [ref=e1232]: "54"
+                - gridcell [ref=e1233]:
+                  - checkbox [ref=e1236] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1238]:
+                  - link "Open CTA" [ref=e1239] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/385
+              - row "Expand Row Logo علب حلويات 29 Open CTA" [ref=e1240]:
+                - button "Expand Row" [disabled] [ref=e1242] [cursor=pointer]:
+                  - img [ref=e1243]
+                - gridcell "Logo" [ref=e1246]:
+                  - img "Logo" [ref=e1248]
+                - gridcell "علب حلويات" [ref=e1249]:
+                  - link "علب حلويات" [ref=e1250] [cursor=pointer]:
+                    - /url: /categories/386
+                    - heading "علب حلويات" [level=5] [ref=e1251]
+                - gridcell "29" [ref=e1252]:
+                  - generic [ref=e1253]: "29"
+                - gridcell [ref=e1254]:
+                  - checkbox [ref=e1257] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1259]:
+                  - link "Open CTA" [ref=e1260] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/386
+              - row "Expand Row Logo اختبار التصنيفات 89 Open CTA" [ref=e1261]:
+                - button "Expand Row" [ref=e1263] [cursor=pointer]:
+                  - img [ref=e1264]
+                - gridcell "Logo" [ref=e1267]:
+                  - img "Logo" [ref=e1269]
+                - gridcell "اختبار التصنيفات" [ref=e1270]:
+                  - link "اختبار التصنيفات" [ref=e1271] [cursor=pointer]:
+                    - /url: /categories/80048
+                    - heading "اختبار التصنيفات" [level=5] [ref=e1272]
+                - gridcell "89" [ref=e1273]:
+                  - generic [ref=e1274]: "89"
+                - gridcell [ref=e1275]:
+                  - checkbox [ref=e1278] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1280]:
+                  - link "Open CTA" [ref=e1281] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80048
+              - row "Expand Row Logo new category 1 Open CTA" [ref=e1282]:
+                - button "Expand Row" [ref=e1284] [cursor=pointer]:
+                  - img [ref=e1285]
+                - gridcell "Logo" [ref=e1288]:
+                  - img "Logo" [ref=e1290]
+                - gridcell "new category" [ref=e1291]:
+                  - link "new category" [ref=e1292] [cursor=pointer]:
+                    - /url: /categories/80012
+                    - heading "new category" [level=5] [ref=e1293]
+                - gridcell "1" [ref=e1294]:
+                  - generic [ref=e1295]: "1"
+                - gridcell [ref=e1296]:
+                  - checkbox [ref=e1299] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1301]:
+                  - link "Open CTA" [ref=e1302] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80012
+              - row "Expand Row Logo مصنف ايه 3 Open CTA" [ref=e1303]:
+                - button "Expand Row" [disabled] [ref=e1305] [cursor=pointer]:
+                  - img [ref=e1306]
+                - gridcell "Logo" [ref=e1309]:
+                  - img "Logo" [ref=e1311]
+                - gridcell "مصنف ايه" [ref=e1312]:
+                  - link "مصنف ايه" [ref=e1313] [cursor=pointer]:
+                    - /url: /categories/80035
+                    - heading "مصنف ايه" [level=5] [ref=e1314]
+                - gridcell "3" [ref=e1315]:
+                  - generic [ref=e1316]: "3"
+                - gridcell [ref=e1317]:
+                  - checkbox [ref=e1320] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1322]:
+                  - link "Open CTA" [ref=e1323] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80035
+              - row "Expand Row Logo شامل عينات 40 Open CTA" [ref=e1324]:
+                - button "Expand Row" [disabled] [ref=e1326] [cursor=pointer]:
+                  - img [ref=e1327]
+                - gridcell "Logo" [ref=e1330]:
+                  - img "Logo" [ref=e1332]
+                - gridcell "شامل عينات" [ref=e1333]:
+                  - link "شامل عينات" [ref=e1334] [cursor=pointer]:
+                    - /url: /categories/80052
+                    - heading "شامل عينات" [level=5] [ref=e1335]
+                - gridcell "40" [ref=e1336]:
+                  - generic [ref=e1337]: "40"
+                - gridcell [ref=e1338]:
+                  - checkbox [ref=e1341] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1343]:
+                  - link "Open CTA" [ref=e1344] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80052
+              - row "Expand Row Logo مواد خام 19 Open CTA" [ref=e1345]:
+                - button "Expand Row" [ref=e1347] [cursor=pointer]:
+                  - img [ref=e1348]
+                - gridcell "Logo" [ref=e1351]:
+                  - img "Logo" [ref=e1353]
+                - gridcell "مواد خام" [ref=e1354]:
+                  - link "مواد خام" [ref=e1355] [cursor=pointer]:
+                    - /url: /categories/80017
+                    - heading "مواد خام" [level=5] [ref=e1356]
+                - gridcell "19" [ref=e1357]:
+                  - generic [ref=e1358]: "19"
+                - gridcell [ref=e1359]:
+                  - checkbox [ref=e1362] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1364]:
+                  - link "Open CTA" [ref=e1365] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80017
+              - row "Expand Row Logo xccccccc 3 Open CTA" [ref=e1366]:
+                - button "Expand Row" [disabled] [ref=e1368] [cursor=pointer]:
+                  - img [ref=e1369]
+                - gridcell "Logo" [ref=e1372]:
+                  - img "Logo" [ref=e1374]
+                - gridcell "xccccccc" [ref=e1375]:
+                  - link "xccccccc" [ref=e1376] [cursor=pointer]:
+                    - /url: /categories/80011
+                    - heading "xccccccc" [level=5] [ref=e1377]
+                - gridcell "3" [ref=e1378]:
+                  - generic [ref=e1379]: "3"
+                - gridcell [ref=e1380]:
+                  - checkbox [ref=e1383] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1385]:
+                  - link "Open CTA" [ref=e1386] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80011
+              - row "Expand Row Logo ترفيهيات 1 Open CTA" [ref=e1387]:
+                - button "Expand Row" [disabled] [ref=e1389] [cursor=pointer]:
+                  - img [ref=e1390]
+                - gridcell "Logo" [ref=e1393]:
+                  - img "Logo" [ref=e1395]
+                - gridcell "ترفيهيات" [ref=e1396]:
+                  - link "ترفيهيات" [ref=e1397] [cursor=pointer]:
+                    - /url: /categories/80016
+                    - heading "ترفيهيات" [level=5] [ref=e1398]
+                - gridcell "1" [ref=e1399]:
+                  - generic [ref=e1400]: "1"
+                - gridcell [ref=e1401]:
+                  - checkbox [ref=e1404] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1406]:
+                  - link "Open CTA" [ref=e1407] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80016
+              - row "Expand Row Logo مشروبات 123.0+-*/!@#$ 0 Open CTA" [ref=e1408]:
+                - button "Expand Row" [disabled] [ref=e1410] [cursor=pointer]:
+                  - img [ref=e1411]
+                - gridcell "Logo" [ref=e1414]:
+                  - img "Logo" [ref=e1416]
+                - gridcell "مشروبات 123.0+-*/!@#$" [ref=e1417]:
+                  - link "مشروبات 123.0+-*/!@#$" [ref=e1418] [cursor=pointer]:
+                    - /url: /categories/80045
+                    - heading "مشروبات 123.0+-*/!@#$" [level=5] [ref=e1419]
+                - gridcell "0" [ref=e1420]:
+                  - generic [ref=e1421]: "0"
+                - gridcell [ref=e1422]:
+                  - checkbox [ref=e1425] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1427]:
+                  - link "Open CTA" [ref=e1428] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80045
+              - row "Expand Row Logo كيك 56 Open CTA" [ref=e1429]:
+                - button "Expand Row" [ref=e1431] [cursor=pointer]:
+                  - img [ref=e1432]
+                - gridcell "Logo" [ref=e1435]:
+                  - img "Logo" [ref=e1437]
+                - gridcell "كيك" [ref=e1438]:
+                  - link "كيك" [ref=e1439] [cursor=pointer]:
+                    - /url: /categories/326
+                    - heading "كيك" [level=5] [ref=e1440]
+                - gridcell "56" [ref=e1441]:
+                  - generic [ref=e1442]: "56"
+                - gridcell [ref=e1443]:
+                  - checkbox [ref=e1446] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1448]:
+                  - link "Open CTA" [ref=e1449] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/326
+              - row "Expand Row Logo سي سي 0 Open CTA" [ref=e1450]:
+                - button "Expand Row" [disabled] [ref=e1452] [cursor=pointer]:
+                  - img [ref=e1453]
+                - gridcell "Logo" [ref=e1456]:
+                  - img "Logo" [ref=e1458]
+                - gridcell "سي سي" [ref=e1459]:
+                  - link "سي سي" [ref=e1460] [cursor=pointer]:
+                    - /url: /categories/80044
+                    - heading "سي سي" [level=5] [ref=e1461]
+                - gridcell "0" [ref=e1462]:
+                  - generic [ref=e1463]: "0"
+                - gridcell [ref=e1464]:
+                  - checkbox [ref=e1467] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1469]:
+                  - link "Open CTA" [ref=e1470] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80044
+              - row "Expand Row Logo حلويات مغربية 0 Open CTA" [ref=e1471]:
+                - button "Expand Row" [disabled] [ref=e1473] [cursor=pointer]:
+                  - img [ref=e1474]
+                - gridcell "Logo" [ref=e1477]:
+                  - img "Logo" [ref=e1479]
+                - gridcell "حلويات مغربية" [ref=e1480]:
+                  - link "حلويات مغربية" [ref=e1481] [cursor=pointer]:
+                    - /url: /categories/418
+                    - heading "حلويات مغربية" [level=5] [ref=e1482]
+                - gridcell "0" [ref=e1483]:
+                  - generic [ref=e1484]: "0"
+                - gridcell [ref=e1485]:
+                  - checkbox [ref=e1488] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1490]:
+                  - link "Open CTA" [ref=e1491] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/418
+              - row "Expand Row Logo دونات 3 Open CTA" [ref=e1492]:
+                - button "Expand Row" [disabled] [ref=e1494] [cursor=pointer]:
+                  - img [ref=e1495]
+                - gridcell "Logo" [ref=e1498]:
+                  - img "Logo" [ref=e1500]
+                - gridcell "دونات" [ref=e1501]:
+                  - link "دونات" [ref=e1502] [cursor=pointer]:
+                    - /url: /categories/419
+                    - heading "دونات" [level=5] [ref=e1503]
+                - gridcell "3" [ref=e1504]:
+                  - generic [ref=e1505]: "3"
+                - gridcell [ref=e1506]:
+                  - checkbox [ref=e1509] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1511]:
+                  - link "Open CTA" [ref=e1512] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/419
+              - row "Expand Row Logo ايس كريم 0 Open CTA" [ref=e1513]:
+                - button "Expand Row" [disabled] [ref=e1515] [cursor=pointer]:
+                  - img [ref=e1516]
+                - gridcell "Logo" [ref=e1519]:
+                  - img "Logo" [ref=e1521]
+                - gridcell "ايس كريم" [ref=e1522]:
+                  - link "ايس كريم" [ref=e1523] [cursor=pointer]:
+                    - /url: /categories/423
+                    - heading "ايس كريم" [level=5] [ref=e1524]
+                - gridcell "0" [ref=e1525]:
+                  - generic [ref=e1526]: "0"
+                - gridcell [ref=e1527]:
+                  - checkbox [ref=e1530] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1532]:
+                  - link "Open CTA" [ref=e1533] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/423
+              - row "Expand Row Logo حلويات مغلفة 0 Open CTA" [ref=e1534]:
+                - button "Expand Row" [disabled] [ref=e1536] [cursor=pointer]:
+                  - img [ref=e1537]
+                - gridcell "Logo" [ref=e1540]:
+                  - img "Logo" [ref=e1542]
+                - gridcell "حلويات مغلفة" [ref=e1543]:
+                  - link "حلويات مغلفة" [ref=e1544] [cursor=pointer]:
+                    - /url: /categories/424
+                    - heading "حلويات مغلفة" [level=5] [ref=e1545]
+                - gridcell "0" [ref=e1546]:
+                  - generic [ref=e1547]: "0"
+                - gridcell [ref=e1548]:
+                  - checkbox [ref=e1551] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1553]:
+                  - link "Open CTA" [ref=e1554] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/424
+              - row "Expand Row Logo شوكولاتة مكشوفة 535 Open CTA" [ref=e1555]:
+                - button "Expand Row" [ref=e1557] [cursor=pointer]:
+                  - img [ref=e1558]
+                - gridcell "Logo" [ref=e1561]:
+                  - img "Logo" [ref=e1563]
+                - gridcell "شوكولاتة مكشوفة" [ref=e1564]:
+                  - link "شوكولاتة مكشوفة" [ref=e1565] [cursor=pointer]:
+                    - /url: /categories/167
+                    - heading "شوكولاتة مكشوفة" [level=5] [ref=e1566]
+                - gridcell "535" [ref=e1567]:
+                  - generic [ref=e1568]: "535"
+                - gridcell [ref=e1569]:
+                  - checkbox [ref=e1572] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1574]:
+                  - link "Open CTA" [ref=e1575] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/167
+              - row "Expand Row Logo تمريات 12 Open CTA" [ref=e1576]:
+                - button "Expand Row" [ref=e1578] [cursor=pointer]:
+                  - img [ref=e1579]
+                - gridcell "Logo" [ref=e1582]:
+                  - img "Logo" [ref=e1584]
+                - gridcell "تمريات" [ref=e1585]:
+                  - link "تمريات" [ref=e1586] [cursor=pointer]:
+                    - /url: /categories/323
+                    - heading "تمريات" [level=5] [ref=e1587]
+                - gridcell "12" [ref=e1588]:
+                  - generic [ref=e1589]: "12"
+                - gridcell [ref=e1590]:
+                  - checkbox [ref=e1593] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1595]:
+                  - link "Open CTA" [ref=e1596] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/323
+              - row "Expand Row Logo زيت قلي وطهي 2 Open CTA" [ref=e1597]:
+                - button "Expand Row" [disabled] [ref=e1599] [cursor=pointer]:
+                  - img [ref=e1600]
+                - gridcell "Logo" [ref=e1603]:
+                  - img "Logo" [ref=e1605]
+                - gridcell "زيت قلي وطهي" [ref=e1606]:
+                  - link "زيت قلي وطهي" [ref=e1607] [cursor=pointer]:
+                    - /url: /categories/412
+                    - heading "زيت قلي وطهي" [level=5] [ref=e1608]
+                - gridcell "2" [ref=e1609]:
+                  - generic [ref=e1610]: "2"
+                - gridcell [ref=e1611]:
+                  - checkbox [ref=e1614] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1616]:
+                  - link "Open CTA" [ref=e1617] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/412
+              - row "Expand Row Logo بسكويت شوكولاته 23 Open CTA" [ref=e1618]:
+                - button "Expand Row" [disabled] [ref=e1620] [cursor=pointer]:
+                  - img [ref=e1621]
+                - gridcell "Logo" [ref=e1624]:
+                  - img "Logo" [ref=e1626]
+                - gridcell "بسكويت شوكولاته" [ref=e1627]:
+                  - link "بسكويت شوكولاته" [ref=e1628] [cursor=pointer]:
+                    - /url: /categories/387
+                    - heading "بسكويت شوكولاته" [level=5] [ref=e1629]
+                - gridcell "23" [ref=e1630]:
+                  - generic [ref=e1631]: "23"
+                - gridcell [ref=e1632]:
+                  - checkbox [ref=e1635] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1637]:
+                  - link "Open CTA" [ref=e1638] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/387
+              - row "Expand Row Logo أدوات واكسسوارات 10 Open CTA" [ref=e1639]:
+                - button "Expand Row" [disabled] [ref=e1641] [cursor=pointer]:
+                  - img [ref=e1642]
+                - gridcell "Logo" [ref=e1645]:
+                  - img "Logo" [ref=e1647]
+                - gridcell "أدوات واكسسوارات" [ref=e1648]:
+                  - link "أدوات واكسسوارات" [ref=e1649] [cursor=pointer]:
+                    - /url: /categories/413
+                    - heading "أدوات واكسسوارات" [level=5] [ref=e1650]
+                - gridcell "10" [ref=e1651]:
+                  - generic [ref=e1652]: "10"
+                - gridcell [ref=e1653]:
+                  - checkbox [ref=e1656] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1658]:
+                  - link "Open CTA" [ref=e1659] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/413
+              - row "Expand Row Logo عصير فواكه 0 Open CTA" [ref=e1660]:
+                - button "Expand Row" [disabled] [ref=e1662] [cursor=pointer]:
+                  - img [ref=e1663]
+                - gridcell "Logo" [ref=e1666]:
+                  - img "Logo" [ref=e1668]
+                - gridcell "عصير فواكه" [ref=e1669]:
+                  - link "عصير فواكه" [ref=e1670] [cursor=pointer]:
+                    - /url: /categories/388
+                    - heading "عصير فواكه" [level=5] [ref=e1671]
+                - gridcell "0" [ref=e1672]:
+                  - generic [ref=e1673]: "0"
+                - gridcell [ref=e1674]:
+                  - checkbox [ref=e1677] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1679]:
+                  - link "Open CTA" [ref=e1680] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/388
+              - row "Expand Row Logo بهارات 14 Open CTA" [ref=e1681]:
+                - button "Expand Row" [disabled] [ref=e1683] [cursor=pointer]:
+                  - img [ref=e1684]
+                - gridcell "Logo" [ref=e1687]:
+                  - img "Logo" [ref=e1689]
+                - gridcell "بهارات" [ref=e1690]:
+                  - link "بهارات" [ref=e1691] [cursor=pointer]:
+                    - /url: /categories/391
+                    - heading "بهارات" [level=5] [ref=e1692]
+                - gridcell "14" [ref=e1693]:
+                  - generic [ref=e1694]: "14"
+                - gridcell [ref=e1695]:
+                  - checkbox [ref=e1698] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1700]:
+                  - link "Open CTA" [ref=e1701] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/391
+              - row "Expand Row Logo تيست 0 Open CTA" [ref=e1702]:
+                - button "Expand Row" [disabled] [ref=e1704] [cursor=pointer]:
+                  - img [ref=e1705]
+                - gridcell "Logo" [ref=e1708]:
+                  - img "Logo" [ref=e1710]
+                - gridcell "تيست" [ref=e1711]:
+                  - link "تيست" [ref=e1712] [cursor=pointer]:
+                    - /url: /categories/80053
+                    - heading "تيست" [level=5] [ref=e1713]
+                - gridcell "0" [ref=e1714]:
+                  - generic [ref=e1715]: "0"
+                - gridcell [ref=e1716]:
+                  - checkbox [ref=e1719] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1721]:
+                  - link "Open CTA" [ref=e1722] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80053
+              - row "Expand Row Logo تيست 2 0 Open CTA" [ref=e1723]:
+                - button "Expand Row" [disabled] [ref=e1725] [cursor=pointer]:
+                  - img [ref=e1726]
+                - gridcell "Logo" [ref=e1729]:
+                  - img "Logo" [ref=e1731]
+                - gridcell "تيست 2" [ref=e1732]:
+                  - link "تيست 2" [ref=e1733] [cursor=pointer]:
+                    - /url: /categories/80054
+                    - heading "تيست 2" [level=5] [ref=e1734]
+                - gridcell "0" [ref=e1735]:
+                  - generic [ref=e1736]: "0"
+                - gridcell [ref=e1737]:
+                  - checkbox [ref=e1740] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1742]:
+                  - link "Open CTA" [ref=e1743] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80054
+              - row "Expand Row Logo تيست 3 0 Open CTA" [ref=e1744]:
+                - button "Expand Row" [disabled] [ref=e1746] [cursor=pointer]:
+                  - img [ref=e1747]
+                - gridcell "Logo" [ref=e1750]:
+                  - img "Logo" [ref=e1752]
+                - gridcell "تيست 3" [ref=e1753]:
+                  - link "تيست 3" [ref=e1754] [cursor=pointer]:
+                    - /url: /categories/80055
+                    - heading "تيست 3" [level=5] [ref=e1755]
+                - gridcell "0" [ref=e1756]:
+                  - generic [ref=e1757]: "0"
+                - gridcell [ref=e1758]:
+                  - checkbox [ref=e1761] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1763]:
+                  - link "Open CTA" [ref=e1764] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80055
+              - row "Expand Row Logo حلويات المولد 11 Open CTA" [ref=e1765]:
+                - button "Expand Row" [disabled] [ref=e1767] [cursor=pointer]:
+                  - img [ref=e1768]
+                - gridcell "Logo" [ref=e1771]:
+                  - img "Logo" [ref=e1773]
+                - gridcell "حلويات المولد" [ref=e1774]:
+                  - link "حلويات المولد" [ref=e1775] [cursor=pointer]:
+                    - /url: /categories/80015
+                    - heading "حلويات المولد" [level=5] [ref=e1776]
+                - gridcell "11" [ref=e1777]:
+                  - generic [ref=e1778]: "11"
+                - gridcell [ref=e1779]:
+                  - checkbox [ref=e1782] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1784]:
+                  - link "Open CTA" [ref=e1785] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/80015
+              - row "Expand Row Logo كوكيز 13 Open CTA" [ref=e1786]:
+                - button "Expand Row" [disabled] [ref=e1788] [cursor=pointer]:
+                  - img [ref=e1789]
+                - gridcell "Logo" [ref=e1792]:
+                  - img "Logo" [ref=e1794]
+                - gridcell "كوكيز" [ref=e1795]:
+                  - link "كوكيز" [ref=e1796] [cursor=pointer]:
+                    - /url: /categories/378
+                    - heading "كوكيز" [level=5] [ref=e1797]
+                - gridcell "13" [ref=e1798]:
+                  - generic [ref=e1799]: "13"
+                - gridcell [ref=e1800]:
+                  - checkbox [ref=e1803] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1805]:
+                  - link "Open CTA" [ref=e1806] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/378
+              - row "Expand Row Logo مواد خام 33 330 Open CTA" [ref=e1807]:
+                - button "Expand Row" [ref=e1809] [cursor=pointer]:
+                  - img [ref=e1810]
+                - gridcell "Logo" [ref=e1813]:
+                  - img "Logo" [ref=e1815]
+                - gridcell "مواد خام 33" [ref=e1816]:
+                  - link "مواد خام 33" [ref=e1817] [cursor=pointer]:
+                    - /url: /categories/369
+                    - heading "مواد خام 33" [level=5] [ref=e1818]
+                - gridcell "330" [ref=e1819]:
+                  - generic [ref=e1820]: "330"
+                - gridcell [ref=e1821]:
+                  - checkbox [ref=e1824] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1826]:
+                  - link "Open CTA" [ref=e1827] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/369
+              - row "Expand Row Logo كليجا 15 Open CTA" [ref=e1828]:
+                - button "Expand Row" [disabled] [ref=e1830] [cursor=pointer]:
+                  - img [ref=e1831]
+                - gridcell "Logo" [ref=e1834]:
+                  - img "Logo" [ref=e1836]
+                - gridcell "كليجا" [ref=e1837]:
+                  - link "كليجا" [ref=e1838] [cursor=pointer]:
+                    - /url: /categories/402
+                    - heading "كليجا" [level=5] [ref=e1839]
+                - gridcell "15" [ref=e1840]:
+                  - generic [ref=e1841]: "15"
+                - gridcell [ref=e1842]:
+                  - checkbox [ref=e1845] [cursor=pointer]
+                - gridcell "Open CTA" [ref=e1847]:
+                  - link "Open CTA" [ref=e1848] [cursor=pointer]:
+                    - /url: https://web.development.qawafel.dev/categories/402

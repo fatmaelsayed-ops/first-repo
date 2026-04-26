@@ -1,0 +1,627 @@
+- generic:
+  - generic:
+    - main:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - link:
+                - /url: /kan-kan-2
+                - generic:
+                  - img
+                - generic: كان كان الرياض
+              - generic:
+                - link:
+                  - /url: /kan-kan-2
+                  - text: المنتجات
+                - link:
+                  - /url: /kan-kan-2/about-us
+                  - text: من نحن
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                    - generic: دخول / تسجيل
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+                - generic:
+                  - img
+                - generic:
+                  - generic:
+                    - img
+              - button:
+                - img
+              - button:
+                - img
+              - generic:
+                - button
+                - button
+                - button
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic: ترتيب حسب
+                    - generic:
+                      - generic:
+                        - log
+                        - generic:
+                          - generic:
+                            - generic: الرجاء الاختيار
+                            - generic:
+                              - combobox
+                          - generic:
+                            - generic:
+                              - img
+                - generic:
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80053
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80053
+                        - heading [level=3]: يسيسي
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80057
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80057
+                        - heading [level=3]: حلوى الفلوتس
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80059
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80059
+                        - heading [level=3]: سنيكرز
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80521
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80521
+                        - heading [level=3]: ريد مينت د
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: شامل عينة
+                    - link:
+                      - /url: /kan-kan-2/products/80546
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80546
+                        - heading [level=3]: حلويات ايمن للعينات
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80518
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80518
+                        - heading [level=3]: نسخة من نسخة من حلويات المرسي5
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80548
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80548
+                        - heading [level=3]: الباربيكا
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: شامل عينة
+                    - link:
+                      - /url: /kan-kan-2/products/80605
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80605
+                        - heading [level=3]: عصير مانجو طازة
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: شامل عينة
+                    - link:
+                      - /url: /kan-kan-2/products/80545
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80545
+                        - heading [level=3]: حلويات الهديثثثص
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: شامل عينة
+                    - link:
+                      - /url: /kan-kan-2/products/80569
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80569
+                        - heading [level=3]: شاي التوت 12 كيس
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80584
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80584
+                        - heading [level=3]: خالد احمد السيد
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80499
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80499
+                        - heading [level=3]: بوب كورن
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80601
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80601
+                        - heading [level=3]: شاي احمر بالنعناع 12 كيس صغير
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic: شامل عينة
+                    - link:
+                      - /url: /kan-kan-2/products/80562
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80562
+                        - heading [level=3]: زعفران في بوكس معدني 300 جم
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80544
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80544
+                        - heading [level=3]: منتج ايمن جديد متعدل
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                  - generic:
+                    - link:
+                      - /url: /kan-kan-2/products/80578
+                      - img
+                    - generic:
+                      - link:
+                        - /url: /kan-kan-2/products/80578
+                        - heading [level=3]: شاي الماتشا
+                      - generic: يرجى تسجيل الدخول لعرض سعر المنتج
+                - generic:
+                  - navigation:
+                    - listitem:
+                      - button [disabled]: السابق
+                    - listitem:
+                      - button: "1"
+                    - listitem:
+                      - button: "2"
+                    - listitem:
+                      - button: ...
+                    - listitem:
+                      - button: "6"
+                    - listitem:
+                      - button: التالي
+      - generic:
+        - generic:
+          - generic:
+            - heading [level=2]: "تواصل معنا بسهولة عبر:"
+            - generic:
+              - link:
+                - /url: mailto:aymanstore1@mailinator.com
+                - generic:
+                  - img
+                - generic:
+                  - heading [level=4]: البريد الإلكتروني
+                  - paragraph: aymanstore1@mailinator.com
+              - link:
+                - /url: tell:532999851
+                - generic:
+                  - img
+                - generic:
+                  - heading [level=4]: رقم التواصل
+                  - paragraph: "532999851"
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - generic:
+                  - img
+                - paragraph:
+                  - generic: جميع الحقوق محفوظة
+                  - generic: كان كان الرياض
+                  - generic: 2026 ©
+              - generic:
+                - generic: العنوان
+                - paragraph: PMV5+C6V، الملك فهد، الرياض 12262، السعودية
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - img
+                  - generic:
+                    - img
+                  - generic:
+                    - img
+                  - generic:
+                    - img
+                - generic:
+                  - link:
+                    - /url: /www.ayman.com2
+                    - img
+                  - link:
+                    - /url: /www.ayman.com4
+                    - img
+                  - link:
+                    - /url: /www.ayman.com3
+                    - img
+                  - link:
+                    - /url: /www.ayman.com1
+                    - img
+              - generic:
+                - list:
+                  - listitem:
+                    - generic:
+                      - generic: "الرقم الضريبي:"
+                      - generic: "7878"
+                  - listitem:
+                    - generic:
+                      - generic: "السجل التجاري:"
+                      - generic: "1155665566"
+                  - listitem:
+                    - generic:
+                      - generic: شركة
+                      - generic: كان كان الرياض
+                - generic:
+                  - paragraph: جميع الأسعار في الموقع شاملة ضريبة القيمة المضافة
+                  - img
+            - generic: صنع بواسطة قوافل للتسويق الإلكتروني
+      - region "Notifications alt+T"
+  - generic:
+    - alert
+  - dialog [ref=e353]:
+    - generic [ref=e356]:
+      - generic [ref=e357]:
+        - generic [ref=e358]:
+          - heading "بيانات الشركة" [level=1] [ref=e359]
+          - paragraph [ref=e360]:
+            - text: لنبدأ بإعداد بيانات الشركة. سيساعدنا ذلك في التحقق من بيانات عملك.
+            - generic [ref=e361]: تأكد من أن بياناتك التجارية تتطابق مع المستندات القانونية لتجنب تأخير التحقق.
+        - generic [ref=e362]:
+          - generic [ref=e363]:
+            - generic [ref=e365]:
+              - generic [ref=e366]: اسم الشركة (باللغة العربية)
+              - textbox "أدخل اسم الشركة بالعربية" [ref=e368]:
+                - /placeholder: "أدخل اسم الشركة بالعربية "
+                - text: شركة تجريبية
+            - generic [ref=e370]:
+              - generic [ref=e371]: اسم الشركة (باللغة الإنجليزية)
+              - textbox "Enter company name in English" [ref=e373]: Test Company
+          - generic [ref=e375]:
+            - generic [ref=e376]: نوع المتجر
+            - generic [ref=e377]:
+              - log [ref=e379]
+              - generic [ref=e380]:
+                - generic [ref=e381]:
+                  - generic [ref=e496]: مطاعم
+                  - combobox [ref=e384]
+                - img [ref=e388]
+          - generic [ref=e390]:
+            - generic [ref=e392]:
+              - generic [ref=e393]: الاسم الأول
+              - textbox "أدخل الاسم الأول" [ref=e395]: محمد
+            - generic [ref=e397]:
+              - generic [ref=e398]: الاسم الأخير
+              - textbox "أدخل الاسم الأخير" [ref=e400]: أحمد
+          - generic [ref=e402]:
+            - generic [ref=e403]: البريد الإلكتروني
+            - textbox "example@email.com" [ref=e405]: testmerchant@example.com
+          - generic [ref=e407]:
+            - generic [ref=e408]: اسم العنوان
+            - 'textbox "أدخل اسم العنوان (مثال: المكتب الرئيسي، المستودع، المتجر)" [ref=e410]': المكتب الرئيسي
+          - generic [ref=e411]:
+            - generic [ref=e412]: الدولة
+            - generic:
+              - log
+              - generic:
+                - generic:
+                  - generic: الممكلة العربية السعودية
+                - generic:
+                  - generic:
+                    - img
+          - generic [ref=e414]:
+            - generic [ref=e415]: العنوان التفصيلي
+            - textbox "أدخل العنوان التفصيلي" [ref=e417]: المنطقة التجارية
+          - generic [ref=e418]:
+            - generic [ref=e420]:
+              - generic [ref=e421]: المدينة
+              - generic [ref=e422]:
+                - log [ref=e424]: 221 results available.Use Up and Down to choose options, press Enter to select the currently focused option, press Escape to exit the menu, press Tab to select the option and exit the menu.
+                - generic [ref=e425]:
+                  - generic [ref=e426]:
+                    - generic [ref=e427]: اختر المدينة
+                    - combobox [expanded] [active] [ref=e429]
+                  - img [ref=e433]
+                - listbox [ref=e498]:
+                  - option "عين النخل" [ref=e499]
+                  - option "الغافة" [ref=e500]
+                  - option "الدغيمية" [ref=e501]
+                  - option "الامار" [ref=e502]
+                  - option "الخرسانية" [ref=e503]
+                  - option "عين دار القديمة" [ref=e504]
+                  - option "القصب - شقراء" [ref=e505]
+                  - option "الوهوهي" [ref=e506]
+                  - option "جلاجل" [ref=e507]
+                  - option "ثرمداء" [ref=e508]
+                  - option "عشيرة سدير" [ref=e509]
+                  - option "المقطاع" [ref=e510]
+                  - option "حدة" [ref=e511]
+                  - option "عين اللوي رفيده" [ref=e512]
+                  - option "الصبيخة" [ref=e513]
+                  - option "العسران" [ref=e514]
+                  - option "النبقيه" [ref=e515]
+                  - option "حفر العتك" [ref=e516]
+                  - option "الفرعاء" [ref=e517]
+                  - option "القرحاء" [ref=e518]
+                  - option "سماح" [ref=e519]
+                  - option "السرحان" [ref=e520]
+                  - option "آل حديلة" [ref=e521]
+                  - option "شفية" [ref=e522]
+                  - option "ام حزم" [ref=e523]
+                  - option "الصلبيّة" [ref=e524]
+                  - option "عين ابن فهيد" [ref=e525]
+                  - option "العجاجة" [ref=e526]
+                  - option "بدائع قني" [ref=e527]
+                  - option "عسيلان" [ref=e528]
+                  - option "العمارية" [ref=e529]
+                  - option "قاع حجلا" [ref=e530]
+                  - option "البكيرية" [ref=e531]
+                  - option "الضلفعة" [ref=e532]
+                  - option "حنيظل" [ref=e533]
+                  - option "عرج" [ref=e534]
+                  - option "عريجاء" [ref=e535]
+                  - option "الخماسين" [ref=e536]
+                  - option "KAEC" [ref=e537]
+                  - option "قنيفذاء" [ref=e538]
+                  - option "ابا الورود" [ref=e539]
+                  - option "الواحة" [ref=e540]
+                  - option "البدايع" [ref=e541]
+                  - option "أبوكولة" [ref=e542]
+                  - option "النسيم" [ref=e543]
+                  - option "مشاش عوض" [ref=e544]
+                  - option "الزهرة" [ref=e545]
+                  - option "اوثال" [ref=e546]
+                  - option "الرويضة" [ref=e547]
+                  - option "روض الجواء" [ref=e548]
+                  - option "جدعاء" [ref=e549]
+                  - option "الحلوة" [ref=e550]
+                  - option "الدليمة" [ref=e551]
+                  - option "الهلالية" [ref=e552]
+                  - option "الخصيبه" [ref=e553]
+                  - option "قرية شيبة" [ref=e554]
+                  - option "القويعية" [ref=e555]
+                  - option "الخصيبة" [ref=e556]
+                  - option "البندريه" [ref=e557]
+                  - option "النبقيه" [ref=e558]
+                  - option "الربيعية" [ref=e559]
+                  - option "الطرفية الشرقية" [ref=e560]
+                  - option "صويدرا" [ref=e561]
+                  - option "البديع الشمالي" [ref=e562]
+                  - option "الروضة" [ref=e563]
+                  - option "وادي الدواسر" [ref=e564]
+                  - option "الوديعة" [ref=e565]
+                  - option "الحديثة" [ref=e566]
+                  - option "البجيدي" [ref=e567]
+                  - option "أم كداد" [ref=e568]
+                  - option "أبو مروة" [ref=e569]
+                  - option "نجران" [ref=e570]
+                  - option "ميناء العقير" [ref=e571]
+                  - option "أم هشيم" [ref=e572]
+                  - option "صخيبرة" [ref=e573]
+                  - option "الفويسة" [ref=e574]
+                  - option "خريص" [ref=e575]
+                  - option "رفحاء" [ref=e576]
+                  - option "حوطة سدير" [ref=e577]
+                  - option "الفقعلي" [ref=e578]
+                  - option "الغريف" [ref=e579]
+                  - option "البديعة" [ref=e580]
+                  - option "العويسية" [ref=e581]
+                  - option "البطين" [ref=e582]
+                  - option "النظيم" [ref=e583]
+                  - option "رغبة" [ref=e584]
+                  - option "القويع" [ref=e585]
+                  - option "وادي الفرع" [ref=e586]
+                  - option "المزاحمية" [ref=e587]
+                  - option "الشعب" [ref=e588]
+                  - option "محيرقة" [ref=e589]
+                  - option "نعام" [ref=e590]
+                  - option "ملهم" [ref=e591]
+                  - option "حرض" [ref=e592]
+                  - option "عشيران" [ref=e593]
+                  - option "حراضة" [ref=e594]
+                  - option "عطيف" [ref=e595]
+                  - option "عروى" [ref=e596]
+                  - option "غيلانة" [ref=e597]
+                  - option "المضة" [ref=e598]
+                  - option "طريف‎" [ref=e599]
+                  - option "الطيري" [ref=e600]
+                  - option "الهفوف‎" [ref=e601]
+                  - option "جدة" [ref=e602]
+                  - option "بعيثران" [ref=e603]
+                  - option "الجموم" [ref=e604]
+                  - option "المبرز" [ref=e605]
+                  - option "الجديدة" [ref=e606]
+                  - option "مهد الذهب" [ref=e607]
+                  - option "طريب" [ref=e608]
+                  - option "حنيدر" [ref=e609]
+                  - option "الحجف" [ref=e610]
+                  - option "خباش" [ref=e611]
+                  - option "القريات" [ref=e612]
+                  - option "قاهة" [ref=e613]
+                  - option "المشعلية" [ref=e614]
+                  - option "أرطاوي الرقاص" [ref=e615]
+                  - option "لبخة" [ref=e616]
+                  - option "اللغفية" [ref=e617]
+                  - option "عجاج" [ref=e618]
+                  - option "الجافورة" [ref=e619]
+                  - option "ندقان" [ref=e620]
+                  - option "القري" [ref=e621]
+                  - option "محافظة المزاحمية" [ref=e622]
+                  - option "المثعب" [ref=e623]
+                  - option "معانيق" [ref=e624]
+                  - option "الحصاة" [ref=e625]
+                  - option "العويلة" [ref=e626]
+                  - option "قصور أل مقبل" [ref=e627]
+                  - option "مدركة" [ref=e628]
+                  - option "أم سليم" [ref=e629]
+                  - option "القرينة" [ref=e630]
+                  - option "الملينية" [ref=e631]
+                  - option "عفيف" [ref=e632]
+                  - option "المستنقع" [ref=e633]
+                  - option "الزيمة" [ref=e634]
+                  - option "المحاميد" [ref=e635]
+                  - option "مشوقة" [ref=e636]
+                  - option "الجهراء" [ref=e637]
+                  - option "بئر زهيميلة" [ref=e638]
+                  - option "القزان" [ref=e639]
+                  - option "مصيقرة" [ref=e640]
+                  - option "رفائع الشعراء" [ref=e641]
+                  - option "الجله" [ref=e642]
+                  - option "جبــــة" [ref=e643]
+                  - option "كمدة" [ref=e644]
+                  - option "الوجية" [ref=e645]
+                  - option "ينبع" [ref=e646]
+                  - option "الجبيل" [ref=e647]
+                  - option "الخرج" [ref=e648]
+                  - option "المذنب" [ref=e649]
+                  - option "بيشة" [ref=e650]
+                  - option "شقراء" [ref=e651]
+                  - option "الطائف" [ref=e652]
+                  - option "أبها" [ref=e653]
+                  - option "الرشاوية" [ref=e654]
+                  - option "العيينة" [ref=e655]
+                  - option "ارطاوي الرقاص" [ref=e656]
+                  - option "الجفير" [ref=e657]
+                  - option "هجرة فهيد اللغيصم" [ref=e658]
+                  - option "حائل" [ref=e659]
+                  - option "الزلفي" [ref=e660]
+                  - option "العويند" [ref=e661]
+                  - option "عنيزة" [ref=e662]
+                  - option "خميس مشيط" [ref=e663]
+                  - option "الجبيلة" [ref=e664]
+                  - option "منطقة صناعية" [ref=e665]
+                  - option "ضبا‎" [ref=e666]
+                  - option "رماح" [ref=e667]
+                  - option "الصفيري" [ref=e668]
+                  - option "ذهبان" [ref=e669]
+                  - option "المسبر" [ref=e670]
+                  - option "الدوادمي" [ref=e671]
+                  - option "الدلم" [ref=e672]
+                  - option "الرس" [ref=e673]
+                  - option "القصب" [ref=e674]
+                  - option "رويغب" [ref=e675]
+                  - option "الرقعي" [ref=e676]
+                  - option "الحنية" [ref=e677]
+                  - option "الدحوة" [ref=e678]
+                  - option "سدوس" [ref=e679]
+                  - option "المجمعة" [ref=e680]
+                  - option "آبار قمران" [ref=e681]
+                  - option "الحفيرة" [ref=e682]
+                  - option "الصيهد" [ref=e683]
+                  - option "المشاش" [ref=e684]
+                  - option "حفيرة نساح" [ref=e685]
+                  - option "أبو حدرية" [ref=e686]
+                  - option "الحويرة" [ref=e687]
+                  - option "جفن" [ref=e688]
+                  - option "العمق" [ref=e689]
+                  - option "القرنة" [ref=e690]
+                  - option "سكاكا" [ref=e691]
+                  - option "صفوى" [ref=e692]
+                  - option "مليجة" [ref=e693]
+                  - option "العويجاء" [ref=e694]
+                  - option "وسيطاء نساح" [ref=e695]
+                  - option "الرمحية" [ref=e696]
+                  - option "حريملاء" [ref=e697]
+                  - option "عودة سدير" [ref=e698]
+                  - option "البرَة" [ref=e699]
+                  - option "الخبر" [ref=e700]
+                  - option "البجادية" [ref=e701]
+                  - option "ضرما" [ref=e702]
+                  - option "الخفجي" [ref=e703]
+                  - option "بيضاء نثيل" [ref=e704]
+                  - option "عرعر" [ref=e705]
+                  - option "شرورة" [ref=e706]
+                  - option "الخاتلة" [ref=e707]
+                  - option "بريدة" [ref=e708]
+                  - option "الظبية والجمعة" [ref=e709]
+                  - option "مرات" [ref=e710]
+                  - option "المدينة المنورة" [ref=e711]
+                  - option "حفر الباطن" [ref=e712]
+                  - option "تبوك" [ref=e713]
+                  - option "الدمام" [ref=e714]
+                  - option "Makkah" [ref=e715]
+                  - option "الدرعية" [ref=e716]
+                  - option "مكة المكرمة" [ref=e717]
+                  - option "مكة" [ref=e718]
+                  - option "الرياض" [ref=e719]
+            - generic [ref=e436]:
+              - generic [ref=e437]: الحي
+              - generic:
+                - log
+                - generic:
+                  - generic:
+                    - generic: أدخل اسم الحي
+                  - generic:
+                    - generic:
+                      - img
+            - generic [ref=e439]:
+              - generic [ref=e440]: اسم الشارع
+              - textbox "أدخل اسم الشارع" [ref=e442]
+            - generic [ref=e444]:
+              - generic [ref=e445]: رقم المبنى
+              - spinbutton [ref=e447]
+            - generic [ref=e449]:
+              - generic [ref=e450]: الرقم الفرعي للعنوان (اختياري)
+              - spinbutton [ref=e452]
+            - generic [ref=e454]:
+              - generic [ref=e455]: الرمز البريدي
+              - spinbutton [ref=e457]
+            - generic [ref=e459]:
+              - generic [ref=e460]: العنوان الوطني المختصر
+              - textbox "4 أحرف و 4 أرقام (مثال:RRRD2929)" [ref=e462]
+      - button "الخطوة التالية" [ref=e464] [cursor=pointer]

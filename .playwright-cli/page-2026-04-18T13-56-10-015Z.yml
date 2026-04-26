@@ -1,0 +1,20 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - navigation [ref=e11]
+    - link "logout" [ref=e13] [cursor=pointer]:
+      - /url: /logout
+      - img "logout" [ref=e14]
+  - main [ref=e15]:
+    - generic [ref=e18]:
+      - img "Qawafel logo" [ref=e19]
+      - heading "Welcome to Qawafel admin dashboard" [level=3] [ref=e20]
+      - generic [ref=e21]:
+        - generic [ref=e22]:
+          - generic [ref=e23]: Email
+          - textbox "Email" [ref=e26]:
+            - /placeholder: ""
+        - generic [ref=e27]:
+          - generic [ref=e28]: Password
+          - textbox "Password" [ref=e31]:
+            - /placeholder: ""
+        - button "Login" [ref=e32] [cursor=pointer]

@@ -1,0 +1,252 @@
+- generic [active] [ref=e1]:
+  - main [ref=e3]:
+    - generic [ref=e7]:
+      - link [ref=e8] [cursor=pointer]:
+        - /url: /kan-kan-2
+      - generic [ref=e10]:
+        - link "المنتجات" [ref=e11] [cursor=pointer]:
+          - /url: /kan-kan-2
+        - link "من نحن" [ref=e12] [cursor=pointer]:
+          - /url: /kan-kan-2/about-us
+      - generic [ref=e15] [cursor=pointer]:
+        - img "قم بتسجيل الدخول" [ref=e16]
+        - generic [ref=e17]: دخول / تسجيل
+    - generic [ref=e20]:
+      - generic [ref=e21]:
+        - generic [ref=e22]:
+          - img "Banner 1" [ref=e24]
+          - img "Banner 2" [ref=e26]
+          - img [ref=e29]
+        - button "Previous slide" [ref=e32] [cursor=pointer]:
+          - img [ref=e33]
+        - button "Next slide" [ref=e35] [cursor=pointer]:
+          - img [ref=e36]
+        - generic [ref=e38]:
+          - button "Go to slide 1" [ref=e39] [cursor=pointer]
+          - button "Go to slide 2" [ref=e40] [cursor=pointer]
+          - button "Go to slide 3" [ref=e41] [cursor=pointer]
+      - generic [ref=e43]:
+        - generic [ref=e45]:
+          - generic [ref=e46]: ترتيب حسب
+          - generic [ref=e191]:
+            - log [ref=e193]
+            - generic [ref=e194]:
+              - generic [ref=e195]:
+                - generic [ref=e196]: الرجاء الاختيار
+                - combobox [ref=e198]
+              - img [ref=e202]
+        - generic [ref=e47]:
+          - generic [ref=e48]:
+            - link "يسيسي" [ref=e49] [cursor=pointer]:
+              - /url: /kan-kan-2/products/80053
+              - img "يسيسي" [ref=e50]
+            - generic [ref=e51]:
+              - link "يسيسي" [ref=e52] [cursor=pointer]:
+                - /url: /kan-kan-2/products/80053
+                - heading "يسيسي" [level=3] [ref=e53]
+              - generic [ref=e54] [cursor=pointer]: يرجى تسجيل الدخول لعرض سعر المنتج
+          - generic [ref=e55]:
+            - link "حلوى الفلوتس" [ref=e56] [cursor=pointer]:
+              - /url: /kan-kan-2/products/80057
+              - img "حلوى الفلوتس" [ref=e57]
+            - generic [ref=e58]:
+              - link "حلوى الفلوتس" [ref=e59] [cursor=pointer]:
+                - /url: /kan-kan-2/products/80057
+                - heading "حلوى الفلوتس" [level=3] [ref=e60]
+              - generic [ref=e61] [cursor=pointer]: يرجى تسجيل الدخول لعرض سعر المنتج
+          - generic [ref=e62]:
+            - link "سنيكرز" [ref=e63] [cursor=pointer]:
+              - /url: /kan-kan-2/products/80059
+              - img "سنيكرز" [ref=e64]
+            - generic [ref=e65]:
+              - link "سنيكرز" [ref=e66] [cursor=pointer]:
+                - /url: /kan-kan-2/products/80059
+                - heading "سنيكرز" [level=3] [ref=e67]
+              - generic [ref=e68] [cursor=pointer]: يرجى تسجيل الدخول لعرض سعر المنتج
+          - generic [ref=e69]:
+            - link "ريد مينت د" [ref=e70] [cursor=pointer]:
+              - /url: /kan-kan-2/products/80521
+              - img "ريد مينت د" [ref=e71]
+            - generic [ref=e72]:
+              - link "ريد مينت د" [ref=e73] [cursor=pointer]:
+                - /url: /kan-kan-2/products/80521
+                - heading "ريد مينت د" [level=3] [ref=e74]
+              - generic [ref=e75] [cursor=pointer]: يرجى تسجيل الدخول لعرض سعر المنتج
+          - generic [ref=e76]:
+            - generic [ref=e80]: شامل عينة
+            - link "حلويات ايمن للعينات" [ref=e81] [cursor=pointer]:
+              - /url: /kan-kan-2/products/80546
+              - img "حلويات ايمن للعينات" [ref=e82]
+            - generic [ref=e83]:
+              - link "حلويات ايمن للعينات" [ref=e84] [cursor=pointer]:
+                - /url: /kan-kan-2/products/80546
+                - heading "حلويات ايمن للعينات" [level=3] [ref=e85]
+              - generic [ref=e86] [cursor=pointer]: يرجى تسجيل الدخول لعرض سعر المنتج
+          - generic [ref=e87]:
+            - link "نسخة من نسخة من حلويات المرسي5" [ref=e88] [cursor=pointer]:
+              - /url: /kan-kan-2/products/80518
+              - img "نسخة من نسخة من حلويات المرسي5" [ref=e89]
+            - generic [ref=e90]:
+              - link "نسخة من نسخة من حلويات المرسي5" [ref=e91] [cursor=pointer]:
+                - /url: /kan-kan-2/products/80518
+                - heading "نسخة من نسخة من حلويات المرسي5" [level=3] [ref=e92]
+              - generic [ref=e93] [cursor=pointer]: يرجى تسجيل الدخول لعرض سعر المنتج
+          - generic [ref=e94]:
+            - link "الباربيكا" [ref=e95] [cursor=pointer]:
+              - /url: /kan-kan-2/products/80548
+              - img "الباربيكا" [ref=e96]
+            - generic [ref=e97]:
+              - link "الباربيكا" [ref=e98] [cursor=pointer]:
+                - /url: /kan-kan-2/products/80548
+                - heading "الباربيكا" [level=3] [ref=e99]
+              - generic [ref=e100] [cursor=pointer]: يرجى تسجيل الدخول لعرض سعر المنتج
+          - generic [ref=e101]:
+            - generic [ref=e105]: شامل عينة
+            - link "عصير مانجو طازة" [ref=e106] [cursor=pointer]:
+              - /url: /kan-kan-2/products/80605
+              - img "عصير مانجو طازة" [ref=e107]
+            - generic [ref=e108]:
+              - link "عصير مانجو طازة" [ref=e109] [cursor=pointer]:
+                - /url: /kan-kan-2/products/80605
+                - heading "عصير مانجو طازة" [level=3] [ref=e110]
+              - generic [ref=e111] [cursor=pointer]: يرجى تسجيل الدخول لعرض سعر المنتج
+          - generic [ref=e112]:
+            - generic [ref=e116]: شامل عينة
+            - link "حلويات الهديثثثص" [ref=e117] [cursor=pointer]:
+              - /url: /kan-kan-2/products/80545
+              - img "حلويات الهديثثثص" [ref=e118]
+            - generic [ref=e119]:
+              - link "حلويات الهديثثثص" [ref=e120] [cursor=pointer]:
+                - /url: /kan-kan-2/products/80545
+                - heading "حلويات الهديثثثص" [level=3] [ref=e121]
+              - generic [ref=e122] [cursor=pointer]: يرجى تسجيل الدخول لعرض سعر المنتج
+          - generic [ref=e123]:
+            - generic [ref=e127]: شامل عينة
+            - link "شاي التوت 12 كيس" [ref=e128] [cursor=pointer]:
+              - /url: /kan-kan-2/products/80569
+              - img "شاي التوت 12 كيس" [ref=e129]
+            - generic [ref=e130]:
+              - link "شاي التوت 12 كيس" [ref=e131] [cursor=pointer]:
+                - /url: /kan-kan-2/products/80569
+                - heading "شاي التوت 12 كيس" [level=3] [ref=e132]
+              - generic [ref=e133] [cursor=pointer]: يرجى تسجيل الدخول لعرض سعر المنتج
+          - generic [ref=e134]:
+            - link "خالد احمد السيد" [ref=e135] [cursor=pointer]:
+              - /url: /kan-kan-2/products/80584
+              - img "خالد احمد السيد" [ref=e136]
+            - generic [ref=e137]:
+              - link "خالد احمد السيد" [ref=e138] [cursor=pointer]:
+                - /url: /kan-kan-2/products/80584
+                - heading "خالد احمد السيد" [level=3] [ref=e139]
+              - generic [ref=e140] [cursor=pointer]: يرجى تسجيل الدخول لعرض سعر المنتج
+          - generic [ref=e141]:
+            - link "بوب كورن" [ref=e142] [cursor=pointer]:
+              - /url: /kan-kan-2/products/80499
+              - img "بوب كورن" [ref=e143]
+            - generic [ref=e144]:
+              - link "بوب كورن" [ref=e145] [cursor=pointer]:
+                - /url: /kan-kan-2/products/80499
+                - heading "بوب كورن" [level=3] [ref=e146]
+              - generic [ref=e147] [cursor=pointer]: يرجى تسجيل الدخول لعرض سعر المنتج
+          - generic [ref=e148]:
+            - link "شاي احمر بالنعناع 12 كيس صغير" [ref=e149] [cursor=pointer]:
+              - /url: /kan-kan-2/products/80601
+              - img "شاي احمر بالنعناع 12 كيس صغير" [ref=e150]
+            - generic [ref=e151]:
+              - link "شاي احمر بالنعناع 12 كيس صغير" [ref=e152] [cursor=pointer]:
+                - /url: /kan-kan-2/products/80601
+                - heading "شاي احمر بالنعناع 12 كيس صغير" [level=3] [ref=e153]
+              - generic [ref=e154] [cursor=pointer]: يرجى تسجيل الدخول لعرض سعر المنتج
+          - generic [ref=e155]:
+            - link "منتج ايمن جديد متعدل" [ref=e156] [cursor=pointer]:
+              - /url: /kan-kan-2/products/80544
+              - img "منتج ايمن جديد متعدل" [ref=e157]
+            - generic [ref=e158]:
+              - link "منتج ايمن جديد متعدل" [ref=e159] [cursor=pointer]:
+                - /url: /kan-kan-2/products/80544
+                - heading "منتج ايمن جديد متعدل" [level=3] [ref=e160]
+              - generic [ref=e161] [cursor=pointer]: يرجى تسجيل الدخول لعرض سعر المنتج
+          - generic [ref=e162]:
+            - generic [ref=e166]: شامل عينة
+            - link "زعفران في بوكس معدني 300 جم" [ref=e167] [cursor=pointer]:
+              - /url: /kan-kan-2/products/80562
+              - img "زعفران في بوكس معدني 300 جم" [ref=e168]
+            - generic [ref=e169]:
+              - link "زعفران في بوكس معدني 300 جم" [ref=e170] [cursor=pointer]:
+                - /url: /kan-kan-2/products/80562
+                - heading "زعفران في بوكس معدني 300 جم" [level=3] [ref=e171]
+              - generic [ref=e172] [cursor=pointer]: يرجى تسجيل الدخول لعرض سعر المنتج
+        - navigation "Pagination" [ref=e174]:
+          - listitem [ref=e175]:
+            - button "Previous page" [ref=e176] [cursor=pointer]: السابق
+          - listitem [ref=e177]:
+            - button "Page 1" [ref=e178] [cursor=pointer]: "1"
+          - listitem [ref=e179]:
+            - button "Page 2 is your current page" [ref=e180] [cursor=pointer]: "2"
+          - listitem [ref=e181]:
+            - button "Page 3" [ref=e182] [cursor=pointer]: "3"
+          - listitem [ref=e183]:
+            - button "Jump forward" [ref=e184] [cursor=pointer]: ...
+          - listitem [ref=e185]:
+            - button "Page 7" [ref=e186] [cursor=pointer]: "7"
+          - listitem [ref=e187]:
+            - button "Next page" [ref=e188] [cursor=pointer]: التالي
+    - generic [ref=e204]:
+      - generic [ref=e206]:
+        - heading "تواصل معنا بسهولة عبر:" [level=2] [ref=e207]
+        - generic [ref=e208]:
+          - link "Contact us via email البريد الإلكتروني" [ref=e209] [cursor=pointer]:
+            - /url: "mailto:"
+            - img "Contact us via email" [ref=e211]
+            - generic [ref=e212]:
+              - heading "البريد الإلكتروني" [level=4] [ref=e213]
+              - paragraph
+          - link "Call us رقم التواصل" [ref=e214] [cursor=pointer]:
+            - /url: "tell:"
+            - img "Call us" [ref=e216]
+            - generic [ref=e217]:
+              - heading "رقم التواصل" [level=4] [ref=e218]
+              - paragraph
+      - generic [ref=e220]:
+        - generic [ref=e221]:
+          - paragraph [ref=e224]:
+            - generic [ref=e225]: جميع الحقوق محفوظة
+            - generic [ref=e226]: 2026 ©
+          - generic [ref=e227]:
+            - generic [ref=e228]: العنوان
+            - paragraph
+        - generic [ref=e230]:
+          - list [ref=e231]:
+            - listitem [ref=e232]:
+              - generic [ref=e234]: "السجل التجاري:"
+            - listitem [ref=e235]:
+              - generic [ref=e237]: شركة
+          - generic [ref=e238]:
+            - paragraph [ref=e239]: جميع الأسعار في الموقع شاملة ضريبة القيمة المضافة
+            - img [ref=e240]
+        - generic [ref=e242]: صنع بواسطة قوافل للتسويق الإلكتروني
+    - generic [ref=e245]:
+      - img "Qawafel Logo" [ref=e247]
+      - generic [ref=e248]:
+        - generic [ref=e249]:
+          - paragraph [ref=e250]: حيّاك في قوافل!
+          - paragraph [ref=e251]: املأ بياناتك، وسيتواصل معك فريقنا خلال 24 ساعة لتفعيل حسابك والانطلاق مع قوافل.
+        - generic [ref=e253]:
+          - generic [ref=e254]: رقم الجوال
+          - generic [ref=e255]:
+            - textbox "5X XXX XXXX" [ref=e256]
+            - generic [ref=e257]:
+              - img "KSA Flag" [ref=e258]
+              - text: "+966"
+        - paragraph [ref=e259]:
+          - text: بتسجيلك أو استخدامك لمنصة قوافل، فأنت توافق على
+          - link "الشروط والأحكام" [ref=e260] [cursor=pointer]:
+            - /url: https://qawafel.sa/terms-conditions
+          - text: و
+          - link "سياسة الخصوصية" [ref=e261] [cursor=pointer]:
+            - /url: https://qawafel.sa/privacy-policy
+        - button "أنشئ الحساب" [disabled] [ref=e262]
+        - generic [ref=e263]:
+          - text: عندك حساب بالفعل؟
+          - button "سجل دخولك" [ref=e264] [cursor=pointer]
+  - alert [ref=e189]

@@ -1,0 +1,327 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - main [ref=e5]:
+        - generic [ref=e7]:
+          - button "99+" [ref=e60] [cursor=pointer]:
+            - generic [ref=e9]:
+              - img [ref=e10]
+              - superscript [ref=e61]: 99+
+          - button [ref=e12] [cursor=pointer]:
+            - img [ref=e14]
+          - link "New" [ref=e16] [cursor=pointer]:
+            - /url: /release-notes
+            - generic [ref=e17]: New
+            - img [ref=e18]
+          - button "العربية" [ref=e42] [cursor=pointer]
+          - button "Kan Kan riyadh" [ref=e44] [cursor=pointer]:
+            - generic [ref=e45]:
+              - generic [ref=e49]: Kan Kan riyadh
+              - img [ref=e51]
+        - generic [ref=e1251]:
+          - generic [ref=e1253]:
+            - heading "Quotations" [level=1] [ref=e1254]
+            - link "Add Quotation" [ref=e1256] [cursor=pointer]:
+              - /url: /procurement/quotations/create
+              - img [ref=e1259]
+              - paragraph [ref=e1261]: Add Quotation
+          - generic [ref=e1265]:
+            - generic [ref=e1267]:
+              - generic [ref=e1270]:
+                - img [ref=e1272]
+                - textbox "Search in quotations..." [ref=e1274]
+              - img [ref=e1276] [cursor=pointer]
+              - img [ref=e1281] [cursor=pointer]
+            - generic [ref=e1283]:
+              - table [ref=e1288]:
+                - rowgroup [ref=e1289]:
+                  - row "Quotation No. Buyer Purchase Order No. Issue Date Due date Amount Status Actions" [ref=e1290]:
+                    - columnheader "Quotation No." [ref=e1291]
+                    - columnheader "Buyer" [ref=e1292]
+                    - columnheader "Purchase Order No." [ref=e1293]
+                    - columnheader "Issue Date" [ref=e1294]
+                    - columnheader "Due date" [ref=e1295]
+                    - columnheader "Amount" [ref=e1296]
+                    - columnheader "Status" [ref=e1297]
+                    - columnheader "Actions" [ref=e1298]
+                - rowgroup [ref=e1299]:
+                  - row "QT-26-158 new buyer - 20/4/2026 27/4/2026 15.87 ﷼ Pending" [ref=e1300] [cursor=pointer]:
+                    - cell "QT-26-158" [ref=e1301]
+                    - cell "new buyer" [ref=e1302]
+                    - cell "-" [ref=e1303]
+                    - cell "20/4/2026" [ref=e1304]
+                    - cell "27/4/2026" [ref=e1305]
+                    - cell "15.87 ﷼" [ref=e1306]:
+                      - generic [ref=e1307]:
+                        - generic [ref=e1308]: "15.87"
+                        - generic [ref=e1309]: ﷼
+                    - cell "Pending" [ref=e1310]:
+                      - generic [ref=e1312]: Pending
+                    - cell [ref=e1313]:
+                      - button [ref=e1315]:
+                        - button [ref=e1316]:
+                          - paragraph [ref=e1317]:
+                            - img [ref=e1318]
+                  - row "QT-26-157 ibraq - 15/4/2026 22/4/2026 63.48 ﷼ Pending" [ref=e1322] [cursor=pointer]:
+                    - cell "QT-26-157" [ref=e1323]
+                    - cell "ibraq" [ref=e1324]
+                    - cell "-" [ref=e1325]
+                    - cell "15/4/2026" [ref=e1326]
+                    - cell "22/4/2026" [ref=e1327]
+                    - cell "63.48 ﷼" [ref=e1328]:
+                      - generic [ref=e1329]:
+                        - generic [ref=e1330]: "63.48"
+                        - generic [ref=e1331]: ﷼
+                    - cell "Pending" [ref=e1332]:
+                      - generic [ref=e1334]: Pending
+                    - cell [ref=e1335]:
+                      - button [ref=e1337]:
+                        - button [ref=e1338]:
+                          - paragraph [ref=e1339]:
+                            - img [ref=e1340]
+                  - row "QT-26-156 ibraq - 9/4/2026 16/4/2026 101.83 ﷼ Pending" [ref=e1344] [cursor=pointer]:
+                    - cell "QT-26-156" [ref=e1345]
+                    - cell "ibraq" [ref=e1346]
+                    - cell "-" [ref=e1347]
+                    - cell "9/4/2026" [ref=e1348]
+                    - cell "16/4/2026" [ref=e1349]
+                    - cell "101.83 ﷼" [ref=e1350]:
+                      - generic [ref=e1351]:
+                        - generic [ref=e1352]: "101.83"
+                        - generic [ref=e1353]: ﷼
+                    - cell "Pending" [ref=e1354]:
+                      - generic [ref=e1356]: Pending
+                    - cell [ref=e1357]:
+                      - button [ref=e1359]:
+                        - button [ref=e1360]:
+                          - paragraph [ref=e1361]:
+                            - img [ref=e1362]
+                  - row "QT-26-155 new buyer - 9/4/2026 16/4/2026 63.48 ﷼ Pending" [ref=e1366] [cursor=pointer]:
+                    - cell "QT-26-155" [ref=e1367]
+                    - cell "new buyer" [ref=e1368]
+                    - cell "-" [ref=e1369]
+                    - cell "9/4/2026" [ref=e1370]
+                    - cell "16/4/2026" [ref=e1371]
+                    - cell "63.48 ﷼" [ref=e1372]:
+                      - generic [ref=e1373]:
+                        - generic [ref=e1374]: "63.48"
+                        - generic [ref=e1375]: ﷼
+                    - cell "Pending" [ref=e1376]:
+                      - generic [ref=e1378]: Pending
+                    - cell [ref=e1379]:
+                      - button [ref=e1381]:
+                        - button [ref=e1382]:
+                          - paragraph [ref=e1383]:
+                            - img [ref=e1384]
+                  - row "QT-26-154 new buyer - 9/4/2026 16/4/2026 63.48 ﷼ Pending" [ref=e1388] [cursor=pointer]:
+                    - cell "QT-26-154" [ref=e1389]
+                    - cell "new buyer" [ref=e1390]
+                    - cell "-" [ref=e1391]
+                    - cell "9/4/2026" [ref=e1392]
+                    - cell "16/4/2026" [ref=e1393]
+                    - cell "63.48 ﷼" [ref=e1394]:
+                      - generic [ref=e1395]:
+                        - generic [ref=e1396]: "63.48"
+                        - generic [ref=e1397]: ﷼
+                    - cell "Pending" [ref=e1398]:
+                      - generic [ref=e1400]: Pending
+                    - cell [ref=e1401]:
+                      - button [ref=e1403]:
+                        - button [ref=e1404]:
+                          - paragraph [ref=e1405]:
+                            - img [ref=e1406]
+                  - row "QT-26-152 kan kan buyer 2 - 1/4/2026 30/4/2026 677.53 ﷼ Paid" [ref=e1410] [cursor=pointer]:
+                    - cell "QT-26-152" [ref=e1411]
+                    - cell "kan kan buyer 2" [ref=e1412]
+                    - cell "-" [ref=e1413]
+                    - cell "1/4/2026" [ref=e1414]
+                    - cell "30/4/2026" [ref=e1415]
+                    - cell "677.53 ﷼" [ref=e1416]:
+                      - generic [ref=e1417]:
+                        - generic [ref=e1418]: "677.53"
+                        - generic [ref=e1419]: ﷼
+                    - cell "Paid" [ref=e1420]:
+                      - generic [ref=e1422]: Paid
+                    - cell [ref=e1423]:
+                      - button [ref=e1425]:
+                        - button [ref=e1426]:
+                          - paragraph [ref=e1427]:
+                            - img [ref=e1428]
+                  - row "QT-26-144 dates - 9/3/2026 8/4/2026 117.6 ﷼ Paid" [ref=e1432] [cursor=pointer]:
+                    - cell "QT-26-144" [ref=e1433]
+                    - cell "dates" [ref=e1434]
+                    - cell "-" [ref=e1435]
+                    - cell "9/3/2026" [ref=e1436]
+                    - cell "8/4/2026" [ref=e1437]
+                    - cell "117.6 ﷼" [ref=e1438]:
+                      - generic [ref=e1439]:
+                        - generic [ref=e1440]: "117.6"
+                        - generic [ref=e1441]: ﷼
+                    - cell "Paid" [ref=e1442]:
+                      - generic [ref=e1444]: Paid
+                    - cell [ref=e1445]:
+                      - button [ref=e1447]:
+                        - button [ref=e1448]:
+                          - paragraph [ref=e1449]:
+                            - img [ref=e1450]
+                  - row "QT-26-143 Ahmed ali - 8/3/2026 20/3/2026 2,225.71 ﷼ Pending" [ref=e1454] [cursor=pointer]:
+                    - cell "QT-26-143" [ref=e1455]
+                    - cell "Ahmed ali" [ref=e1456]
+                    - cell "-" [ref=e1457]
+                    - cell "8/3/2026" [ref=e1458]
+                    - cell "20/3/2026" [ref=e1459]
+                    - cell "2,225.71 ﷼" [ref=e1460]:
+                      - generic [ref=e1461]:
+                        - generic [ref=e1462]: 2,225.71
+                        - generic [ref=e1463]: ﷼
+                    - cell "Pending" [ref=e1464]:
+                      - generic [ref=e1466]: Pending
+                    - cell [ref=e1467]:
+                      - button [ref=e1469]:
+                        - button [ref=e1470]:
+                          - paragraph [ref=e1471]:
+                            - img [ref=e1472]
+                  - row "QT-26-141 Ahmed ali - 8/3/2026 20/3/2026 2,225.71 ﷼ Pending" [ref=e1476] [cursor=pointer]:
+                    - cell "QT-26-141" [ref=e1477]
+                    - cell "Ahmed ali" [ref=e1478]
+                    - cell "-" [ref=e1479]
+                    - cell "8/3/2026" [ref=e1480]
+                    - cell "20/3/2026" [ref=e1481]
+                    - cell "2,225.71 ﷼" [ref=e1482]:
+                      - generic [ref=e1483]:
+                        - generic [ref=e1484]: 2,225.71
+                        - generic [ref=e1485]: ﷼
+                    - cell "Pending" [ref=e1486]:
+                      - generic [ref=e1488]: Pending
+                    - cell [ref=e1489]:
+                      - button [ref=e1491]:
+                        - button [ref=e1492]:
+                          - paragraph [ref=e1493]:
+                            - img [ref=e1494]
+                  - row "QT-26-140 Ahmed ali - 8/3/2026 20/3/2026 2,225.71 ﷼ Pending" [ref=e1498] [cursor=pointer]:
+                    - cell "QT-26-140" [ref=e1499]
+                    - cell "Ahmed ali" [ref=e1500]
+                    - cell "-" [ref=e1501]
+                    - cell "8/3/2026" [ref=e1502]
+                    - cell "20/3/2026" [ref=e1503]
+                    - cell "2,225.71 ﷼" [ref=e1504]:
+                      - generic [ref=e1505]:
+                        - generic [ref=e1506]: 2,225.71
+                        - generic [ref=e1507]: ﷼
+                    - cell "Pending" [ref=e1508]:
+                      - generic [ref=e1510]: Pending
+                    - cell [ref=e1511]:
+                      - button [ref=e1513]:
+                        - button [ref=e1514]:
+                          - paragraph [ref=e1515]:
+                            - img [ref=e1516]
+              - generic [ref=e1522]:
+                - button "previous" [disabled] [ref=e1523]:
+                  - img [ref=e1524]
+                  - generic [ref=e1526]: previous
+                - generic [ref=e1527]:
+                  - button "1" [disabled] [ref=e1529]:
+                    - generic [ref=e1530]: "1"
+                  - button "2" [ref=e1532] [cursor=pointer]:
+                    - generic [ref=e1533]: "2"
+                  - button "3" [ref=e1535] [cursor=pointer]:
+                    - generic [ref=e1536]: "3"
+                - button "Next" [ref=e1537] [cursor=pointer]:
+                  - generic [ref=e1538]: Next
+                  - img [ref=e1539]
+      - generic [ref=e352]:
+        - generic [ref=e353]:
+          - button "Collapse sidebar" [ref=e354] [cursor=pointer]:
+            - img [ref=e355]
+          - link [ref=e358] [cursor=pointer]:
+            - /url: /
+            - img [ref=e359]
+        - navigation [ref=e362]:
+          - link "Home" [ref=e364] [cursor=pointer]:
+            - /url: /home
+            - img [ref=e365]
+            - generic [ref=e367]: Home
+          - generic [ref=e368]:
+            - generic [ref=e369] [cursor=pointer]:
+              - img [ref=e370]
+              - generic [ref=e372]: Sell
+              - img [ref=e373]
+            - generic [ref=e376]:
+              - link "Orders" [ref=e379] [cursor=pointer]:
+                - /url: /orders/marketplace/all
+                - generic [ref=e380]: Orders
+              - link "Quotations" [ref=e383] [cursor=pointer]:
+                - /url: /procurement/quotations
+                - generic [ref=e384]: Quotations
+              - link "Invoices" [ref=e387] [cursor=pointer]:
+                - /url: /invoices
+                - generic [ref=e388]: Invoices
+              - link "Credit Notes" [ref=e391] [cursor=pointer]:
+                - /url: /procurement/credit-notes
+                - generic [ref=e392]: Credit Notes
+              - link "Buyers" [ref=e395] [cursor=pointer]:
+                - /url: /customers
+                - generic [ref=e396]: Buyers
+              - link "Products" [ref=e399] [cursor=pointer]:
+                - /url: /products
+                - generic [ref=e400]: Products
+              - link "Discounts" [ref=e403] [cursor=pointer]:
+                - /url: /discounts
+                - generic [ref=e404]: Discounts
+              - link "Reviews" [ref=e407] [cursor=pointer]:
+                - /url: /reviews
+                - generic [ref=e408]: Reviews
+              - link "Buyer complaints" [ref=e411] [cursor=pointer]:
+                - /url: /complaints
+                - generic [ref=e412]: Buyer complaints
+          - generic [ref=e413]:
+            - generic [ref=e414] [cursor=pointer]:
+              - img [ref=e415]
+              - generic [ref=e417]: Buy
+              - img [ref=e418]
+            - generic [ref=e420]:
+              - link "Suppliers" [ref=e423] [cursor=pointer]:
+                - /url: /suppliers
+                - generic [ref=e424]: Suppliers
+              - link "Supplier Items" [ref=e427] [cursor=pointer]:
+                - /url: /items
+                - generic [ref=e428]: Supplier Items
+              - link "Purchase Orders" [ref=e431] [cursor=pointer]:
+                - /url: /procurement/purchase-orders
+                - generic [ref=e432]: Purchase Orders
+              - link "Received Notes" [ref=e435] [cursor=pointer]:
+                - /url: /procurement/received-notes
+                - generic [ref=e436]: Received Notes
+          - generic [ref=e437]:
+            - generic [ref=e438] [cursor=pointer]:
+              - img [ref=e439]
+              - generic [ref=e441]: Finance
+              - img [ref=e442]
+            - generic [ref=e444]:
+              - link "Invoice Financing Soon" [ref=e447] [cursor=pointer]:
+                - /url: /invoice-financing
+                - generic [ref=e448]: Invoice Financing
+                - generic [ref=e449]: Soon
+              - link "PO Financing Soon" [ref=e452] [cursor=pointer]:
+                - /url: /purchase-order-financing
+                - generic [ref=e453]: PO Financing
+                - generic [ref=e454]: Soon
+              - link "Collections" [ref=e457] [cursor=pointer]:
+                - /url: /collections
+                - generic [ref=e458]: Collections
+              - link "Payment Links" [ref=e461] [cursor=pointer]:
+                - /url: /payments
+                - generic [ref=e462]: Payment Links
+          - link "Apps Marketplace" [ref=e464] [cursor=pointer]:
+            - /url: /apps
+            - img [ref=e465]
+            - generic [ref=e468]: Apps Marketplace
+          - link "Manage" [ref=e470] [cursor=pointer]:
+            - /url: /settings
+            - img [ref=e471]
+            - generic [ref=e474]: Manage
+      - region "Notifications alt+T"
+    - generic [ref=e475] [cursor=pointer]:
+      - img [ref=e476]
+      - text: Help
+  - region "Notifications Alt+T"

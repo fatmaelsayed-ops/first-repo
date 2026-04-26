@@ -1,0 +1,334 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - main [ref=e5]:
+          - generic [ref=e97]:
+            - button "99+" [ref=e98] [cursor=pointer]:
+              - generic [ref=e99]:
+                - img [ref=e100]
+                - superscript [ref=e102]: 99+
+            - button [ref=e103] [cursor=pointer]:
+              - img [ref=e105]
+            - link "New" [ref=e107] [cursor=pointer]:
+              - /url: /release-notes
+              - generic [ref=e108]: New
+              - img [ref=e109]
+            - button "العربية" [ref=e133] [cursor=pointer]
+            - button "h hamedd Ltd." [ref=e135] [cursor=pointer]:
+              - generic [ref=e136]:
+                - generic [ref=e137]:
+                  - generic [ref=e139]: h
+                  - generic [ref=e141]: hamedd Ltd.
+                - img [ref=e143]
+          - generic [ref=e145]:
+            - generic [ref=e149]:
+              - generic [ref=e150]:
+                - text: Welcome, hamedd Ltd.
+                - generic [ref=e151]: 👋
+              - generic [ref=e152]:
+                - generic [ref=e153]: welcome back our valued customer
+                - button "Click to get your gift 🎁" [ref=e154] [cursor=pointer]:
+                  - paragraph [ref=e155]: Click to get your gift 🎁
+            - generic [ref=e158]:
+              - region [ref=e160]:
+                - group [ref=e163]:
+                  - link "Marketing banner 1 - Click to learn more" [ref=e164] [cursor=pointer]:
+                    - /url: https://sit.almubasher.com.sa/business3/new/#/login?merchantCode=bbfsl_000104&flow=PLAT_APPLY
+                    - img "Marketing banner 1 - Click to learn more" [ref=e165]
+              - generic [ref=e171]:
+                - generic [ref=e172]:
+                  - text: 1 Orders has not update their status
+                  - generic [ref=e173]: You have orders that were delivered through your fleet and you have not updated the order status for the past 12 hours
+                - button "Show Orders" [ref=e174] [cursor=pointer]:
+                  - text: Show Orders
+                  - img [ref=e176]
+              - generic [ref=e179]:
+                - generic [ref=e180]:
+                  - generic [ref=e182]:
+                    - generic [ref=e183]: Orders Summary
+                    - generic [ref=e188] [cursor=pointer]:
+                      - text: Apr 2026
+                      - img [ref=e190]
+                  - generic [ref=e193]:
+                    - generic [ref=e194] [cursor=pointer]:
+                      - generic [ref=e196]: Pending Confirmation
+                      - generic [ref=e200]: "0"
+                    - generic [ref=e201] [cursor=pointer]:
+                      - generic [ref=e203]: Under Preparation
+                      - generic [ref=e207]: "0"
+                    - generic [ref=e208] [cursor=pointer]:
+                      - generic [ref=e210]: Ready For Shipping
+                      - generic [ref=e214]: "0"
+                    - generic [ref=e215] [cursor=pointer]:
+                      - generic [ref=e217]: Out for delivery
+                      - generic [ref=e221]: "0"
+                    - generic [ref=e222] [cursor=pointer]:
+                      - generic [ref=e224]: Delivered
+                      - generic [ref=e228]: "0"
+                    - generic [ref=e229] [cursor=pointer]:
+                      - generic [ref=e231]: Cancelled
+                      - generic [ref=e235]: "0"
+                - generic [ref=e236]:
+                  - generic [ref=e238]:
+                    - generic [ref=e239]: Performance summary
+                    - generic [ref=e244] [cursor=pointer]:
+                      - text: Apr 2026
+                      - img [ref=e246]
+                  - generic [ref=e249]:
+                    - generic [ref=e250] [cursor=pointer]:
+                      - generic [ref=e252]: Total Sales
+                      - generic [ref=e255]: "0"
+                    - generic [ref=e256] [cursor=pointer]:
+                      - generic [ref=e258]: Number Of Buyers
+                      - generic [ref=e261]: "0"
+                    - generic [ref=e262] [cursor=pointer]:
+                      - generic [ref=e264]: Number Of Orders
+                      - generic [ref=e267]: "0"
+                    - generic [ref=e268] [cursor=pointer]:
+                      - generic [ref=e270]: Buyers Rating
+                      - generic [ref=e273]: "0"
+                    - generic [ref=e274] [cursor=pointer]:
+                      - generic [ref=e276]: Average Order Value
+                      - generic [ref=e279]: "0"
+                    - generic [ref=e280] [cursor=pointer]:
+                      - generic [ref=e282]: Returned Products
+                      - generic [ref=e285]: "0"
+              - generic [ref=e286]:
+                - generic [ref=e287]: Collections summary
+                - generic [ref=e289]:
+                  - generic [ref=e290] [cursor=pointer]:
+                    - generic [ref=e293]: Total credit to be collected
+                    - generic [ref=e298]:
+                      - generic [ref=e299]: "0"
+                      - generic [ref=e300]: ﷼
+                  - generic [ref=e301] [cursor=pointer]:
+                    - generic [ref=e304]: Total overdue collections
+                    - generic [ref=e309]:
+                      - generic [ref=e310]: "0"
+                      - generic [ref=e311]: ﷼
+                  - generic [ref=e312] [cursor=pointer]:
+                    - generic [ref=e314]:
+                      - generic [ref=e315]: Expected collections for
+                      - generic [ref=e321]:
+                        - text: Apr 2026
+                        - img [ref=e323]
+                    - generic [ref=e328]:
+                      - generic [ref=e329]: "0"
+                      - generic [ref=e330]: ﷼
+              - generic [ref=e331]:
+                - generic [ref=e332]: Best Selling Cities
+                - generic [ref=e334]:
+                  - table [ref=e336]:
+                    - rowgroup [ref=e337]:
+                      - row "City Number Of Orders Sales Ratio Total Sales" [ref=e338]:
+                        - columnheader "City" [ref=e339]
+                        - columnheader "Number Of Orders" [ref=e340]
+                        - columnheader "Sales Ratio" [ref=e341]
+                        - columnheader "Total Sales" [ref=e342]
+                    - rowgroup [ref=e343]:
+                      - row "Medina 13 80.7% 15,900 ﷼" [ref=e344]:
+                        - cell "Medina" [ref=e345]
+                        - cell "13" [ref=e346]
+                        - cell "80.7%" [ref=e347]
+                        - cell "15,900 ﷼" [ref=e348]:
+                          - generic [ref=e349]:
+                            - generic [ref=e350]: 15,900
+                            - generic [ref=e351]: ﷼
+                      - row "Al Bijadyah 2 9.1% 1,800 ﷼" [ref=e352]:
+                        - cell "Al Bijadyah" [ref=e353]
+                        - cell "2" [ref=e354]
+                        - cell "9.1%" [ref=e355]
+                        - cell "1,800 ﷼" [ref=e356]:
+                          - generic [ref=e357]:
+                            - generic [ref=e358]: 1,800
+                            - generic [ref=e359]: ﷼
+                      - row "Ad Diriyah 1 5.1% 1,000 ﷼" [ref=e360]:
+                        - cell "Ad Diriyah" [ref=e361]
+                        - cell "1" [ref=e362]
+                        - cell "5.1%" [ref=e363]
+                        - cell "1,000 ﷼" [ref=e364]:
+                          - generic [ref=e365]:
+                            - generic [ref=e366]: 1,000
+                            - generic [ref=e367]: ﷼
+                      - row "Riyadh 1 5.1% 1,000 ﷼" [ref=e368]:
+                        - cell "Riyadh" [ref=e369]
+                        - cell "1" [ref=e370]
+                        - cell "5.1%" [ref=e371]
+                        - cell "1,000 ﷼" [ref=e372]:
+                          - generic [ref=e373]:
+                            - generic [ref=e374]: 1,000
+                            - generic [ref=e375]: ﷼
+                  - img [ref=e380] [cursor=pointer]
+              - generic [ref=e398]:
+                - generic [ref=e399] [cursor=pointer]:
+                  - img [ref=e400]
+                  - img [ref=e403]
+                - generic [ref=e405]:
+                  - paragraph [ref=e406]: إدارة المنتجات الجديدة كليا
+                  - paragraph [ref=e408]: ‏في هذا الإصدار تم إضافة إمكانية إدارة المنتجات من داخل تطبيق الموردين، ‏ليس عليك أن تتواصل مع مدير حسابك لإضافة منتج. الآن يمكنك إضافة جميع المنتجات من داخل تطبيق الموردين بضغطة زر
+              - generic [ref=e409]:
+                - generic [ref=e410]: Suggested Articles
+                - generic [ref=e412]:
+                  - generic [ref=e414]:
+                    - img "article_img" [ref=e416]
+                    - generic [ref=e417]:
+                      - generic [ref=e418]:
+                        - paragraph [ref=e419]: كيفية تعديل عنوان عميل لديك ؟
+                        - paragraph [ref=e420]:
+                          - generic [ref=e421]: في حالة تغيير أي من أو كل تفاصيل عنوان عميل لديك ، تعرف على كيفية تحديث العنوان لضمان دقة وصول الطلبات للعميل.
+                      - button "Read the article" [ref=e423] [cursor=pointer]:
+                        - paragraph [ref=e424]:
+                          - generic [ref=e425]:
+                            - text: Read the article
+                            - img [ref=e427]
+                  - generic [ref=e430]:
+                    - img "article_img" [ref=e432]
+                    - generic [ref=e433]:
+                      - generic [ref=e434]:
+                        - paragraph [ref=e435]: كيفية البحث وإيجاد حساب أحد عملائك ؟
+                        - paragraph [ref=e436]:
+                          - generic [ref=e437]: من قائمة عملائك ، تعرف على خطوات البحث عن عميل محدد أو ايجار بياناته
+                      - button "Read the article" [ref=e439] [cursor=pointer]:
+                        - paragraph [ref=e440]:
+                          - generic [ref=e441]:
+                            - text: Read the article
+                            - img [ref=e443]
+                  - generic [ref=e446]:
+                    - img "article_img" [ref=e448]
+                    - generic [ref=e449]:
+                      - generic [ref=e450]:
+                        - paragraph [ref=e451]: كيف تضيف عميل جديد ؟
+                        - paragraph [ref=e452]:
+                          - generic [ref=e453]: خطوات توضيحية لكيفية إضافة عميل جديد وتسجيل بياناته إلى قائمة عملائك الحاليين .
+                      - button "Read the article" [ref=e455] [cursor=pointer]:
+                        - paragraph [ref=e456]:
+                          - generic [ref=e457]:
+                            - text: Read the article
+                            - img [ref=e459]
+        - generic [ref=e461]:
+          - generic [ref=e462]:
+            - button "Collapse sidebar" [ref=e463] [cursor=pointer]:
+              - img [ref=e464]
+            - link [ref=e467] [cursor=pointer]:
+              - /url: /
+              - img [ref=e468]
+          - navigation [ref=e471]:
+            - link "Home" [ref=e473] [cursor=pointer]:
+              - /url: /home
+              - img [ref=e474]
+              - generic [ref=e476]: Home
+            - generic [ref=e477]:
+              - generic [ref=e478] [cursor=pointer]:
+                - img [ref=e479]
+                - generic [ref=e481]: Sell
+                - img [ref=e482]
+              - generic [ref=e484]:
+                - link "Orders" [ref=e487] [cursor=pointer]:
+                  - /url: /orders/marketplace/all
+                  - generic [ref=e488]: Orders
+                - link "Quotations" [ref=e491] [cursor=pointer]:
+                  - /url: /procurement/quotations
+                  - generic [ref=e492]: Quotations
+                - link "Invoices" [ref=e495] [cursor=pointer]:
+                  - /url: /invoices
+                  - generic [ref=e496]: Invoices
+                - link "Credit Notes" [ref=e499] [cursor=pointer]:
+                  - /url: /procurement/credit-notes
+                  - generic [ref=e500]: Credit Notes
+                - link "Buyers" [ref=e503] [cursor=pointer]:
+                  - /url: /customers
+                  - generic [ref=e504]: Buyers
+                - link "Products" [ref=e507] [cursor=pointer]:
+                  - /url: /products
+                  - generic [ref=e508]: Products
+                - link "Discounts" [ref=e511] [cursor=pointer]:
+                  - /url: /discounts
+                  - generic [ref=e512]: Discounts
+            - generic [ref=e513]:
+              - generic [ref=e514] [cursor=pointer]:
+                - img [ref=e515]
+                - generic [ref=e517]: Buy
+                - img [ref=e518]
+              - generic [ref=e520]:
+                - link "Suppliers" [ref=e523] [cursor=pointer]:
+                  - /url: /suppliers
+                  - generic [ref=e524]: Suppliers
+                - link "Supplier Items" [ref=e527] [cursor=pointer]:
+                  - /url: /items
+                  - generic [ref=e528]: Supplier Items
+                - link "Purchase Orders" [ref=e531] [cursor=pointer]:
+                  - /url: /procurement/purchase-orders
+                  - generic [ref=e532]: Purchase Orders
+                - link "Received Notes" [ref=e535] [cursor=pointer]:
+                  - /url: /procurement/received-notes
+                  - generic [ref=e536]: Received Notes
+            - generic [ref=e537]:
+              - generic [ref=e538] [cursor=pointer]:
+                - img [ref=e539]
+                - generic [ref=e541]: Finance
+                - img [ref=e542]
+              - generic [ref=e544]:
+                - link "Invoice Financing Soon" [ref=e547] [cursor=pointer]:
+                  - /url: /invoice-financing
+                  - generic [ref=e548]: Invoice Financing
+                  - generic [ref=e549]: Soon
+                - link "PO Financing Soon" [ref=e552] [cursor=pointer]:
+                  - /url: /purchase-order-financing
+                  - generic [ref=e553]: PO Financing
+                  - generic [ref=e554]: Soon
+                - link "Collections" [ref=e557] [cursor=pointer]:
+                  - /url: /collections
+                  - generic [ref=e558]: Collections
+                - link "Payment Links" [ref=e561] [cursor=pointer]:
+                  - /url: /payments
+                  - generic [ref=e562]: Payment Links
+            - link "Apps Marketplace" [ref=e564] [cursor=pointer]:
+              - /url: /apps
+              - img [ref=e565]
+              - generic [ref=e568]: Apps Marketplace
+            - link "Manage" [ref=e570] [cursor=pointer]:
+              - /url: /settings
+              - img [ref=e571]
+              - generic [ref=e574]: Manage
+        - region "Notifications alt+T"
+      - generic [ref=e69] [cursor=pointer]:
+        - img [ref=e70]
+        - text: Help
+    - region "Notifications Alt+T"
+  - generic [ref=e576]:
+    - dialog:
+      - generic [ref=e579]:
+        - generic [ref=e580]:
+          - img [ref=e581]
+          - generic [ref=e583]: Address update required
+        - generic [ref=e584]:
+          - generic [ref=e585]: To ensure accurate delivery and valid business documents, please update your address now
+          - generic [ref=e586]:
+            - button "Update Now" [ref=e587] [cursor=pointer]:
+              - paragraph [ref=e588]: Update Now
+            - button "Remind Me Later" [ref=e589] [cursor=pointer]:
+              - paragraph [ref=e590]: Remind Me Later
+  - generic [ref=e592]:
+    - dialog:
+      - generic [ref=e594]:
+        - generic [ref=e595]:
+          - paragraph [ref=e597]: What's new in Qawafel
+          - img [ref=e599] [cursor=pointer]
+        - region [ref=e602]:
+          - group [ref=e605]:
+            - generic [ref=e606]:
+              - generic [ref=e607]:
+                - img [ref=e608] [cursor=pointer]
+                - img [ref=e611] [cursor=pointer]
+              - generic [ref=e614]:
+                - paragraph [ref=e615]: إدارة المنتجات الجديدة كليا
+                - paragraph [ref=e616]:
+                  - generic [ref=e617]:
+                    - paragraph [ref=e618]: ‏في هذا الإصدار تم إضافة إمكانية إدارة المنتجات من داخل تطبيق الموردين، ‏ليس عليك أن تتواصل مع مدير حسابك لإضافة منتج.
+                    - paragraph [ref=e619]:
+                      - text: الآن يمكنك إضافة جميع المنتجات من داخل تطبيق الموردين بضغطة زر ....
+                      - link "إضغط هنا لتعرف كيف" [ref=e620] [cursor=pointer]:
+                        - /url: https://help.qawafel.sa/ar/article/2Izk2RqDJMPcCBMZ8EFOxM
+        - button "Close" [ref=e621] [cursor=pointer]:
+          - paragraph [ref=e622]: Close

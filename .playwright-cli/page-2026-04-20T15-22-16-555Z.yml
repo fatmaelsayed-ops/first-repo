@@ -1,0 +1,350 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - main [ref=e5]:
+        - generic [ref=e7]:
+          - button "99+" [ref=e184] [cursor=pointer]:
+            - generic [ref=e9]:
+              - img [ref=e10]
+              - superscript [ref=e185]: 99+
+          - button [ref=e12] [cursor=pointer]:
+            - img [ref=e14]
+          - link "New" [ref=e16] [cursor=pointer]:
+            - /url: /release-notes
+            - generic [ref=e17]: New
+            - img [ref=e18]
+          - button "العربية" [ref=e42] [cursor=pointer]
+          - button "Kan Kan riyadh" [ref=e44] [cursor=pointer]:
+            - generic [ref=e45]:
+              - generic [ref=e49]: Kan Kan riyadh
+              - img [ref=e51]
+        - generic [ref=e186]:
+          - generic [ref=e187]:
+            - generic [ref=e189]:
+              - img [ref=e191]
+              - link "Quotations" [ref=e193] [cursor=pointer]:
+                - /url: /procurement/quotations
+              - generic [ref=e194]: Add Quotation
+            - heading "Add Quotation" [level=1] [ref=e196]
+          - generic [ref=e200]:
+            - generic [ref=e201]:
+              - generic [ref=e203]:
+                - img [ref=e206]
+                - generic [ref=e208]: Quotation by
+              - generic [ref=e214]:
+                - generic [ref=e215]: Qawafel Marketing Company
+                - generic [ref=e216]:
+                  - generic [ref=e217]:
+                    - generic [ref=e218]:
+                      - generic [ref=e219]: "CR Number:"
+                      - generic [ref=e220]: "1155665566"
+                    - generic [ref=e221]:
+                      - generic [ref=e222]: "Unified Number:"
+                      - generic [ref=e223]: "-"
+                    - generic [ref=e224]:
+                      - generic [ref=e225]: "Tax number:"
+                      - generic [ref=e226]: "7878"
+                  - generic [ref=e227]:
+                    - generic [ref=e228]:
+                      - generic [ref=e229]: "Email Address:"
+                      - generic [ref=e230]: aymansamir1312@gmail.com
+                    - generic [ref=e231]:
+                      - generic [ref=e232]: "Phone Number:"
+                      - generic [ref=e233]: "555107447"
+                    - generic [ref=e234]:
+                      - generic [ref=e235]: "Address:"
+                      - generic [ref=e236]: Saudi Arabia , Ad Diriyah
+            - generic [ref=e237]:
+              - generic [ref=e239]:
+                - img [ref=e242]
+                - generic [ref=e244]: Quotation To
+              - generic [ref=e247]:
+                - generic [ref=e248]: Legal company name
+                - generic [ref=e249]:
+                  - log [ref=e251]
+                  - generic [ref=e252]:
+                    - generic [ref=e253]:
+                      - generic [ref=e254]: Select buyer
+                      - combobox [ref=e256]
+                    - img [ref=e259]
+            - generic [ref=e261]:
+              - generic [ref=e263]:
+                - img [ref=e266]
+                - generic [ref=e268]: Quotation Information
+              - generic [ref=e270]:
+                - generic [ref=e271]:
+                  - generic [ref=e272]: Issue Date
+                  - generic [ref=e273]:
+                    - img [ref=e274]
+                    - textbox [active] [ref=e278]: 2026-04-20
+                    - generic [ref=e408]:
+                      - dialog "Choose Date" [ref=e411]:
+                        - alert [ref=e412]
+                        - button "Previous Month" [ref=e413] [cursor=pointer]:
+                          - generic: Previous Month
+                        - button "Next Month" [ref=e414] [cursor=pointer]:
+                          - generic: Next Month
+                        - generic [ref=e415]:
+                          - heading "April 2026" [level=2] [ref=e417]
+                          - table [ref=e418]:
+                            - rowgroup [ref=e419]:
+                              - row "Sunday Monday Tuesday Wednesday Thursday Friday Saturday" [ref=e420]:
+                                - columnheader "Sunday" [ref=e421]:
+                                  - generic [ref=e422]: Sunday
+                                  - text: Su
+                                - columnheader "Monday" [ref=e423]:
+                                  - generic [ref=e424]: Monday
+                                  - text: Mo
+                                - columnheader "Tuesday" [ref=e425]:
+                                  - generic [ref=e426]: Tuesday
+                                  - text: Tu
+                                - columnheader "Wednesday" [ref=e427]:
+                                  - generic [ref=e428]: Wednesday
+                                  - text: We
+                                - columnheader "Thursday" [ref=e429]:
+                                  - generic [ref=e430]: Thursday
+                                  - text: Th
+                                - columnheader "Friday" [ref=e431]:
+                                  - generic [ref=e432]: Friday
+                                  - text: Fr
+                                - columnheader "Saturday" [ref=e433]:
+                                  - generic [ref=e434]: Saturday
+                                  - text: Sa
+                            - rowgroup "Month April, 2026" [ref=e435]:
+                              - row "Choose Sunday, March 29th, 2026 Choose Monday, March 30th, 2026 Choose Tuesday, March 31st, 2026 Choose Wednesday, April 1st, 2026 Choose Thursday, April 2nd, 2026 Choose Friday, April 3rd, 2026 Choose Saturday, April 4th, 2026" [ref=e436]:
+                                - gridcell "Choose Sunday, March 29th, 2026" [ref=e437] [cursor=pointer]: "29"
+                                - gridcell "Choose Monday, March 30th, 2026" [ref=e438] [cursor=pointer]: "30"
+                                - gridcell "Choose Tuesday, March 31st, 2026" [ref=e439] [cursor=pointer]: "31"
+                                - gridcell "Choose Wednesday, April 1st, 2026" [ref=e440] [cursor=pointer]: "1"
+                                - gridcell "Choose Thursday, April 2nd, 2026" [ref=e441] [cursor=pointer]: "2"
+                                - gridcell "Choose Friday, April 3rd, 2026" [ref=e442] [cursor=pointer]: "3"
+                                - gridcell "Choose Saturday, April 4th, 2026" [ref=e443] [cursor=pointer]: "4"
+                              - row "Choose Sunday, April 5th, 2026 Choose Monday, April 6th, 2026 Choose Tuesday, April 7th, 2026 Choose Wednesday, April 8th, 2026 Choose Thursday, April 9th, 2026 Choose Friday, April 10th, 2026 Choose Saturday, April 11th, 2026" [ref=e444]:
+                                - gridcell "Choose Sunday, April 5th, 2026" [ref=e445] [cursor=pointer]: "5"
+                                - gridcell "Choose Monday, April 6th, 2026" [ref=e446] [cursor=pointer]: "6"
+                                - gridcell "Choose Tuesday, April 7th, 2026" [ref=e447] [cursor=pointer]: "7"
+                                - gridcell "Choose Wednesday, April 8th, 2026" [ref=e448] [cursor=pointer]: "8"
+                                - gridcell "Choose Thursday, April 9th, 2026" [ref=e449] [cursor=pointer]: "9"
+                                - gridcell "Choose Friday, April 10th, 2026" [ref=e450] [cursor=pointer]: "10"
+                                - gridcell "Choose Saturday, April 11th, 2026" [ref=e451] [cursor=pointer]: "11"
+                              - row "Choose Sunday, April 12th, 2026 Choose Monday, April 13th, 2026 Choose Tuesday, April 14th, 2026 Choose Wednesday, April 15th, 2026 Choose Thursday, April 16th, 2026 Choose Friday, April 17th, 2026 Choose Saturday, April 18th, 2026" [ref=e452]:
+                                - gridcell "Choose Sunday, April 12th, 2026" [ref=e453] [cursor=pointer]: "12"
+                                - gridcell "Choose Monday, April 13th, 2026" [ref=e454] [cursor=pointer]: "13"
+                                - gridcell "Choose Tuesday, April 14th, 2026" [ref=e455] [cursor=pointer]: "14"
+                                - gridcell "Choose Wednesday, April 15th, 2026" [ref=e456] [cursor=pointer]: "15"
+                                - gridcell "Choose Thursday, April 16th, 2026" [ref=e457] [cursor=pointer]: "16"
+                                - gridcell "Choose Friday, April 17th, 2026" [ref=e458] [cursor=pointer]: "17"
+                                - gridcell "Choose Saturday, April 18th, 2026" [ref=e459] [cursor=pointer]: "18"
+                              - row "Choose Sunday, April 19th, 2026 Choose Monday, April 20th, 2026 Choose Tuesday, April 21st, 2026 Choose Wednesday, April 22nd, 2026 Choose Thursday, April 23rd, 2026 Choose Friday, April 24th, 2026 Choose Saturday, April 25th, 2026" [ref=e460]:
+                                - gridcell "Choose Sunday, April 19th, 2026" [ref=e461] [cursor=pointer]: "19"
+                                - gridcell "Choose Monday, April 20th, 2026" [selected] [ref=e462] [cursor=pointer]: "20"
+                                - gridcell "Choose Tuesday, April 21st, 2026" [ref=e463] [cursor=pointer]: "21"
+                                - gridcell "Choose Wednesday, April 22nd, 2026" [ref=e464] [cursor=pointer]: "22"
+                                - gridcell "Choose Thursday, April 23rd, 2026" [ref=e465] [cursor=pointer]: "23"
+                                - gridcell "Choose Friday, April 24th, 2026" [ref=e466] [cursor=pointer]: "24"
+                                - gridcell "Choose Saturday, April 25th, 2026" [ref=e467] [cursor=pointer]: "25"
+                              - row "Choose Sunday, April 26th, 2026 Choose Monday, April 27th, 2026 Choose Tuesday, April 28th, 2026 Choose Wednesday, April 29th, 2026 Choose Thursday, April 30th, 2026 Choose Friday, May 1st, 2026 Choose Saturday, May 2nd, 2026" [ref=e468]:
+                                - gridcell "Choose Sunday, April 26th, 2026" [ref=e469] [cursor=pointer]: "26"
+                                - gridcell "Choose Monday, April 27th, 2026" [ref=e470] [cursor=pointer]: "27"
+                                - gridcell "Choose Tuesday, April 28th, 2026" [ref=e471] [cursor=pointer]: "28"
+                                - gridcell "Choose Wednesday, April 29th, 2026" [ref=e472] [cursor=pointer]: "29"
+                                - gridcell "Choose Thursday, April 30th, 2026" [ref=e473] [cursor=pointer]: "30"
+                                - gridcell "Choose Friday, May 1st, 2026" [ref=e474] [cursor=pointer]: "1"
+                                - gridcell "Choose Saturday, May 2nd, 2026" [ref=e475] [cursor=pointer]: "2"
+                      - img
+                - generic [ref=e280]:
+                  - generic [ref=e281]: Payment term
+                  - generic [ref=e282]:
+                    - log [ref=e284]
+                    - generic [ref=e285]:
+                      - generic [ref=e286]:
+                        - generic [ref=e287]: Please select payment term
+                        - combobox [ref=e289]
+                      - img [ref=e292]
+                - generic [ref=e294]:
+                  - generic [ref=e295]:
+                    - text: Purchase order number
+                    - generic [ref=e296]: (Optional)
+                  - generic [ref=e297]:
+                    - log [ref=e299]
+                    - generic [ref=e300]:
+                      - generic [ref=e301]:
+                        - generic [ref=e302]: Select purchase order
+                        - combobox [ref=e304]
+                      - img [ref=e307]
+                - generic [ref=e309]:
+                  - generic [ref=e310]:
+                    - text: Reference number
+                    - generic [ref=e311]: (Optional)
+                  - textbox "Reference number (Optional)" [ref=e313]:
+                    - /placeholder: Enter reference number
+            - generic [ref=e314]:
+              - generic [ref=e315]:
+                - generic [ref=e317]:
+                  - img [ref=e320]
+                  - generic [ref=e322]: Products
+                - generic [ref=e324]:
+                  - generic [ref=e325]:
+                    - generic [ref=e329]:
+                      - img [ref=e331]
+                      - textbox "Search product" [ref=e333]
+                    - button "Browse Products" [ref=e334] [cursor=pointer]:
+                      - paragraph [ref=e335]: Browse Products
+                  - generic [ref=e336]: Select product to add them to the quotation
+              - generic [ref=e337]: Select at least one product
+            - generic [ref=e338]:
+              - generic [ref=e340]:
+                - img [ref=e343]
+                - generic [ref=e345]: Quotation Summary
+              - generic [ref=e348]:
+                - generic [ref=e349]:
+                  - text: Total gross amount
+                  - generic [ref=e350]:
+                    - generic [ref=e351]: "0"
+                    - generic [ref=e352]: ﷼
+                - generic [ref=e353]:
+                  - text: Discount amount
+                  - generic [ref=e354]:
+                    - generic [ref=e355]: "0"
+                    - generic [ref=e356]: ﷼
+                - generic [ref=e357]:
+                  - text: Total amount (Excluding VAT)
+                  - generic [ref=e358]:
+                    - generic [ref=e359]: "0"
+                    - generic [ref=e360]: ﷼
+                - generic [ref=e361]:
+                  - text: VAT amount
+                  - generic [ref=e362]:
+                    - generic [ref=e363]: "0"
+                    - generic [ref=e364]: ﷼
+                - generic [ref=e365]:
+                  - text: Total invoice amount
+                  - generic [ref=e366]:
+                    - generic [ref=e367]: "0"
+                    - generic [ref=e368]: ﷼
+                - generic [ref=e369]:
+                  - text: Net payable amount
+                  - generic [ref=e370]:
+                    - generic [ref=e371]: "0"
+                    - generic [ref=e372]: ﷼
+            - generic [ref=e373]:
+              - generic [ref=e375]:
+                - img [ref=e378]
+                - generic [ref=e380]: Additional information
+              - generic [ref=e382]:
+                - generic [ref=e385]:
+                  - generic [ref=e386]: Notes/memo (optional)
+                  - textbox "Enter notes here ..." [ref=e387]
+                - generic [ref=e388]:
+                  - generic [ref=e389]: Attach files to quotation (optional)
+                  - generic [ref=e391]:
+                    - img
+                    - generic [ref=e392] [cursor=pointer]:
+                      - img [ref=e393]
+                      - paragraph [ref=e397]:
+                        - generic [ref=e398]:
+                          - generic [ref=e399]: Click to upload
+                          - text: or drag and drop
+                      - generic [ref=e400]: PDF, PNG, JPEG, or JPG (max. 800x400px)
+                      - button "Choose File" [ref=e401]
+              - generic [ref=e403]:
+                - button "Save as draft" [ref=e404] [cursor=pointer]:
+                  - paragraph [ref=e405]: Save as draft
+                - button "Add Quotation" [ref=e406] [cursor=pointer]:
+                  - paragraph [ref=e407]: Add Quotation
+      - generic [ref=e57]:
+        - generic [ref=e58]:
+          - button "Collapse sidebar" [ref=e59] [cursor=pointer]:
+            - img [ref=e60]
+          - link [ref=e63] [cursor=pointer]:
+            - /url: /
+            - img [ref=e64]
+        - navigation [ref=e67]:
+          - link "Home" [ref=e69] [cursor=pointer]:
+            - /url: /home
+            - img [ref=e70]
+            - generic [ref=e72]: Home
+          - generic [ref=e73]:
+            - generic [ref=e74] [cursor=pointer]:
+              - img [ref=e75]
+              - generic [ref=e77]: Sell
+              - img [ref=e78]
+            - generic [ref=e81]:
+              - link "Orders" [ref=e84] [cursor=pointer]:
+                - /url: /orders/marketplace/all
+                - generic [ref=e85]: Orders
+              - link "Quotations" [ref=e88] [cursor=pointer]:
+                - /url: /procurement/quotations
+                - generic [ref=e89]: Quotations
+              - link "Invoices" [ref=e92] [cursor=pointer]:
+                - /url: /invoices
+                - generic [ref=e93]: Invoices
+              - link "Credit Notes" [ref=e96] [cursor=pointer]:
+                - /url: /procurement/credit-notes
+                - generic [ref=e97]: Credit Notes
+              - link "Buyers" [ref=e100] [cursor=pointer]:
+                - /url: /customers
+                - generic [ref=e101]: Buyers
+              - link "Products" [ref=e104] [cursor=pointer]:
+                - /url: /products
+                - generic [ref=e105]: Products
+              - link "Discounts" [ref=e108] [cursor=pointer]:
+                - /url: /discounts
+                - generic [ref=e109]: Discounts
+              - link "Reviews" [ref=e112] [cursor=pointer]:
+                - /url: /reviews
+                - generic [ref=e113]: Reviews
+              - link "Buyer complaints" [ref=e116] [cursor=pointer]:
+                - /url: /complaints
+                - generic [ref=e117]: Buyer complaints
+          - generic [ref=e118]:
+            - generic [ref=e119] [cursor=pointer]:
+              - img [ref=e120]
+              - generic [ref=e122]: Buy
+              - img [ref=e123]
+            - generic [ref=e125]:
+              - link "Suppliers" [ref=e128] [cursor=pointer]:
+                - /url: /suppliers
+                - generic [ref=e129]: Suppliers
+              - link "Supplier Items" [ref=e132] [cursor=pointer]:
+                - /url: /items
+                - generic [ref=e133]: Supplier Items
+              - link "Purchase Orders" [ref=e136] [cursor=pointer]:
+                - /url: /procurement/purchase-orders
+                - generic [ref=e137]: Purchase Orders
+              - link "Received Notes" [ref=e140] [cursor=pointer]:
+                - /url: /procurement/received-notes
+                - generic [ref=e141]: Received Notes
+          - generic [ref=e142]:
+            - generic [ref=e143] [cursor=pointer]:
+              - img [ref=e144]
+              - generic [ref=e146]: Finance
+              - img [ref=e147]
+            - generic [ref=e149]:
+              - link "Invoice Financing Soon" [ref=e152] [cursor=pointer]:
+                - /url: /invoice-financing
+                - generic [ref=e153]: Invoice Financing
+                - generic [ref=e154]: Soon
+              - link "PO Financing Soon" [ref=e157] [cursor=pointer]:
+                - /url: /purchase-order-financing
+                - generic [ref=e158]: PO Financing
+                - generic [ref=e159]: Soon
+              - link "Collections" [ref=e162] [cursor=pointer]:
+                - /url: /collections
+                - generic [ref=e163]: Collections
+              - link "Payment Links" [ref=e166] [cursor=pointer]:
+                - /url: /payments
+                - generic [ref=e167]: Payment Links
+          - link "Apps Marketplace" [ref=e169] [cursor=pointer]:
+            - /url: /apps
+            - img [ref=e170]
+            - generic [ref=e173]: Apps Marketplace
+          - link "Manage" [ref=e175] [cursor=pointer]:
+            - /url: /settings
+            - img [ref=e176]
+            - generic [ref=e179]: Manage
+      - region "Notifications alt+T"
+    - generic [ref=e180] [cursor=pointer]:
+      - img [ref=e181]
+      - text: Help
+  - region "Notifications Alt+T"

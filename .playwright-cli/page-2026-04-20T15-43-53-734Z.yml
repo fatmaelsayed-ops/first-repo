@@ -1,0 +1,785 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - generic [ref=e4]:
+        - main [ref=e5]:
+          - generic [ref=e7]:
+            - button "99+" [ref=e184] [cursor=pointer]:
+              - generic [ref=e9]:
+                - img [ref=e10]
+                - superscript [ref=e185]: 99+
+            - button [ref=e12] [cursor=pointer]:
+              - img [ref=e14]
+            - link "New" [ref=e16] [cursor=pointer]:
+              - /url: /release-notes
+              - generic [ref=e17]: New
+              - img [ref=e18]
+            - button "العربية" [ref=e42] [cursor=pointer]
+            - button "Kan Kan riyadh" [ref=e44] [cursor=pointer]:
+              - generic [ref=e45]:
+                - generic [ref=e49]: Kan Kan riyadh
+                - img [ref=e51]
+          - generic [ref=e186]:
+            - generic [ref=e187]:
+              - generic [ref=e189]:
+                - img [ref=e191]
+                - link "Quotations" [ref=e193] [cursor=pointer]:
+                  - /url: /procurement/quotations
+                - generic [ref=e194]: Add Quotation
+              - heading "Add Quotation" [level=1] [ref=e196]
+            - generic [ref=e200]:
+              - generic [ref=e201]:
+                - generic [ref=e203]:
+                  - img [ref=e206]
+                  - generic [ref=e208]: Quotation by
+                - generic [ref=e214]:
+                  - generic [ref=e215]: Qawafel Marketing Company
+                  - generic [ref=e216]:
+                    - generic [ref=e217]:
+                      - generic [ref=e218]:
+                        - generic [ref=e219]: "CR Number:"
+                        - generic [ref=e220]: "1155665566"
+                      - generic [ref=e221]:
+                        - generic [ref=e222]: "Unified Number:"
+                        - generic [ref=e223]: "-"
+                      - generic [ref=e224]:
+                        - generic [ref=e225]: "Tax number:"
+                        - generic [ref=e226]: "7878"
+                    - generic [ref=e227]:
+                      - generic [ref=e228]:
+                        - generic [ref=e229]: "Email Address:"
+                        - generic [ref=e230]: aymansamir1312@gmail.com
+                      - generic [ref=e231]:
+                        - generic [ref=e232]: "Phone Number:"
+                        - generic [ref=e233]: "555107447"
+                      - generic [ref=e234]:
+                        - generic [ref=e235]: "Address:"
+                        - generic [ref=e236]: Saudi Arabia , Ad Diriyah
+              - generic [ref=e237]:
+                - generic [ref=e239]:
+                  - img [ref=e242]
+                  - generic [ref=e244]: Quotation To
+                - generic [ref=e247]:
+                  - generic [ref=e248]: Legal company name
+                  - generic [ref=e249]:
+                    - log [ref=e251]
+                    - generic [ref=e252]:
+                      - generic [ref=e253]:
+                        - generic [ref=e254]: Select buyer
+                        - combobox [ref=e256]
+                      - img [ref=e259]
+              - generic [ref=e261]:
+                - generic [ref=e263]:
+                  - img [ref=e266]
+                  - generic [ref=e268]: Quotation Information
+                - generic [ref=e270]:
+                  - generic [ref=e271]:
+                    - generic [ref=e272]: Issue Date
+                    - generic [ref=e273]:
+                      - img [ref=e274]
+                      - textbox [ref=e278]: 2026-04-20
+                  - generic [ref=e280]:
+                    - generic [ref=e281]: Payment term
+                    - generic [ref=e282]:
+                      - log [ref=e284]
+                      - generic [ref=e285]:
+                        - generic [ref=e286]:
+                          - generic [ref=e287]: Please select payment term
+                          - combobox [ref=e289]
+                        - img [ref=e292]
+                  - generic [ref=e294]:
+                    - generic [ref=e295]:
+                      - text: Purchase order number
+                      - generic [ref=e296]: (Optional)
+                    - generic [ref=e297]:
+                      - log [ref=e299]
+                      - generic [ref=e300]:
+                        - generic [ref=e301]:
+                          - generic [ref=e302]: Select purchase order
+                          - combobox [ref=e304]
+                        - img [ref=e307]
+                  - generic [ref=e309]:
+                    - generic [ref=e310]:
+                      - text: Reference number
+                      - generic [ref=e311]: (Optional)
+                    - textbox "Reference number (Optional)" [ref=e313]:
+                      - /placeholder: Enter reference number
+              - generic [ref=e314]:
+                - generic [ref=e315]:
+                  - generic [ref=e317]:
+                    - img [ref=e320]
+                    - generic [ref=e322]: Products
+                  - generic [ref=e324]:
+                    - generic [ref=e325]:
+                      - generic [ref=e329]:
+                        - img [ref=e331]
+                        - textbox "Search product" [ref=e333]
+                      - button "Browse Products" [ref=e334] [cursor=pointer]:
+                        - paragraph [ref=e335]: Browse Products
+                    - generic [ref=e336]: Select product to add them to the quotation
+                - generic [ref=e337]: Select at least one product
+              - generic [ref=e338]:
+                - generic [ref=e340]:
+                  - img [ref=e343]
+                  - generic [ref=e345]: Quotation Summary
+                - generic [ref=e348]:
+                  - generic [ref=e349]:
+                    - text: Total gross amount
+                    - generic [ref=e350]:
+                      - generic [ref=e351]: "0"
+                      - generic [ref=e352]: ﷼
+                  - generic [ref=e353]:
+                    - text: Discount amount
+                    - generic [ref=e354]:
+                      - generic [ref=e355]: "0"
+                      - generic [ref=e356]: ﷼
+                  - generic [ref=e357]:
+                    - text: Total amount (Excluding VAT)
+                    - generic [ref=e358]:
+                      - generic [ref=e359]: "0"
+                      - generic [ref=e360]: ﷼
+                  - generic [ref=e361]:
+                    - text: VAT amount
+                    - generic [ref=e362]:
+                      - generic [ref=e363]: "0"
+                      - generic [ref=e364]: ﷼
+                  - generic [ref=e365]:
+                    - text: Total invoice amount
+                    - generic [ref=e366]:
+                      - generic [ref=e367]: "0"
+                      - generic [ref=e368]: ﷼
+                  - generic [ref=e369]:
+                    - text: Net payable amount
+                    - generic [ref=e370]:
+                      - generic [ref=e371]: "0"
+                      - generic [ref=e372]: ﷼
+              - generic [ref=e373]:
+                - generic [ref=e375]:
+                  - img [ref=e378]
+                  - generic [ref=e380]: Additional information
+                - generic [ref=e382]:
+                  - generic [ref=e385]:
+                    - generic [ref=e386]: Notes/memo (optional)
+                    - textbox "Enter notes here ..." [ref=e387]
+                  - generic [ref=e388]:
+                    - generic [ref=e389]: Attach files to quotation (optional)
+                    - generic [ref=e391]:
+                      - img
+                      - generic [ref=e392] [cursor=pointer]:
+                        - img [ref=e393]
+                        - paragraph [ref=e397]:
+                          - generic [ref=e398]:
+                            - generic [ref=e399]: Click to upload
+                            - text: or drag and drop
+                        - generic [ref=e400]: PDF, PNG, JPEG, or JPG (max. 800x400px)
+                        - button "Choose File" [ref=e401]
+                - generic [ref=e403]:
+                  - button "Save as draft" [ref=e404] [cursor=pointer]:
+                    - paragraph [ref=e405]: Save as draft
+                  - button "Add Quotation" [ref=e406] [cursor=pointer]:
+                    - paragraph [ref=e407]: Add Quotation
+        - generic [ref=e57]:
+          - generic [ref=e58]:
+            - button "Collapse sidebar" [ref=e59] [cursor=pointer]:
+              - img [ref=e60]
+            - link [ref=e63] [cursor=pointer]:
+              - /url: /
+              - img [ref=e64]
+          - navigation [ref=e67]:
+            - link "Home" [ref=e69] [cursor=pointer]:
+              - /url: /home
+              - img [ref=e70]
+              - generic [ref=e72]: Home
+            - generic [ref=e73]:
+              - generic [ref=e74] [cursor=pointer]:
+                - img [ref=e75]
+                - generic [ref=e77]: Sell
+                - img [ref=e78]
+              - generic [ref=e81]:
+                - link "Orders" [ref=e84] [cursor=pointer]:
+                  - /url: /orders/marketplace/all
+                  - generic [ref=e85]: Orders
+                - link "Quotations" [ref=e88] [cursor=pointer]:
+                  - /url: /procurement/quotations
+                  - generic [ref=e89]: Quotations
+                - link "Invoices" [ref=e92] [cursor=pointer]:
+                  - /url: /invoices
+                  - generic [ref=e93]: Invoices
+                - link "Credit Notes" [ref=e96] [cursor=pointer]:
+                  - /url: /procurement/credit-notes
+                  - generic [ref=e97]: Credit Notes
+                - link "Buyers" [ref=e100] [cursor=pointer]:
+                  - /url: /customers
+                  - generic [ref=e101]: Buyers
+                - link "Products" [ref=e104] [cursor=pointer]:
+                  - /url: /products
+                  - generic [ref=e105]: Products
+                - link "Discounts" [ref=e108] [cursor=pointer]:
+                  - /url: /discounts
+                  - generic [ref=e109]: Discounts
+                - link "Reviews" [ref=e112] [cursor=pointer]:
+                  - /url: /reviews
+                  - generic [ref=e113]: Reviews
+                - link "Buyer complaints" [ref=e116] [cursor=pointer]:
+                  - /url: /complaints
+                  - generic [ref=e117]: Buyer complaints
+            - generic [ref=e118]:
+              - generic [ref=e119] [cursor=pointer]:
+                - img [ref=e120]
+                - generic [ref=e122]: Buy
+                - img [ref=e123]
+              - generic [ref=e125]:
+                - link "Suppliers" [ref=e128] [cursor=pointer]:
+                  - /url: /suppliers
+                  - generic [ref=e129]: Suppliers
+                - link "Supplier Items" [ref=e132] [cursor=pointer]:
+                  - /url: /items
+                  - generic [ref=e133]: Supplier Items
+                - link "Purchase Orders" [ref=e136] [cursor=pointer]:
+                  - /url: /procurement/purchase-orders
+                  - generic [ref=e137]: Purchase Orders
+                - link "Received Notes" [ref=e140] [cursor=pointer]:
+                  - /url: /procurement/received-notes
+                  - generic [ref=e141]: Received Notes
+            - generic [ref=e142]:
+              - generic [ref=e143] [cursor=pointer]:
+                - img [ref=e144]
+                - generic [ref=e146]: Finance
+                - img [ref=e147]
+              - generic [ref=e149]:
+                - link "Invoice Financing Soon" [ref=e152] [cursor=pointer]:
+                  - /url: /invoice-financing
+                  - generic [ref=e153]: Invoice Financing
+                  - generic [ref=e154]: Soon
+                - link "PO Financing Soon" [ref=e157] [cursor=pointer]:
+                  - /url: /purchase-order-financing
+                  - generic [ref=e158]: PO Financing
+                  - generic [ref=e159]: Soon
+                - link "Collections" [ref=e162] [cursor=pointer]:
+                  - /url: /collections
+                  - generic [ref=e163]: Collections
+                - link "Payment Links" [ref=e166] [cursor=pointer]:
+                  - /url: /payments
+                  - generic [ref=e167]: Payment Links
+            - link "Apps Marketplace" [ref=e169] [cursor=pointer]:
+              - /url: /apps
+              - img [ref=e170]
+              - generic [ref=e173]: Apps Marketplace
+            - link "Manage" [ref=e175] [cursor=pointer]:
+              - /url: /settings
+              - img [ref=e176]
+              - generic [ref=e179]: Manage
+        - region "Notifications alt+T"
+      - generic [ref=e180] [cursor=pointer]:
+        - img [ref=e181]
+        - text: Help
+    - region "Notifications Alt+T"
+  - generic [ref=e409]:
+    - dialog:
+      - generic [ref=e412]:
+        - generic [ref=e413]:
+          - generic [ref=e414]:
+            - img [ref=e416]
+            - paragraph [ref=e418]: Products List
+          - img [ref=e421] [cursor=pointer]
+        - generic [ref=e425]:
+          - img [ref=e427]
+          - textbox "Search product" [ref=e429]
+        - generic [ref=e430]:
+          - generic [ref=e432] [cursor=pointer]:
+            - checkbox [checked=mixed] [ref=e433]:
+              - generic:
+                - img
+            - paragraph [ref=e434]: Select all products
+          - generic [ref=e437]:
+            - generic [ref=e438]:
+              - generic [ref=e439] [cursor=pointer]:
+                - checkbox [checked] [active] [ref=e440]:
+                  - generic:
+                    - img
+                - generic [ref=e443]:
+                  - generic [ref=e444]: Red / Mint
+                  - generic [ref=e445]: tst tst
+              - generic [ref=e446] [cursor=pointer]:
+                - generic [ref=e447]:
+                  - checkbox [checked] [ref=e448]:
+                    - generic:
+                      - img
+                  - paragraph [ref=e449]: Red / Mint
+                - generic [ref=e450]:
+                  - generic [ref=e451]: "13.8"
+                  - generic [ref=e452]: ﷼
+              - generic [ref=e453] [cursor=pointer]:
+                - generic [ref=e454]:
+                  - checkbox [checked] [ref=e455]:
+                    - generic:
+                      - img
+                  - paragraph [ref=e456]: Red / Cinnamon
+                - generic [ref=e457]:
+                  - generic [ref=e458]: "13.8"
+                  - generic [ref=e459]: ﷼
+              - generic [ref=e460] [cursor=pointer]:
+                - generic [ref=e461]:
+                  - checkbox [checked] [ref=e462]:
+                    - generic:
+                      - img
+                  - paragraph [ref=e463]: yellow / Mint
+                - generic [ref=e464]:
+                  - generic [ref=e465]: "13.8"
+                  - generic [ref=e466]: ﷼
+              - generic [ref=e467] [cursor=pointer]:
+                - generic [ref=e468]:
+                  - checkbox [checked] [ref=e469]:
+                    - generic:
+                      - img
+                  - paragraph [ref=e470]: yellow / Cinnamon
+                - generic [ref=e471]:
+                  - generic [ref=e472]: "13.8"
+                  - generic [ref=e473]: ﷼
+            - generic [ref=e474] [cursor=pointer]:
+              - generic [ref=e475]:
+                - checkbox [ref=e476]
+                - generic [ref=e479]:
+                  - generic [ref=e480]: tst
+                  - generic [ref=e482]: tst tst
+              - generic [ref=e483]:
+                - generic [ref=e484]: "0"
+                - generic [ref=e485]: ﷼
+            - generic [ref=e486] [cursor=pointer]:
+              - generic [ref=e487]:
+                - checkbox [ref=e488]
+                - generic [ref=e491]:
+                  - generic [ref=e492]: amazing
+                  - generic [ref=e494]: amazing
+              - generic [ref=e495]:
+                - generic [ref=e496]: "0"
+                - generic [ref=e497]: ﷼
+            - generic [ref=e498]:
+              - generic [ref=e499] [cursor=pointer]:
+                - checkbox [ref=e500]
+                - generic [ref=e503]:
+                  - generic [ref=e504]: test variant
+                  - generic [ref=e505]: test variant
+              - generic [ref=e506] [cursor=pointer]:
+                - generic [ref=e507]:
+                  - checkbox [ref=e508]
+                  - paragraph [ref=e509]: white / S
+                - generic [ref=e510]:
+                  - generic [ref=e511]: "13.8"
+                  - generic [ref=e512]: ﷼
+              - generic [ref=e513] [cursor=pointer]:
+                - generic [ref=e514]:
+                  - checkbox [ref=e515]
+                  - paragraph [ref=e516]: white / M
+                - generic [ref=e517]:
+                  - generic [ref=e518]: "13.8"
+                  - generic [ref=e519]: ﷼
+              - generic [ref=e520] [cursor=pointer]:
+                - generic [ref=e521]:
+                  - checkbox [ref=e522]
+                  - paragraph [ref=e523]: black / S
+                - generic [ref=e524]:
+                  - generic [ref=e525]: "13.8"
+                  - generic [ref=e526]: ﷼
+              - generic [ref=e527] [cursor=pointer]:
+                - generic [ref=e528]:
+                  - checkbox [ref=e529]
+                  - paragraph [ref=e530]: black / M
+                - generic [ref=e531]:
+                  - generic [ref=e532]: "13.8"
+                  - generic [ref=e533]: ﷼
+            - generic [ref=e534]:
+              - generic [ref=e535] [cursor=pointer]:
+                - checkbox [ref=e536]
+                - generic [ref=e539]:
+                  - generic [ref=e540]: chocolate
+                  - generic [ref=e541]: white chocolate
+              - generic [ref=e542] [cursor=pointer]:
+                - generic [ref=e543]:
+                  - checkbox [ref=e544]
+                  - paragraph [ref=e545]: Red / Cinnamon / Tomato
+                - generic [ref=e546]:
+                  - generic [ref=e547]: "88.55"
+                  - generic [ref=e548]: ﷼
+              - generic [ref=e549] [cursor=pointer]:
+                - generic [ref=e550]:
+                  - checkbox [ref=e551]
+                  - paragraph [ref=e552]: Red / Cinnamon / strawberry
+                - generic [ref=e553]:
+                  - generic [ref=e554]: "88.55"
+                  - generic [ref=e555]: ﷼
+              - generic [ref=e556] [cursor=pointer]:
+                - generic [ref=e557]:
+                  - checkbox [ref=e558]
+                  - paragraph [ref=e559]: Red / Mint / Tomato
+                - generic [ref=e560]:
+                  - generic [ref=e561]: "88.55"
+                  - generic [ref=e562]: ﷼
+              - generic [ref=e563] [cursor=pointer]:
+                - generic [ref=e564]:
+                  - checkbox [ref=e565]
+                  - paragraph [ref=e566]: Red / Mint / strawberry
+                - generic [ref=e567]:
+                  - generic [ref=e568]: "88.55"
+                  - generic [ref=e569]: ﷼
+              - generic [ref=e570] [cursor=pointer]:
+                - generic [ref=e571]:
+                  - checkbox [ref=e572]
+                  - paragraph [ref=e573]: yellow / Mint / Tomato
+                - generic [ref=e574]:
+                  - generic [ref=e575]: "88.55"
+                  - generic [ref=e576]: ﷼
+              - generic [ref=e577] [cursor=pointer]:
+                - generic [ref=e578]:
+                  - checkbox [ref=e579]
+                  - paragraph [ref=e580]: yellow / Mint / strawberry
+                - generic [ref=e581]:
+                  - generic [ref=e582]: "88.55"
+                  - generic [ref=e583]: ﷼
+              - generic [ref=e584] [cursor=pointer]:
+                - generic [ref=e585]:
+                  - checkbox [ref=e586]
+                  - paragraph [ref=e587]: yellow / Cinnamon / Tomato
+                - generic [ref=e588]:
+                  - generic [ref=e589]: "88.55"
+                  - generic [ref=e590]: ﷼
+              - generic [ref=e591] [cursor=pointer]:
+                - generic [ref=e592]:
+                  - checkbox [ref=e593]
+                  - paragraph [ref=e594]: yellow / Cinnamon / strawberry
+                - generic [ref=e595]:
+                  - generic [ref=e596]: "88.55"
+                  - generic [ref=e597]: ﷼
+            - generic [ref=e598]:
+              - generic [ref=e599] [cursor=pointer]:
+                - checkbox [ref=e600]
+                - generic [ref=e603]:
+                  - generic [ref=e604]: chocolate
+                  - generic [ref=e605]: white chocolate
+              - generic [ref=e606] [cursor=pointer]:
+                - generic [ref=e607]:
+                  - checkbox [ref=e608]
+                  - paragraph [ref=e609]: yellow / Mint / Tomato / L
+                - generic [ref=e610]:
+                  - generic [ref=e611]: "74.75"
+                  - generic [ref=e612]: ﷼
+              - generic [ref=e613] [cursor=pointer]:
+                - generic [ref=e614]:
+                  - checkbox [ref=e615]
+                  - paragraph [ref=e616]: yellow / Cinnamon / Tomato / L
+                - generic [ref=e617]:
+                  - generic [ref=e618]: "74.75"
+                  - generic [ref=e619]: ﷼
+            - generic [ref=e620] [cursor=pointer]:
+              - generic [ref=e621]:
+                - checkbox [ref=e622]
+                - generic [ref=e626]: Marca
+              - generic [ref=e627]:
+                - generic [ref=e628]: "61.59"
+                - generic [ref=e629]: ﷼
+            - generic [ref=e630] [cursor=pointer]:
+              - generic [ref=e631]:
+                - checkbox [ref=e632]
+                - generic [ref=e636]: Aluma Crunchy
+              - generic [ref=e637]:
+                - generic [ref=e638]: "60.2"
+                - generic [ref=e639]: ﷼
+            - generic [ref=e640] [cursor=pointer]:
+              - generic [ref=e641]:
+                - checkbox [ref=e642]
+                - generic [ref=e646]: Aluma Petitfour Special Coffee
+              - generic [ref=e647]:
+                - generic [ref=e648]: "56.01"
+                - generic [ref=e649]: ﷼
+            - generic [ref=e650] [cursor=pointer]:
+              - generic [ref=e651]:
+                - checkbox [ref=e652]
+                - generic [ref=e656]: Crunchy Al-Aseel
+              - generic [ref=e657]:
+                - generic [ref=e658]: "4.03"
+                - generic [ref=e659]: ﷼
+            - generic [ref=e660] [cursor=pointer]:
+              - generic [ref=e661]:
+                - checkbox [ref=e662]
+                - generic [ref=e666]: Bicotila
+              - generic [ref=e667]:
+                - generic [ref=e668]: "69"
+                - generic [ref=e669]: ﷼
+            - generic [ref=e670] [cursor=pointer]:
+              - generic [ref=e671]:
+                - checkbox [ref=e672]
+                - generic [ref=e676]: Cruncghy Nougat
+              - generic [ref=e677]:
+                - generic [ref=e678]: "66.5"
+                - generic [ref=e679]: ﷼
+            - generic [ref=e680] [cursor=pointer]:
+              - generic [ref=e681]:
+                - checkbox [ref=e682]
+                - generic [ref=e686]: Petit Four Fancy
+              - generic [ref=e687]:
+                - generic [ref=e688]: "57.5"
+                - generic [ref=e689]: ﷼
+            - generic [ref=e690] [cursor=pointer]:
+              - generic [ref=e691]:
+                - checkbox [ref=e692]
+                - generic [ref=e696]: Crunchy Mix 250 gm
+              - generic [ref=e697]:
+                - generic [ref=e698]: "41.3"
+                - generic [ref=e699]: ﷼
+            - generic [ref=e700] [cursor=pointer]:
+              - generic [ref=e701]:
+                - checkbox [ref=e702]
+                - generic [ref=e706]: Milto
+              - generic [ref=e707]:
+                - generic [ref=e708]: "90.31"
+                - generic [ref=e709]: ﷼
+            - generic [ref=e710] [cursor=pointer]:
+              - generic [ref=e711]:
+                - checkbox [ref=e712]
+                - generic [ref=e716]: Half Box Crunchy Pop
+              - generic [ref=e717]:
+                - generic [ref=e718]: "30.1"
+                - generic [ref=e719]: ﷼
+            - generic [ref=e720] [cursor=pointer]:
+              - generic [ref=e721]:
+                - checkbox [ref=e722]
+                - generic [ref=e726]: Half Box Crispy Pop
+              - generic [ref=e727]:
+                - generic [ref=e728]: "26.6"
+                - generic [ref=e729]: ﷼
+            - generic [ref=e730] [cursor=pointer]:
+              - generic [ref=e731]:
+                - checkbox [ref=e732]
+                - generic [ref=e736]: Tllh Ghoraiba Cardamom 800 G
+              - generic [ref=e737]:
+                - generic [ref=e738]: "71.42"
+                - generic [ref=e739]: ﷼
+            - generic [ref=e740] [cursor=pointer]:
+              - generic [ref=e741]:
+                - checkbox [ref=e742]
+                - generic [ref=e746]: Tllh Petit Four Karak 800 G
+              - generic [ref=e747]:
+                - generic [ref=e748]: "71.42"
+                - generic [ref=e749]: ﷼
+            - generic [ref=e750] [cursor=pointer]:
+              - generic [ref=e751]:
+                - checkbox [ref=e752]
+                - generic [ref=e756]: choco semsem
+              - generic [ref=e757]:
+                - generic [ref=e758]: "41.98"
+                - generic [ref=e759]: ﷼
+            - generic [ref=e760] [cursor=pointer]:
+              - generic [ref=e761]:
+                - checkbox [ref=e762]
+                - generic [ref=e766]: Heba Sweet Klija Petit Four
+              - generic [ref=e767]:
+                - generic [ref=e768]: "60.2"
+                - generic [ref=e769]: ﷼
+            - generic [ref=e770] [cursor=pointer]:
+              - generic [ref=e771]:
+                - checkbox [ref=e772]
+                - generic [ref=e776]: Heba Sweet Msamnah Salty
+              - generic [ref=e777]:
+                - generic [ref=e778]: "60.2"
+                - generic [ref=e779]: ﷼
+            - generic [ref=e780] [cursor=pointer]:
+              - generic [ref=e781]:
+                - checkbox [ref=e782]
+                - generic [ref=e786]: Heba Sweet Ghorayba Saudi Coffee
+              - generic [ref=e787]:
+                - generic [ref=e788]: "60.2"
+                - generic [ref=e789]: ﷼
+            - generic [ref=e790] [cursor=pointer]:
+              - generic [ref=e791]:
+                - checkbox [ref=e792]
+                - generic [ref=e796]: Choco Cheese Cake
+              - generic [ref=e797]:
+                - generic [ref=e798]: "33.6"
+                - generic [ref=e799]: ﷼
+            - generic [ref=e800] [cursor=pointer]:
+              - generic [ref=e801]:
+                - checkbox [ref=e802]
+                - generic [ref=e806]: Karima Salty Mix
+              - generic [ref=e807]:
+                - generic [ref=e808]: "41.98"
+                - generic [ref=e809]: ﷼
+            - generic [ref=e810] [cursor=pointer]:
+              - generic [ref=e811]:
+                - checkbox [ref=e812]
+                - generic [ref=e816]: shapora Karima
+              - generic [ref=e817]:
+                - generic [ref=e818]: "49"
+                - generic [ref=e819]: ﷼
+            - generic [ref=e820] [cursor=pointer]:
+              - generic [ref=e821]:
+                - checkbox [ref=e822]
+                - generic [ref=e826]: Petit Four Karima
+              - generic [ref=e827]:
+                - generic [ref=e828]: "52.5"
+                - generic [ref=e829]: ﷼
+            - generic [ref=e830] [cursor=pointer]:
+              - generic [ref=e831]:
+                - checkbox [ref=e832]
+                - generic [ref=e836]: Karima
+              - generic [ref=e837]:
+                - generic [ref=e838]: "48.3"
+                - generic [ref=e839]: ﷼
+            - generic [ref=e840] [cursor=pointer]:
+              - generic [ref=e841]:
+                - checkbox [ref=e842]
+                - generic [ref=e846]: De Pecan
+              - generic [ref=e847]:
+                - generic [ref=e848]: "53.25"
+                - generic [ref=e849]: ﷼
+            - generic [ref=e850] [cursor=pointer]:
+              - generic [ref=e851]:
+                - checkbox [ref=e852]
+                - generic [ref=e856]: Waffle Dulce
+              - generic [ref=e857]:
+                - generic [ref=e858]: "45.51"
+                - generic [ref=e859]: ﷼
+            - generic [ref=e860] [cursor=pointer]:
+              - generic [ref=e861]:
+                - checkbox [ref=e862]
+                - generic [ref=e866]: Choco Finger
+              - generic [ref=e867]:
+                - generic [ref=e868]: "45.51"
+                - generic [ref=e869]: ﷼
+            - generic [ref=e870] [cursor=pointer]:
+              - generic [ref=e871]:
+                - checkbox [ref=e872]
+                - generic [ref=e876]: Cortado
+              - generic [ref=e877]:
+                - generic [ref=e878]: "26.6"
+                - generic [ref=e879]: ﷼
+            - generic [ref=e880] [cursor=pointer]:
+              - generic [ref=e881]:
+                - checkbox [ref=e882]
+                - generic [ref=e886]: Choco Rahash
+              - generic [ref=e887]:
+                - generic [ref=e888]: "31.49"
+                - generic [ref=e889]: ﷼
+            - generic [ref=e890] [cursor=pointer]:
+              - generic [ref=e891]:
+                - checkbox [ref=e892]
+                - generic [ref=e896]: Flat White
+              - generic [ref=e897]:
+                - generic [ref=e898]: "30.1"
+                - generic [ref=e899]: ﷼
+            - generic [ref=e900] [cursor=pointer]:
+              - generic [ref=e901]:
+                - checkbox [ref=e902]
+                - generic [ref=e906]: Square Tamr
+              - generic [ref=e907]:
+                - generic [ref=e908]: "27.6"
+                - generic [ref=e909]: ﷼
+            - generic [ref=e910] [cursor=pointer]:
+              - generic [ref=e911]:
+                - checkbox [ref=e912]
+                - generic [ref=e916]: Coconut 1
+              - generic [ref=e917]:
+                - generic [ref=e918]: "27.26"
+                - generic [ref=e919]: ﷼
+            - generic [ref=e920] [cursor=pointer]:
+              - generic [ref=e921]:
+                - checkbox [ref=e922]
+                - generic [ref=e926]: Rise White 1
+              - generic [ref=e927]:
+                - generic [ref=e928]: "26.45"
+                - generic [ref=e929]: ﷼
+            - generic [ref=e930] [cursor=pointer]:
+              - generic [ref=e931]:
+                - checkbox [ref=e932]
+                - generic [ref=e936]: Caramel Drops
+              - generic [ref=e937]:
+                - generic [ref=e938]: "31.49"
+                - generic [ref=e939]: ﷼
+            - generic [ref=e940] [cursor=pointer]:
+              - generic [ref=e941]:
+                - checkbox [ref=e942]
+                - generic [ref=e946]: Crispy Caramel
+              - generic [ref=e947]:
+                - generic [ref=e948]: "31.49"
+                - generic [ref=e949]: ﷼
+            - generic [ref=e950] [cursor=pointer]:
+              - generic [ref=e951]:
+                - checkbox [ref=e952]
+                - generic [ref=e956]: Choco Roman 1
+              - generic [ref=e957]:
+                - generic [ref=e958]: "29.44"
+                - generic [ref=e959]: ﷼
+            - generic [ref=e960] [cursor=pointer]:
+              - generic [ref=e961]:
+                - checkbox [ref=e962]
+                - generic [ref=e966]: Petit Four
+              - generic [ref=e967]:
+                - generic [ref=e968]: "30.1"
+                - generic [ref=e969]: ﷼
+            - generic [ref=e970] [cursor=pointer]:
+              - generic [ref=e971]:
+                - checkbox [ref=e972]
+                - generic [ref=e976]: Ghorayba Meniez
+              - generic [ref=e977]:
+                - generic [ref=e978]: "28.7"
+                - generic [ref=e979]: ﷼
+            - generic [ref=e980] [cursor=pointer]:
+              - generic [ref=e981]:
+                - checkbox [ref=e982]
+                - generic [ref=e986]: Beter Bites
+              - generic [ref=e987]:
+                - generic [ref=e988]: "32.2"
+                - generic [ref=e989]: ﷼
+            - generic [ref=e990] [cursor=pointer]:
+              - generic [ref=e991]:
+                - checkbox [ref=e992]
+                - generic [ref=e996]: Crispy Dietz
+              - generic [ref=e997]:
+                - generic [ref=e998]: "30.1"
+                - generic [ref=e999]: ﷼
+            - generic [ref=e1000] [cursor=pointer]:
+              - generic [ref=e1001]:
+                - checkbox [ref=e1002]
+                - generic [ref=e1006]: Crunchy Heel
+              - generic [ref=e1007]:
+                - generic [ref=e1008]: "39.91"
+                - generic [ref=e1009]: ﷼
+            - generic [ref=e1010] [cursor=pointer]:
+              - generic [ref=e1011]:
+                - checkbox [ref=e1012]
+                - generic [ref=e1016]: Kleija Bites
+              - generic [ref=e1017]:
+                - generic [ref=e1018]: "31.49"
+                - generic [ref=e1019]: ﷼
+            - generic [ref=e1020] [cursor=pointer]:
+              - generic [ref=e1021]:
+                - checkbox [ref=e1022]
+                - generic [ref=e1026]: Eqaily Cube
+              - generic [ref=e1027]:
+                - generic [ref=e1028]: "31.49"
+                - generic [ref=e1029]: ﷼
+            - generic [ref=e1030] [cursor=pointer]:
+              - generic [ref=e1031]:
+                - checkbox [ref=e1032]
+                - generic [ref=e1036]: Solti
+              - generic [ref=e1037]:
+                - generic [ref=e1038]: "30.1"
+                - generic [ref=e1039]: ﷼
+            - generic [ref=e1040] [cursor=pointer]:
+              - generic [ref=e1041]:
+                - checkbox [ref=e1042]
+                - generic [ref=e1046]: Choco Pecan
+              - generic [ref=e1047]:
+                - generic [ref=e1048]: "30.1"
+                - generic [ref=e1049]: ﷼
+            - generic [ref=e1050] [cursor=pointer]:
+              - generic [ref=e1051]:
+                - checkbox [ref=e1052]
+                - generic [ref=e1056]: Choco Kajo
+              - generic [ref=e1057]:
+                - generic [ref=e1058]: "30.1"
+                - generic [ref=e1059]: ﷼
+          - generic [ref=e1060]:
+            - button "Cancel" [ref=e1061] [cursor=pointer]:
+              - paragraph [ref=e1062]: Cancel
+            - button "Add (4)" [ref=e1067] [cursor=pointer]:
+              - paragraph [ref=e1064]: Add (4)

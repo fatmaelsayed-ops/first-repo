@@ -1,0 +1,23 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - main [ref=e5]:
+        - generic [ref=e73]:
+          - heading "تم إرسال رمز التحقق إلى رقم جوالك" [level=2] [ref=e74]
+          - generic [ref=e75]:
+            - generic [ref=e76]: يرجى التحقق من الرمز المرسل إلى الرقم
+            - generic [ref=e77]: +966 540000007
+          - generic [ref=e78]:
+            - textbox [active] [ref=e80]
+            - button "متابعة" [disabled] [ref=e81]
+          - button "أدخل رقم جوال آخر" [ref=e82] [cursor=pointer]:
+            - paragraph [ref=e83]:
+              - generic [ref=e84]: أدخل رقم جوال آخر
+          - button "إعادة إرسال الرمز" [ref=e85] [cursor=pointer]:
+            - paragraph [ref=e86]:
+              - generic [ref=e87]: إعادة إرسال الرمز
+      - region "Notifications alt+T"
+    - generic [ref=e69] [cursor=pointer]:
+      - img [ref=e70]
+      - text: مساعدة
+  - region "Notifications Alt+T"

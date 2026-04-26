@@ -1,0 +1,255 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - navigation [ref=e11]:
+      - generic [ref=e33]:
+        - link "parent orders parent orders" [ref=e34] [cursor=pointer]:
+          - /url: /orders/list
+          - img "parent orders" [ref=e36]
+          - paragraph [ref=e37]: parent orders
+        - link "child orders child orders" [ref=e38] [cursor=pointer]:
+          - /url: /child-orders/list
+          - img "child orders" [ref=e40]
+          - paragraph [ref=e41]: child orders
+        - link "Invoice Financing Orders Invoice Financing Orders" [ref=e42] [cursor=pointer]:
+          - /url: /invoice-financing-orders
+          - img "Invoice Financing Orders" [ref=e44]
+          - paragraph [ref=e45]: Invoice Financing Orders
+        - link "live carts live carts" [ref=e46] [cursor=pointer]:
+          - /url: /live-carts/list
+          - img "live carts" [ref=e48]
+          - paragraph [ref=e49]: live carts
+      - link "Orders Map Orders Map" [ref=e51] [cursor=pointer]:
+        - /url: /orders-map
+        - img "Orders Map" [ref=e53]
+        - paragraph [ref=e54]: Orders Map
+      - generic [ref=e55]:
+        - link "Retails Retails" [ref=e56] [cursor=pointer]:
+          - /url: /customers/list
+          - img "Retails" [ref=e58]
+          - paragraph [ref=e59]: Retails
+        - link "Retailers Users Retailers Users" [ref=e60] [cursor=pointer]:
+          - /url: /retailers-users/list
+          - img "Retailers Users" [ref=e62]
+          - paragraph [ref=e63]: Retailers Users
+        - link "Merging Accounts Merging Accounts" [ref=e64] [cursor=pointer]:
+          - /url: /merging-accounts/
+          - img "Merging Accounts" [ref=e66]
+          - paragraph [ref=e67]: Merging Accounts
+        - link "Verification Center Verification Center" [ref=e68] [cursor=pointer]:
+          - /url: /verification-center/list
+          - img "Verification Center" [ref=e70]
+          - paragraph [ref=e71]: Verification Center
+        - link "requested vendors requested vendors" [ref=e72] [cursor=pointer]:
+          - /url: /requested-vendors/list
+          - img "requested vendors" [ref=e74]
+          - paragraph [ref=e75]: requested vendors
+        - link "requested products requested products" [ref=e76] [cursor=pointer]:
+          - /url: /requested-products/list
+          - img "requested products" [ref=e78]
+          - paragraph [ref=e79]: requested products
+        - link "App Feedback App Feedback" [ref=e80] [cursor=pointer]:
+          - /url: /app-feedback/list
+          - img "App Feedback" [ref=e82]
+          - paragraph [ref=e83]: App Feedback
+      - generic [ref=e84]:
+        - link "vendor categories vendor categories" [ref=e85] [cursor=pointer]:
+          - /url: /vendor-categories/list
+          - img "vendor categories" [ref=e87]
+          - paragraph [ref=e88]: vendor categories
+        - link "vendors vendors" [ref=e89] [cursor=pointer]:
+          - /url: /vendors/list
+          - img "vendors" [ref=e91]
+          - paragraph [ref=e92]: vendors
+        - link "Vendors Agreements Vendors Agreements" [ref=e93] [cursor=pointer]:
+          - /url: /vendors-agreements
+          - img "Vendors Agreements" [ref=e95]
+          - paragraph [ref=e96]: Vendors Agreements
+        - link "vendors users vendors users" [ref=e97] [cursor=pointer]:
+          - /url: /vendor-users/list
+          - img "vendors users" [ref=e99]
+          - paragraph [ref=e100]: vendors users
+        - link "vendors leads vendors leads" [ref=e101] [cursor=pointer]:
+          - /url: /vendors-leads/list
+          - img "vendors leads" [ref=e103]
+          - paragraph [ref=e104]: vendors leads
+        - link "Vendor Requests Vendor Requests" [ref=e105] [cursor=pointer]:
+          - /url: /vendor-requests
+          - img "Vendor Requests" [ref=e107]
+          - paragraph [ref=e108]: Vendor Requests
+        - link "Vendor Product Requests Vendor Product Requests" [ref=e109] [cursor=pointer]:
+          - /url: /vendor-product-requests
+          - img "Vendor Product Requests" [ref=e111]
+          - paragraph [ref=e112]: Vendor Product Requests
+        - link "Vendor Communications Vendor Communications" [ref=e113] [cursor=pointer]:
+          - /url: /vendor-communications
+          - img "Vendor Communications" [ref=e115]
+          - paragraph [ref=e116]: Vendor Communications
+        - link "App Integrations App Integrations" [ref=e117] [cursor=pointer]:
+          - /url: /app-integrations/list
+          - img "App Integrations" [ref=e119]
+          - paragraph [ref=e120]: App Integrations
+        - link "Merchant Merchant" [ref=e121] [cursor=pointer]:
+          - /url: /merchant
+          - img "Merchant" [ref=e123]
+          - paragraph [ref=e124]: Merchant
+      - generic [ref=e125]:
+        - link "Purchase Orders Purchase Orders" [ref=e126] [cursor=pointer]:
+          - /url: /purchase-orders/list
+          - img "Purchase Orders" [ref=e128]
+          - paragraph [ref=e129]: Purchase Orders
+        - link "Wallet Withdrawal Requests Wallet Withdrawal Requests" [ref=e130] [cursor=pointer]:
+          - /url: /withdrawal-requests/list
+          - img "Wallet Withdrawal Requests" [ref=e132]
+          - paragraph [ref=e133]: Wallet Withdrawal Requests
+        - link "Virtual IBANs Virtual IBANs" [ref=e134] [cursor=pointer]:
+          - /url: /v-iban/list
+          - img "Virtual IBANs" [ref=e136]
+          - paragraph [ref=e137]: Virtual IBANs
+        - link "Vendor Payouts Vendor Payouts" [ref=e138] [cursor=pointer]:
+          - /url: /vendor-payouts
+          - img "Vendor Payouts" [ref=e140]
+          - paragraph [ref=e141]: Vendor Payouts
+        - link "Subscription Subscription" [ref=e142] [cursor=pointer]:
+          - /url: /subscription/list
+          - img "Subscription" [ref=e144]
+          - paragraph [ref=e145]: Subscription
+        - link "Settlement Settlement" [ref=e146] [cursor=pointer]:
+          - /url: /settlement/list
+          - img "Settlement" [ref=e148]
+          - paragraph [ref=e149]: Settlement
+      - generic [ref=e150]:
+        - link "products products" [ref=e151] [cursor=pointer]:
+          - /url: /products/list
+          - img "products" [ref=e153]
+          - paragraph [ref=e154]: products
+        - link "categories categories" [ref=e155] [cursor=pointer]:
+          - /url: /categories/list
+          - img "categories" [ref=e157]
+          - paragraph [ref=e158]: categories
+        - link "collections collections" [ref=e159] [cursor=pointer]:
+          - /url: /collections/list
+          - img "collections" [ref=e161]
+          - paragraph [ref=e162]: collections
+        - link "brands brands" [ref=e163] [cursor=pointer]:
+          - /url: /brands/list
+          - img "brands" [ref=e165]
+          - paragraph [ref=e166]: brands
+      - generic [ref=e167]:
+        - link "banners banners" [ref=e168] [cursor=pointer]:
+          - /url: /banners/list
+          - img "banners" [ref=e170]
+          - paragraph [ref=e171]: banners
+        - link "discounts discounts" [ref=e172] [cursor=pointer]:
+          - /url: /discounts/list
+          - img "discounts" [ref=e174]
+          - paragraph [ref=e175]: discounts
+        - link "vendor discounts vendor discounts" [ref=e176] [cursor=pointer]:
+          - /url: /vendor_discounts
+          - img "vendor discounts" [ref=e178]
+          - paragraph [ref=e179]: vendor discounts
+        - link "rating rating" [ref=e180] [cursor=pointer]:
+          - /url: /rating/list
+          - img "rating" [ref=e182]
+          - paragraph [ref=e183]: rating
+      - generic [ref=e184]:
+        - link "Onboarding screens Onboarding screens" [ref=e185] [cursor=pointer]:
+          - /url: /onboarding-screens/list
+          - img "Onboarding screens" [ref=e187]
+          - paragraph [ref=e188]: Onboarding screens
+        - link "App Instructions App Instructions" [ref=e189] [cursor=pointer]:
+          - /url: /app-instructions/list
+          - img "App Instructions" [ref=e191]
+          - paragraph [ref=e192]: App Instructions
+        - link "Force update Force update" [ref=e193] [cursor=pointer]:
+          - /url: /force-update
+          - img "Force update" [ref=e195]
+          - paragraph [ref=e196]: Force update
+      - generic [ref=e197]:
+        - link "create notifications create notifications" [ref=e198] [cursor=pointer]:
+          - /url: /customers-notifications/list
+          - img "create notifications" [ref=e200]
+          - paragraph [ref=e201]: create notifications
+        - link "Vendor notifications Vendor notifications" [ref=e202] [cursor=pointer]:
+          - /url: /vendors-notifications/list
+          - img "Vendor notifications" [ref=e204]
+          - paragraph [ref=e205]: Vendor notifications
+        - link "Send notifications Send notifications" [ref=e206] [cursor=pointer]:
+          - /url: /send-notifications/list
+          - img "Send notifications" [ref=e208]
+          - paragraph [ref=e209]: Send notifications
+      - generic [ref=e210]:
+        - link "Help Topic Mapping Help Topic Mapping" [ref=e211] [cursor=pointer]:
+          - /url: /help_mapping
+          - img "Help Topic Mapping" [ref=e213]
+          - paragraph [ref=e214]: Help Topic Mapping
+        - link "configs configs" [ref=e215] [cursor=pointer]:
+          - /url: /configs
+          - img "configs" [ref=e217]
+          - paragraph [ref=e218]: configs
+        - link "logs logs" [ref=e219] [cursor=pointer]:
+          - /url: /logs
+          - img "logs" [ref=e221]
+          - paragraph [ref=e222]: logs
+      - generic [ref=e223]:
+        - link "user groups user groups" [ref=e224] [cursor=pointer]:
+          - /url: /users-groups/list
+          - img "user groups" [ref=e226]
+          - paragraph [ref=e227]: user groups
+        - link "admins admins" [ref=e228] [cursor=pointer]:
+          - /url: /admins/list
+          - img "admins" [ref=e230]
+          - paragraph [ref=e231]: admins
+    - link "logout" [ref=e13] [cursor=pointer]:
+      - /url: /logout
+      - img "logout" [ref=e14]
+  - main [ref=e15]:
+    - generic [ref=e232]:
+      - generic [ref=e233]:
+        - heading "Orders" [level=1] [ref=e235]
+        - link "help" [ref=e238] [cursor=pointer]:
+          - /url: https://app.clickup.com/3810377/docs/3m929-46867/3m929-25443
+          - img "help" [ref=e239]
+      - generic [ref=e240]:
+        - generic [ref=e241]:
+          - generic [ref=e242]:
+            - generic [ref=e244]:
+              - generic [ref=e247]:
+                - generic [ref=e250]: Search by id, customer name, store name, mobile
+                - generic [ref=e253]:
+                  - img [ref=e258]
+                  - textbox "Search by id, customer name, store name, mobile" [ref=e260]
+              - generic [ref=e261]:
+                - button "Business Model" [ref=e264] [cursor=pointer]:
+                  - generic [ref=e265]:
+                    - generic [ref=e266]: Business Model
+                    - img [ref=e271]
+                - button "Order State" [ref=e275] [cursor=pointer]:
+                  - generic [ref=e276]:
+                    - generic [ref=e277]: Order State
+                    - img [ref=e282]
+                - button "Payment Status" [ref=e286] [cursor=pointer]:
+                  - generic [ref=e287]:
+                    - generic [ref=e288]: Payment Status
+                    - img [ref=e293]
+              - button "More filters" [ref=e298] [cursor=pointer]:
+                - generic [ref=e300]: More filters
+            - generic [ref=e302]:
+              - generic [ref=e303]: "Sort by: created_at"
+              - button "Remove" [ref=e304] [cursor=pointer]:
+                - img [ref=e307]
+          - button "Sort by" [ref=e310] [cursor=pointer]:
+            - generic [ref=e311]:
+              - img [ref=e315]
+              - generic [ref=e317]: Sort by
+        - generic [ref=e319]:
+          - heading [level=1]
+          - generic [ref=e321]:
+            - generic [ref=e323]: Loading...
+            - table
+          - generic [ref=e325]:
+            - generic [ref=e326]: "Per Page:"
+            - generic [ref=e329]:
+              - generic [ref=e330]:
+                - generic [ref=e331]: "100"
+                - textbox [ref=e334]
+              - img [ref=e338]

@@ -1,0 +1,10 @@
+﻿### Ran Playwright code
+```js
+await (async page => { const phone = '540000008'; const otp = '201111'; await page.goto('https://store.development.qawafel.dev/kan-kan-2?login=open', { waitUntil: 'domcontentloaded' }); await page.getByPlaceholder('5X XXX XXXX').fill(phone); await page.getByRole('button', { name: '╪ú┘å╪┤╪ª ╪º┘ä╪¡╪│╪º╪¿' }).click(); await page.getByText('╪ú╪»╪«┘ä ╪▒┘à╪▓ ╪º┘ä╪¬╪¡┘é┘é').waitFor({ state: 'visible', timeout: 15000 }); const otpField = page.locator('input').last(); await otpField.fill(otp); const responsePromise = page.waitForResponse(r => r.url().includes('verify-otp'), { timeout: 15000 }).catch(() => null); await page.getByRole('button', { name: '╪¬╪ú┘â┘è╪»' }).click(); const response = await responsePromise; const bodyText = await page.locator('body').innerText(); console.log(JSON.stringify({ phone, otp, status: response ? response.status() : null, url: response ? response.url() : null, responseText: response ? await response.text() : null, expiredMessageVisible: bodyText.includes('╪º┘ä╪▒┘à╪▓ ╪º┘ä┘à╪»╪«┘ä ┘à┘å╪¬┘ç┘è ╪º┘ä╪╡┘ä╪º╪¡┘è╪⌐'), nextStepVisible: bodyText.includes('╪º┘ä╪«╪╖┘ê╪⌐ ╪º┘ä╪¬╪º┘ä┘è╪⌐') }, null, 2)); })(page);
+```
+### Page
+- Page URL: https://store.development.qawafel.dev/kan-kan-2?login=open
+- Page Title: ┘è╪│┘è╪│┘è
+- Console: 1 errors, 0 warnings
+### Events
+- New console entries: .playwright-cli\console-2026-04-21T13-46-24-102Z.log#L21
